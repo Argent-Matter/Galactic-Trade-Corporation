@@ -9,6 +9,7 @@ config/brandon3055/ResourceCache
 **/*.disabled
 **/*.jar.meta
 !mods/gtceu-fabric-1.19.2-1.0.2.jar
+Cat-Downloader.log
 
 # Optional: Generic Modpack Ignores
 **/*.log
