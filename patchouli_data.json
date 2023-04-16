@@ -1,0 +1,21 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "extended_drawers:guide": {
+      "viewedEntries": [
+        "extended_drawers:simple_networks",
+        "extended_drawers:mod_interoperability"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "botania:lexicon": {
+      "viewedEntries": [
+        "botania:basics/garden_of_glass"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}

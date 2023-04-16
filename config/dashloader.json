@@ -6,6 +6,7 @@
   "backgroundColor": "base1",
   "foregroundColor": "text",
   "colorVariables": {
+    "orange": "#fc9867",
     "purple": "#ab9df2",
     "red": "#ff6188",
     "base2": "#2d2a2e",
@@ -14,8 +15,7 @@
     "green": "#a9dc76",
     "blue": "#78dce8",
     "text": "#fcfcfa",
-    "yellow": "#ffd866",
-    "orange": "#fc9867"
+    "yellow": "#ffd866"
   },
   "progressBarHeight": 2,
   "progressBarSpeedDivision": 10,
@@ -39,5 +39,7 @@
     "red": 1
   },
   "customSplashLines": [],
+  "addDefaultSplashLines": true
+}": [],
   "addDefaultSplashLines": true
 }

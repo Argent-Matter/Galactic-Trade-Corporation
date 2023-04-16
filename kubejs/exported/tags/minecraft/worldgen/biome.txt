@@ -1,0 +1,1911 @@
+To refresh this file, delete it and run /reload command again! Last updated: Apr 16, 2023, 6:12:13 PM
+
+#minecraft:has_structure/nether_fortress
+- #minecraft:is_nether (from Default)
+
+#c:is_hot/overworld
+- minecraft:desert (from Porting Lib Tags)
+- minecraft:jungle (from Porting Lib Tags)
+- minecraft:sparse_jungle (from Porting Lib Tags)
+- minecraft:savanna (from Porting Lib Tags)
+- minecraft:savanna_plateau (from Porting Lib Tags)
+- minecraft:stony_peaks (from Porting Lib Tags)
+- minecraft:warm_ocean (from Porting Lib Tags)
+- minecraft:windswept_savanna (from Porting Lib Tags)
+- minecraft:eroded_badlands (from Porting Lib Tags)
+- minecraft:bamboo_jungle (from Porting Lib Tags)
+- minecraft:mangrove_swamp (from Porting Lib Tags)
+
+#c:is_cold/overworld
+- minecraft:taiga (from Porting Lib Tags)
+- minecraft:frozen_ocean (from Porting Lib Tags)
+- minecraft:frozen_river (from Porting Lib Tags)
+- minecraft:snowy_plains (from Porting Lib Tags)
+- minecraft:snowy_beach (from Porting Lib Tags)
+- minecraft:snowy_taiga (from Porting Lib Tags)
+- minecraft:old_growth_pine_taiga (from Porting Lib Tags)
+- minecraft:grove (from Porting Lib Tags)
+- minecraft:snowy_slopes (from Porting Lib Tags)
+- minecraft:jagged_peaks (from Porting Lib Tags)
+- minecraft:frozen_peaks (from Porting Lib Tags)
+- minecraft:cold_ocean (from Porting Lib Tags)
+- minecraft:deep_cold_ocean (from Porting Lib Tags)
+- minecraft:deep_frozen_ocean (from Porting Lib Tags)
+- minecraft:ice_spikes (from Porting Lib Tags)
+
+#minecraft:has_structure/mineshaft
+- #minecraft:is_ocean (from Default)
+- #minecraft:is_river (from Default)
+- #minecraft:is_beach (from Default)
+- #minecraft:is_mountain (from Default)
+- #minecraft:is_hill (from Default)
+- #minecraft:is_taiga (from Default)
+- #minecraft:is_jungle (from Default)
+- #minecraft:is_forest (from Default)
+- minecraft:stony_shore (from Default)
+- minecraft:mushroom_fields (from Default)
+- minecraft:ice_spikes (from Default)
+- minecraft:windswept_savanna (from Default)
+- minecraft:desert (from Default)
+- minecraft:savanna (from Default)
+- minecraft:snowy_plains (from Default)
+- minecraft:plains (from Default)
+- minecraft:sunflower_plains (from Default)
+- minecraft:swamp (from Default)
+- minecraft:mangrove_swamp (from Default)
+- minecraft:savanna_plateau (from Default)
+- minecraft:dripstone_caves (from Default)
+- minecraft:lush_caves (from Default)
+
+#croptopia:has_crop/coffee_beans
+- minecraft:jungle (from Croptopia)
+- minecraft:sparse_jungle (from Croptopia)
+- minecraft:bamboo_jungle (from Croptopia)
+- terralith:jungle_mountains? (from Croptopia)
+- terralith:rocky_jungle? (from Croptopia)
+- terralith:tropical_jungle? (from Croptopia)
+
+#botania:marimorphosis_forest_bonus
+- #c:forest (from Botania)
+
+#minecraft:has_structure/jungle_temple
+- minecraft:bamboo_jungle (from Default)
+- minecraft:jungle (from Default)
+
+#c:mushroom
+- minecraft:mushroom_fields (from Fabric Convention Tags)
+
+#croptopia:has_crop/oat
+- minecraft:plains (from Croptopia)
+- minecraft:sunflower_plains (from Croptopia)
+- terralith:blooming_plateau? (from Croptopia)
+- terralith:blooming_valley? (from Croptopia)
+- terralith:highlands? (from Croptopia)
+- terralith:steppe? (from Croptopia)
+- terralith:valley_clearing? (from Croptopia)
+
+#croptopia:has_crop/kiwi
+- minecraft:savanna (from Croptopia)
+- minecraft:savanna_plateau (from Croptopia)
+- minecraft:windswept_savanna (from Croptopia)
+- byg:araucaria_savanna? (from Croptopia)
+- byg:baobab_savanna? (from Croptopia)
+- terralith:arid_highlands? (from Croptopia)
+- terralith:blooming_plateau? (from Croptopia)
+- terralith:blooming_valley? (from Croptopia)
+- terralith:brushland? (from Croptopia)
+- terralith:fractured_savanna? (from Croptopia)
+- terralith:highlands? (from Croptopia)
+- terralith:savanna_badlands? (from Croptopia)
+- terralith:savanna_slopes? (from Croptopia)
+- terralith:steppe? (from Croptopia)
+- terralith:valley_clearing? (from Croptopia)
+
+#croptopia:has_crop/rice
+- minecraft:jungle (from Croptopia)
+- minecraft:sparse_jungle (from Croptopia)
+- minecraft:bamboo_jungle (from Croptopia)
+- terralith:amethyst_canyon? (from Croptopia)
+- terralith:amethyst_rainforest? (from Croptopia)
+- terralith:jungle_mountains? (from Croptopia)
+- terralith:rocky_jungle? (from Croptopia)
+- terralith:tropical_jungle? (from Croptopia)
+
+#c:mountain
+- #minecraft:is_mountain? (from Fabric Convention Tags)
+
+#minecraft:is_jungle
+- minecraft:bamboo_jungle (from Default)
+- minecraft:jungle (from Default)
+- minecraft:sparse_jungle (from Default)
+
+#c:is_hot
+- minecraft:mangrove_swamp (from Porting Lib Tags)
+- #c:is_hot/overworld (from Porting Lib Tags)
+- #c:is_hot/nether (from Porting Lib Tags)
+- #c:is_hot/end? (from Porting Lib Tags)
+
+#minecraft:is_ocean
+- #minecraft:is_deep_ocean (from Default)
+- minecraft:frozen_ocean (from Default)
+- minecraft:ocean (from Default)
+- minecraft:cold_ocean (from Default)
+- minecraft:lukewarm_ocean (from Default)
+- minecraft:warm_ocean (from Default)
+
+#c:is_water
+- #minecraft:is_ocean (from Porting Lib Tags)
+- #minecraft:is_river (from Porting Lib Tags)
+
+#ae2:has_meteorites
+- #c:in_overworld? (from Applied Energistics 2)
+
+#deeperdarker:has_structure/ancient_temple
+- deeperdarker:otherside_deeplands (from Deeper and Darker)
+
+#croptopia:has_crop/basil
+- minecraft:jungle (from Croptopia)
+- minecraft:sparse_jungle (from Croptopia)
+- minecraft:bamboo_jungle (from Croptopia)
+- terralith:jungle_mountains? (from Croptopia)
+- terralith:rocky_jungle? (from Croptopia)
+- terralith:tropical_jungle? (from Croptopia)
+
+#minecraft:has_structure/ocean_ruin_cold
+- minecraft:frozen_ocean (from Default)
+- minecraft:cold_ocean (from Default)
+- minecraft:ocean (from Default)
+- minecraft:deep_frozen_ocean (from Default)
+- minecraft:deep_cold_ocean (from Default)
+- minecraft:deep_ocean (from Default)
+
+#minecraft:produces_corals_from_bonemeal
+- minecraft:warm_ocean (from Default)
+
+#c:is_wasteland
+- minecraft:snowy_plains (from Porting Lib Tags)
+
+#minecraft:has_structure/stronghold
+- #minecraft:is_overworld (from Default)
+
+#croptopia:has_crop/strawberry
+- minecraft:forest (from Croptopia)
+- minecraft:flower_forest (from Croptopia)
+- minecraft:birch_forest (from Croptopia)
+- minecraft:dark_forest (from Croptopia)
+- minecraft:old_growth_birch_forest (from Croptopia)
+- minecraft:old_growth_pine_taiga (from Croptopia)
+- minecraft:old_growth_spruce_taiga (from Croptopia)
+- minecraft:taiga (from Croptopia)
+- minecraft:snowy_taiga (from Croptopia)
+- minecraft:grove (from Croptopia)
+- terralith:alpine_highlands? (from Croptopia)
+- terralith:birch_taiga? (from Croptopia)
+- terralith:blooming_plateau? (from Croptopia)
+- terralith:blooming_valley? (from Croptopia)
+- terralith:cloud_forest? (from Croptopia)
+- terralith:highlands? (from Croptopia)
+- terralith:lavender_forest? (from Croptopia)
+- terralith:lavender_valley? (from Croptopia)
+- terralith:moonlight_grove? (from Croptopia)
+- terralith:moonlight_valley? (from Croptopia)
+- terralith:steppe? (from Croptopia)
+- terralith:temperate_highlands? (from Croptopia)
+- terralith:valley_clearing? (from Croptopia)
+
+#apoli:category/beach
+- #minecraft:is_beach (from Apoli)
+
+#minecraft:has_structure/mineshaft_mesa
+- #minecraft:is_badlands (from Default)
+
+#minecraft:has_structure/ancient_city
+- minecraft:deep_dark (from Default)
+
+#minecraft:has_structure/shipwreck
+- #minecraft:is_ocean (from Default)
+
+#c:snowy_plains
+- minecraft:snowy_plains (from Fabric Convention Tags)
+
+#apoli:category/jungle
+- #minecraft:is_jungle (from Apoli)
+
+#c:vegetation_dense
+- #c:jungle? (from Fabric Convention Tags)
+- minecraft:sunflower_plains (from Fabric Convention Tags)
+
+#apoli:category/savanna
+- #minecraft:is_savanna (from Apoli)
+
+#c:is_hot/nether
+- minecraft:nether_wastes (from Porting Lib Tags)
+- minecraft:soul_sand_valley (from Porting Lib Tags)
+- minecraft:crimson_forest (from Porting Lib Tags)
+- minecraft:warped_forest (from Porting Lib Tags)
+- minecraft:basalt_deltas (from Porting Lib Tags)
+
+#minecraft:is_hill
+- minecraft:windswept_hills (from Default)
+- minecraft:windswept_forest (from Default)
+- minecraft:windswept_gravelly_hills (from Default)
+
+#croptopia:has_crop/cantaloupe
+- minecraft:forest (from Croptopia)
+- minecraft:flower_forest (from Croptopia)
+- minecraft:birch_forest (from Croptopia)
+- minecraft:dark_forest (from Croptopia)
+- minecraft:old_growth_birch_forest (from Croptopia)
+- minecraft:grove (from Croptopia)
+- byg:aspen_forest? (from Croptopia)
+- byg:borealis_grove? (from Croptopia)
+- byg:cherry_blossom_forest? (from Croptopia)
+- byg:cika_woods? (from Croptopia)
+- byg:ebony_woods? (from Croptopia)
+- byg:forgotten_forest? (from Croptopia)
+- byg:red_oak_forest? (from Croptopia)
+- byg:autumnal_forest? (from Croptopia)
+- byg:redwood_thicket? (from Croptopia)
+- byg:fragment_forest? (from Croptopia)
+- byg:twilight_meadow? (from Croptopia)
+- byg:weeping_witch_forest? (from Croptopia)
+- byg:temperate_rainforest? (from Croptopia)
+- terralith:birch_taiga? (from Croptopia)
+- terralith:cloud_forest? (from Croptopia)
+- terralith:lavender_forest? (from Croptopia)
+- terralith:lavender_valley? (from Croptopia)
+- terralith:moonlight_grove? (from Croptopia)
+- terralith:moonlight_valley? (from Croptopia)
+- terralith:temperate_highlands? (from Croptopia)
+
+#c:forest
+- #minecraft:is_forest? (from Fabric Convention Tags)
+
+#c:end_islands
+
+#croptopia:has_crop/tea_leaves
+- minecraft:forest (from Croptopia)
+- minecraft:flower_forest (from Croptopia)
+- minecraft:birch_forest (from Croptopia)
+- minecraft:dark_forest (from Croptopia)
+- minecraft:old_growth_birch_forest (from Croptopia)
+- minecraft:grove (from Croptopia)
+- terralith:birch_taiga? (from Croptopia)
+- terralith:cloud_forest? (from Croptopia)
+- terralith:lavender_forest? (from Croptopia)
+- terralith:lavender_valley? (from Croptopia)
+- terralith:moonlight_grove? (from Croptopia)
+- terralith:moonlight_valley? (from Croptopia)
+- terralith:temperate_highlands? (from Croptopia)
+
+#c:is_plateau
+- minecraft:savanna_plateau (from Porting Lib Tags)
+- minecraft:wooded_badlands (from Porting Lib Tags)
+- minecraft:meadow (from Porting Lib Tags)
+
+#c:dead
+
+#c:swamp
+- minecraft:mangrove_swamp (from Fabric Convention Tags)
+- minecraft:swamp (from Fabric Convention Tags)
+
+#c:in_overworld
+- #minecraft:is_overworld? (from Fabric Convention Tags)
+- minecraft:river (from Fabric Convention Tags)
+- minecraft:frozen_river (from Fabric Convention Tags)
+- minecraft:cold_ocean (from Fabric Convention Tags)
+- minecraft:deep_cold_ocean (from Fabric Convention Tags)
+- minecraft:deep_frozen_ocean (from Fabric Convention Tags)
+- minecraft:deep_ocean (from Fabric Convention Tags)
+- minecraft:deep_lukewarm_ocean (from Fabric Convention Tags)
+- minecraft:warm_ocean (from Fabric Convention Tags)
+- minecraft:lukewarm_ocean (from Fabric Convention Tags)
+- minecraft:frozen_ocean (from Fabric Convention Tags)
+- minecraft:ocean (from Fabric Convention Tags)
+- minecraft:beach (from Fabric Convention Tags)
+- minecraft:plains (from Fabric Convention Tags)
+- minecraft:sunflower_plains (from Fabric Convention Tags)
+- minecraft:snowy_plains (from Fabric Convention Tags)
+- minecraft:ice_spikes (from Fabric Convention Tags)
+- minecraft:desert (from Fabric Convention Tags)
+- minecraft:forest (from Fabric Convention Tags)
+- minecraft:flower_forest (from Fabric Convention Tags)
+- minecraft:birch_forest (from Fabric Convention Tags)
+- minecraft:dark_forest (from Fabric Convention Tags)
+- minecraft:old_growth_birch_forest (from Fabric Convention Tags)
+- minecraft:old_growth_pine_taiga (from Fabric Convention Tags)
+- minecraft:old_growth_spruce_taiga (from Fabric Convention Tags)
+- minecraft:taiga (from Fabric Convention Tags)
+- minecraft:snowy_taiga (from Fabric Convention Tags)
+- minecraft:savanna (from Fabric Convention Tags)
+- minecraft:savanna_plateau (from Fabric Convention Tags)
+- minecraft:windswept_hills (from Fabric Convention Tags)
+- minecraft:windswept_gravelly_hills (from Fabric Convention Tags)
+- minecraft:windswept_forest (from Fabric Convention Tags)
+- minecraft:windswept_savanna (from Fabric Convention Tags)
+- minecraft:jungle (from Fabric Convention Tags)
+- minecraft:sparse_jungle (from Fabric Convention Tags)
+- minecraft:bamboo_jungle (from Fabric Convention Tags)
+- minecraft:badlands (from Fabric Convention Tags)
+- minecraft:eroded_badlands (from Fabric Convention Tags)
+- minecraft:wooded_badlands (from Fabric Convention Tags)
+- minecraft:meadow (from Fabric Convention Tags)
+- minecraft:grove (from Fabric Convention Tags)
+- minecraft:snowy_slopes (from Fabric Convention Tags)
+- minecraft:frozen_peaks (from Fabric Convention Tags)
+- minecraft:jagged_peaks (from Fabric Convention Tags)
+- minecraft:stony_peaks (from Fabric Convention Tags)
+- minecraft:mushroom_fields (from Fabric Convention Tags)
+- minecraft:dripstone_caves (from Fabric Convention Tags)
+- minecraft:lush_caves (from Fabric Convention Tags)
+- minecraft:snowy_beach (from Fabric Convention Tags)
+- minecraft:swamp (from Fabric Convention Tags)
+- minecraft:stony_shore (from Fabric Convention Tags)
+- minecraft:deep_dark (from Fabric Convention Tags)
+- minecraft:mangrove_swamp (from Fabric Convention Tags)
+
+#c:tree_jungle
+- #c:jungle? (from Fabric Convention Tags)
+
+#croptopia:has_crop/spinach
+- minecraft:forest (from Croptopia)
+- minecraft:flower_forest (from Croptopia)
+- minecraft:birch_forest (from Croptopia)
+- minecraft:dark_forest (from Croptopia)
+- minecraft:old_growth_birch_forest (from Croptopia)
+- minecraft:grove (from Croptopia)
+- terralith:birch_taiga? (from Croptopia)
+- terralith:cloud_forest? (from Croptopia)
+- terralith:lavender_forest? (from Croptopia)
+- terralith:lavender_valley? (from Croptopia)
+- terralith:moonlight_grove? (from Croptopia)
+- terralith:moonlight_valley? (from Croptopia)
+- terralith:temperate_highlands? (from Croptopia)
+
+#botania:marimorphosis_desert_bonus
+- #c:desert (from Botania)
+- #c:savanna (from Botania)
+
+#minecraft:has_structure/ruined_portal_ocean
+- #minecraft:is_ocean (from Default)
+
+#c:river
+- #minecraft:is_river? (from Fabric Convention Tags)
+
+#minecraft:is_deep_ocean
+- minecraft:deep_frozen_ocean (from Default)
+- minecraft:deep_cold_ocean (from Default)
+- minecraft:deep_ocean (from Default)
+- minecraft:deep_lukewarm_ocean (from Default)
+
+#c:windswept
+- minecraft:windswept_hills (from Fabric Convention Tags)
+- minecraft:windswept_gravelly_hills (from Fabric Convention Tags)
+- minecraft:windswept_forest (from Fabric Convention Tags)
+- minecraft:windswept_savanna (from Fabric Convention Tags)
+
+#minecraft:is_nether
+- minecraft:nether_wastes (from Default)
+- minecraft:soul_sand_valley (from Default)
+- minecraft:crimson_forest (from Default)
+- minecraft:warped_forest (from Default)
+- minecraft:basalt_deltas (from Default)
+
+#powah:has_dry_ice
+- #c:icy? (from Powah!)
+- #forge:is_cold/overworld? (from Powah!)
+
+#c:climate_hot
+- #c:jungle? (from Fabric Convention Tags)
+- #c:savanna? (from Fabric Convention Tags)
+- #c:desert? (from Fabric Convention Tags)
+- #c:badlands? (from Fabric Convention Tags)
+- minecraft:stony_peaks (from Fabric Convention Tags)
+- #c:mushroom? (from Fabric Convention Tags)
+- #c:in_nether? (from Fabric Convention Tags)
+
+#c:is_sandy
+- minecraft:desert (from Porting Lib Tags)
+- minecraft:beach (from Porting Lib Tags)
+- minecraft:badlands (from Porting Lib Tags)
+- minecraft:wooded_badlands (from Porting Lib Tags)
+
+#c:desert
+- minecraft:desert (from Fabric Convention Tags)
+
+#c:is_plains
+- minecraft:plains (from Porting Lib Tags)
+- minecraft:snowy_plains (from Porting Lib Tags)
+- minecraft:meadow (from Porting Lib Tags)
+- minecraft:sunflower_plains (from Porting Lib Tags)
+
+#croptopia:has_crop/artichoke
+- minecraft:swamp (from Croptopia)
+- byg:bayou? (from Croptopia)
+- byg:cypress_swamplands? (from Croptopia)
+- byg:white_mangrove_marshes? (from Croptopia)
+- terralith:mirage_isles? (from Croptopia)
+- terralith:orchid_swamp? (from Croptopia)
+
+#c:shallow_ocean
+- minecraft:ocean (from Fabric Convention Tags)
+- minecraft:lukewarm_ocean (from Fabric Convention Tags)
+- minecraft:frozen_ocean (from Fabric Convention Tags)
+- minecraft:cold_ocean (from Fabric Convention Tags)
+- minecraft:warm_ocean (from Fabric Convention Tags)
+
+#croptopia:has_crop/ginger
+- minecraft:savanna (from Croptopia)
+- minecraft:savanna_plateau (from Croptopia)
+- minecraft:windswept_savanna (from Croptopia)
+- terralith:arid_highlands? (from Croptopia)
+- terralith:brushland? (from Croptopia)
+- terralith:fractured_savanna? (from Croptopia)
+- terralith:savanna_badlands? (from Croptopia)
+- terralith:savanna_slopes? (from Croptopia)
+
+#apoli:category/swamp
+- minecraft:swamp (from Apoli)
+
+#c:is_coniferous
+- minecraft:taiga (from Porting Lib Tags)
+- minecraft:snowy_taiga (from Porting Lib Tags)
+- minecraft:old_growth_pine_taiga (from Porting Lib Tags)
+- minecraft:grove (from Porting Lib Tags)
+
+#croptopia:has_crop/saguaro
+- minecraft:desert (from Croptopia)
+- byg:atacama_desert? (from Croptopia)
+- byg:windswept_dunes? (from Croptopia)
+- byg:windswept_desert? (from Croptopia)
+- byg:mojave_desert? (from Croptopia)
+- byg:red_rock_valley? (from Croptopia)
+- byg:firecracker_shrubland? (from Croptopia)
+- terralith:ancient_sands? (from Croptopia)
+- terralith:bryce_canyon? (from Croptopia)
+- terralith:desert_canyon? (from Croptopia)
+- terralith:desert_oasis? (from Croptopia)
+- terralith:desert_spires? (from Croptopia)
+- terralith:hot_shrubland? (from Croptopia)
+- terralith:painted_mountains? (from Croptopia)
+- terralith:red_oasis? (from Croptopia)
+- terralith:sandstone_valley? (from Croptopia)
+- terralith:warped_mesa? (from Croptopia)
+
+#c:is_rare
+- minecraft:mushroom_fields (from Porting Lib Tags)
+- minecraft:sparse_jungle (from Porting Lib Tags)
+- minecraft:savanna_plateau (from Porting Lib Tags)
+- minecraft:sunflower_plains (from Porting Lib Tags)
+- minecraft:windswept_gravelly_hills (from Porting Lib Tags)
+- minecraft:flower_forest (from Porting Lib Tags)
+- minecraft:ice_spikes (from Porting Lib Tags)
+- minecraft:old_growth_birch_forest (from Porting Lib Tags)
+- minecraft:old_growth_spruce_taiga (from Porting Lib Tags)
+- minecraft:windswept_savanna (from Porting Lib Tags)
+- minecraft:eroded_badlands (from Porting Lib Tags)
+- minecraft:bamboo_jungle (from Porting Lib Tags)
+- minecraft:deep_dark (from Porting Lib Tags)
+
+#c:is_snowy
+- minecraft:frozen_ocean (from Porting Lib Tags)
+- minecraft:frozen_river (from Porting Lib Tags)
+- minecraft:snowy_plains (from Porting Lib Tags)
+- minecraft:snowy_beach (from Porting Lib Tags)
+- minecraft:snowy_taiga (from Porting Lib Tags)
+- minecraft:grove (from Porting Lib Tags)
+- minecraft:snowy_slopes (from Porting Lib Tags)
+- minecraft:jagged_peaks (from Porting Lib Tags)
+- minecraft:frozen_peaks (from Porting Lib Tags)
+- minecraft:ice_spikes (from Porting Lib Tags)
+
+#croptopia:has_crop/bellpepper
+- minecraft:plains (from Croptopia)
+- minecraft:sunflower_plains (from Croptopia)
+- terralith:blooming_plateau? (from Croptopia)
+- terralith:blooming_valley? (from Croptopia)
+- terralith:highlands? (from Croptopia)
+- terralith:steppe? (from Croptopia)
+- terralith:valley_clearing? (from Croptopia)
+
+#croptopia:has_crop/yam
+- minecraft:savanna (from Croptopia)
+- minecraft:savanna_plateau (from Croptopia)
+- minecraft:windswept_savanna (from Croptopia)
+- terralith:arid_highlands? (from Croptopia)
+- terralith:brushland? (from Croptopia)
+- terralith:cold_shrubland? (from Croptopia)
+- terralith:fractured_savanna? (from Croptopia)
+- terralith:rocky_mountains? (from Croptopia)
+- terralith:sakura_grove? (from Croptopia)
+- terralith:sakura_valley? (from Croptopia)
+- terralith:savanna_badlands? (from Croptopia)
+- terralith:savanna_slopes? (from Croptopia)
+- terralith:scarlet_mountains? (from Croptopia)
+- terralith:shield? (from Croptopia)
+- terralith:shrubland? (from Croptopia)
+- terralith:wintry_forest? (from Croptopia)
+- terralith:wintry_lowlands? (from Croptopia)
+
+#c:tree_deciduous
+- minecraft:forest (from Fabric Convention Tags)
+- minecraft:windswept_forest (from Fabric Convention Tags)
+- minecraft:flower_forest (from Fabric Convention Tags)
+- minecraft:birch_forest (from Fabric Convention Tags)
+- minecraft:dark_forest (from Fabric Convention Tags)
+- minecraft:old_growth_birch_forest (from Fabric Convention Tags)
+
+#minecraft:more_frequent_drowned_spawns
+- #minecraft:is_river (from Default)
+
+#minecraft:has_structure/village_desert
+- minecraft:desert (from Default)
+
+#c:tree_savanna
+- #c:savanna? (from Fabric Convention Tags)
+
+#minecraft:is_forest
+- minecraft:forest (from Default)
+- minecraft:flower_forest (from Default)
+- minecraft:birch_forest (from Default)
+- minecraft:old_growth_birch_forest (from Default)
+- minecraft:dark_forest (from Default)
+- minecraft:grove (from Default)
+
+#ad_astra:has_structure/lunarian_village_biomes
+- ad_astra:lunar_wastelands (from Ad Astra)
+
+#c:icy
+- minecraft:frozen_peaks (from Fabric Convention Tags)
+- minecraft:ice_spikes (from Fabric Convention Tags)
+
+#c:stony_shores
+- minecraft:stony_shore (from Fabric Convention Tags)
+
+#apoli:category/plains
+- minecraft:plains (from Apoli)
+- minecraft:sunflower_plains (from Apoli)
+
+#minecraft:allows_tropical_fish_spawns_at_any_height
+- minecraft:lush_caves (from Default)
+
+#croptopia:has_crop/eggplant
+- minecraft:jungle (from Croptopia)
+- minecraft:sparse_jungle (from Croptopia)
+- minecraft:bamboo_jungle (from Croptopia)
+- terralith:jungle_mountains? (from Croptopia)
+- terralith:rocky_jungle? (from Croptopia)
+- terralith:tropical_jungle? (from Croptopia)
+
+#c:is_dry/overworld
+- minecraft:desert (from Porting Lib Tags)
+- minecraft:badlands (from Porting Lib Tags)
+- minecraft:wooded_badlands (from Porting Lib Tags)
+- minecraft:windswept_savanna (from Porting Lib Tags)
+- minecraft:eroded_badlands (from Porting Lib Tags)
+
+#croptopia:has_crop/greenonion
+- minecraft:jungle (from Croptopia)
+- minecraft:sparse_jungle (from Croptopia)
+- minecraft:bamboo_jungle (from Croptopia)
+- terralith:amethyst_canyon? (from Croptopia)
+- terralith:amethyst_rainforest? (from Croptopia)
+- terralith:jungle_mountains? (from Croptopia)
+- terralith:rocky_jungle? (from Croptopia)
+- terralith:tropical_jungle? (from Croptopia)
+
+#croptopia:has_crop/blackberry
+- minecraft:forest (from Croptopia)
+- minecraft:flower_forest (from Croptopia)
+- minecraft:birch_forest (from Croptopia)
+- minecraft:dark_forest (from Croptopia)
+- minecraft:old_growth_birch_forest (from Croptopia)
+- minecraft:old_growth_pine_taiga (from Croptopia)
+- minecraft:old_growth_spruce_taiga (from Croptopia)
+- minecraft:taiga (from Croptopia)
+- minecraft:snowy_taiga (from Croptopia)
+- minecraft:grove (from Croptopia)
+- byg:aspen_forest? (from Croptopia)
+- byg:black_forest? (from Croptopia)
+- byg:borealis_grove? (from Croptopia)
+- byg:cherry_blossom_forest? (from Croptopia)
+- byg:cika_woods? (from Croptopia)
+- byg:coniferous_forest? (from Croptopia)
+- byg:ebony_woods? (from Croptopia)
+- byg:forgotten_forest? (from Croptopia)
+- byg:maple_taiga? (from Croptopia)
+- byg:red_oak_forest? (from Croptopia)
+- byg:autumnal_forest? (from Croptopia)
+- byg:autumnal_taiga? (from Croptopia)
+- byg:redwood_thicket? (from Croptopia)
+- byg:frosted_taiga? (from Croptopia)
+- byg:frosted_coniferous_forest? (from Croptopia)
+- byg:fragment_forest? (from Croptopia)
+- byg:twilight_meadow? (from Croptopia)
+- byg:weeping_witch_forest? (from Croptopia)
+- byg:temperate_rainforest? (from Croptopia)
+- byg:zelkova_forest? (from Croptopia)
+- terralith:alpine_grove? (from Croptopia)
+- terralith:alpine_highlands? (from Croptopia)
+- terralith:birch_taiga? (from Croptopia)
+- terralith:cloud_forest? (from Croptopia)
+- terralith:forested_highlands? (from Croptopia)
+- terralith:lavender_forest? (from Croptopia)
+- terralith:lavender_valley? (from Croptopia)
+- terralith:lush_valley? (from Croptopia)
+- terralith:moonlight_grove? (from Croptopia)
+- terralith:moonlight_valley? (from Croptopia)
+- terralith:siberian_grove? (from Croptopia)
+- terralith:siberian_taiga? (from Croptopia)
+- terralith:snowy_maple_forest? (from Croptopia)
+- terralith:snowy_shield? (from Croptopia)
+- terralith:temperate_highlands? (from Croptopia)
+- terralith:yosemite_lowlands? (from Croptopia)
+
+#minecraft:polar_bears_spawn_on_alternate_blocks
+- minecraft:frozen_ocean (from Default)
+- minecraft:deep_frozen_ocean (from Default)
+
+#minecraft:has_structure/village_plains
+- minecraft:plains (from Default)
+- minecraft:meadow (from Default)
+
+#croptopia:has_crop/honeydew
+- minecraft:jungle (from Croptopia)
+- minecraft:sparse_jungle (from Croptopia)
+- minecraft:bamboo_jungle (from Croptopia)
+- terralith:jungle_mountains? (from Croptopia)
+- terralith:rocky_jungle? (from Croptopia)
+- terralith:tropical_jungle? (from Croptopia)
+
+#croptopia:has_crop/soybean
+- minecraft:plains (from Croptopia)
+- minecraft:sunflower_plains (from Croptopia)
+- terralith:blooming_plateau? (from Croptopia)
+- terralith:blooming_valley? (from Croptopia)
+- terralith:highlands? (from Croptopia)
+- terralith:steppe? (from Croptopia)
+- terralith:valley_clearing? (from Croptopia)
+
+#c:is_dry/nether
+- minecraft:nether_wastes (from Porting Lib Tags)
+- minecraft:soul_sand_valley (from Porting Lib Tags)
+- minecraft:crimson_forest (from Porting Lib Tags)
+- minecraft:warped_forest (from Porting Lib Tags)
+- minecraft:basalt_deltas (from Porting Lib Tags)
+
+#ad_astra:has_structure/mars_temple_biomes
+- ad_astra:martian_wastelands (from Ad Astra)
+- ad_astra:martian_canyon_creek (from Ad Astra)
+
+#c:ocean
+- #c:deep_ocean? (from Fabric Convention Tags)
+- #c:shallow_ocean? (from Fabric Convention Tags)
+- #minecraft:is_ocean? (from Fabric Convention Tags)
+
+#croptopia:has_crop/garlic
+- minecraft:jungle (from Croptopia)
+- minecraft:sparse_jungle (from Croptopia)
+- minecraft:bamboo_jungle (from Croptopia)
+- byg:crag_gardens? (from Croptopia)
+- byg:guiana_shield? (from Croptopia)
+- byg:jacaranda_forest? (from Croptopia)
+- byg:tropical_rainforest? (from Croptopia)
+- terralith:jungle_mountains? (from Croptopia)
+- terralith:rocky_jungle? (from Croptopia)
+- terralith:tropical_jungle? (from Croptopia)
+
+#croptopia:has_crop/mustard
+- minecraft:plains (from Croptopia)
+- minecraft:sunflower_plains (from Croptopia)
+- terralith:blooming_plateau? (from Croptopia)
+- terralith:blooming_valley? (from Croptopia)
+- terralith:highlands? (from Croptopia)
+- terralith:steppe? (from Croptopia)
+- terralith:valley_clearing? (from Croptopia)
+
+#ad_astra:has_structure/venus_bullet_biomes
+- ad_astra:venus_wastelands (from Ad Astra)
+
+#minecraft:has_structure/swamp_hut
+- minecraft:swamp (from Default)
+
+#c:is_dry
+- #c:is_dry/overworld (from Porting Lib Tags)
+- #c:is_dry/nether (from Porting Lib Tags)
+- #c:is_dry/end (from Porting Lib Tags)
+
+#croptopia:has_crop/barley
+- minecraft:plains (from Croptopia)
+- minecraft:sunflower_plains (from Croptopia)
+- minecraft:old_growth_pine_taiga (from Croptopia)
+- minecraft:old_growth_spruce_taiga (from Croptopia)
+- minecraft:taiga (from Croptopia)
+- minecraft:snowy_taiga (from Croptopia)
+- terralith:blooming_plateau? (from Croptopia)
+- terralith:blooming_valley? (from Croptopia)
+- terralith:highlands? (from Croptopia)
+- terralith:steppe? (from Croptopia)
+- terralith:valley_clearing? (from Croptopia)
+
+#c:is_cold
+- #c:is_cold/overworld (from Porting Lib Tags)
+- #c:is_cold/nether? (from Porting Lib Tags)
+- #c:is_cold/end (from Porting Lib Tags)
+
+#apoli:category/mountain
+- #minecraft:is_mountain (from Apoli)
+
+#minecraft:has_structure/ruined_portal_nether
+- #minecraft:is_nether (from Default)
+
+#minecraft:only_allows_snow_and_gold_rabbits
+- minecraft:desert (from Default)
+
+#croptopia:has_crop/squash
+- minecraft:old_growth_pine_taiga (from Croptopia)
+- minecraft:old_growth_spruce_taiga (from Croptopia)
+- minecraft:taiga (from Croptopia)
+- minecraft:snowy_taiga (from Croptopia)
+- minecraft:savanna (from Croptopia)
+- minecraft:savanna_plateau (from Croptopia)
+- minecraft:windswept_savanna (from Croptopia)
+- terralith:alpine_grove? (from Croptopia)
+- terralith:arid_highlands? (from Croptopia)
+- terralith:brushland? (from Croptopia)
+- terralith:cold_shrubland? (from Croptopia)
+- terralith:forested_highlands? (from Croptopia)
+- terralith:fractured_savanna? (from Croptopia)
+- terralith:lush_valley? (from Croptopia)
+- terralith:rocky_mountains? (from Croptopia)
+- terralith:sakura_grove? (from Croptopia)
+- terralith:sakura_valley? (from Croptopia)
+- terralith:savanna_badlands? (from Croptopia)
+- terralith:savanna_slopes? (from Croptopia)
+- terralith:scarlet_mountains? (from Croptopia)
+- terralith:shield? (from Croptopia)
+- terralith:shrubland? (from Croptopia)
+- terralith:siberian_grove? (from Croptopia)
+- terralith:siberian_taiga? (from Croptopia)
+- terralith:snowy_maple_forest? (from Croptopia)
+- terralith:snowy_shield? (from Croptopia)
+- terralith:wintry_forest? (from Croptopia)
+- terralith:wintry_lowlands? (from Croptopia)
+- terralith:yosemite_lowlands? (from Croptopia)
+
+#minecraft:stronghold_biased_to
+- minecraft:plains (from Default)
+- minecraft:sunflower_plains (from Default)
+- minecraft:snowy_plains (from Default)
+- minecraft:ice_spikes (from Default)
+- minecraft:desert (from Default)
+- minecraft:forest (from Default)
+- minecraft:flower_forest (from Default)
+- minecraft:birch_forest (from Default)
+- minecraft:dark_forest (from Default)
+- minecraft:old_growth_birch_forest (from Default)
+- minecraft:old_growth_pine_taiga (from Default)
+- minecraft:old_growth_spruce_taiga (from Default)
+- minecraft:taiga (from Default)
+- minecraft:snowy_taiga (from Default)
+- minecraft:savanna (from Default)
+- minecraft:savanna_plateau (from Default)
+- minecraft:windswept_hills (from Default)
+- minecraft:windswept_gravelly_hills (from Default)
+- minecraft:windswept_forest (from Default)
+- minecraft:windswept_savanna (from Default)
+- minecraft:jungle (from Default)
+- minecraft:sparse_jungle (from Default)
+- minecraft:bamboo_jungle (from Default)
+- minecraft:badlands (from Default)
+- minecraft:eroded_badlands (from Default)
+- minecraft:wooded_badlands (from Default)
+- minecraft:meadow (from Default)
+- minecraft:grove (from Default)
+- minecraft:snowy_slopes (from Default)
+- minecraft:frozen_peaks (from Default)
+- minecraft:jagged_peaks (from Default)
+- minecraft:stony_peaks (from Default)
+- minecraft:mushroom_fields (from Default)
+- minecraft:dripstone_caves (from Default)
+- minecraft:lush_caves (from Default)
+
+#c:is_peak
+- minecraft:jagged_peaks (from Porting Lib Tags)
+- minecraft:frozen_peaks (from Porting Lib Tags)
+- minecraft:stony_peaks (from Porting Lib Tags)
+
+#minecraft:is_beach
+- minecraft:beach (from Default)
+- minecraft:snowy_beach (from Default)
+
+#minecraft:has_structure/ruined_portal_standard
+- #minecraft:is_beach (from Default)
+- #minecraft:is_river (from Default)
+- #minecraft:is_taiga (from Default)
+- #minecraft:is_forest (from Default)
+- minecraft:mushroom_fields (from Default)
+- minecraft:ice_spikes (from Default)
+- minecraft:dripstone_caves (from Default)
+- minecraft:lush_caves (from Default)
+- minecraft:savanna (from Default)
+- minecraft:snowy_plains (from Default)
+- minecraft:plains (from Default)
+- minecraft:sunflower_plains (from Default)
+
+#minecraft:has_structure/pillager_outpost
+- minecraft:desert (from Default)
+- minecraft:plains (from Default)
+- minecraft:savanna (from Default)
+- minecraft:snowy_plains (from Default)
+- minecraft:taiga (from Default)
+- #minecraft:is_mountain (from Default)
+- minecraft:grove (from Default)
+
+#c:birch_forest
+- minecraft:birch_forest (from Fabric Convention Tags)
+- minecraft:old_growth_birch_forest (from Fabric Convention Tags)
+
+#botania:mystical_flower_spawnlist
+- #minecraft:is_overworld (from Botania)
+
+#c:is_dense/overworld
+- minecraft:jungle (from Porting Lib Tags)
+- minecraft:dark_forest (from Porting Lib Tags)
+- minecraft:old_growth_birch_forest (from Porting Lib Tags)
+- minecraft:old_growth_spruce_taiga (from Porting Lib Tags)
+
+#croptopia:has_crop/peanut
+- minecraft:jungle (from Croptopia)
+- minecraft:sparse_jungle (from Croptopia)
+- minecraft:bamboo_jungle (from Croptopia)
+- byg:crag_gardens? (from Croptopia)
+- byg:guiana_shield? (from Croptopia)
+- byg:jacaranda_forest? (from Croptopia)
+- byg:tropical_rainforest? (from Croptopia)
+- terralith:jungle_mountains? (from Croptopia)
+- terralith:rocky_jungle? (from Croptopia)
+- terralith:tropical_jungle? (from Croptopia)
+
+#minecraft:is_mountain
+- minecraft:meadow (from Default)
+- minecraft:frozen_peaks (from Default)
+- minecraft:jagged_peaks (from Default)
+- minecraft:stony_peaks (from Default)
+- minecraft:snowy_slopes (from Default)
+
+#c:plains
+- minecraft:sunflower_plains (from Fabric Convention Tags)
+- minecraft:plains (from Fabric Convention Tags)
+
+#apoli:category/none
+- minecraft:the_void (from Apoli)
+
+#minecraft:is_badlands
+- minecraft:badlands (from Default)
+- minecraft:eroded_badlands (from Default)
+- minecraft:wooded_badlands (from Default)
+
+#croptopia:has_crop/celery
+- minecraft:forest (from Croptopia)
+- minecraft:flower_forest (from Croptopia)
+- minecraft:birch_forest (from Croptopia)
+- minecraft:dark_forest (from Croptopia)
+- minecraft:old_growth_birch_forest (from Croptopia)
+- minecraft:grove (from Croptopia)
+- byg:aspen_forest? (from Croptopia)
+- byg:borealis_grove? (from Croptopia)
+- byg:cherry_blossom_forest? (from Croptopia)
+- byg:cika_woods? (from Croptopia)
+- byg:ebony_woods? (from Croptopia)
+- byg:forgotten_forest? (from Croptopia)
+- byg:red_oak_forest? (from Croptopia)
+- byg:autumnal_forest? (from Croptopia)
+- byg:redwood_thicket? (from Croptopia)
+- byg:fragment_forest? (from Croptopia)
+- byg:twilight_meadow? (from Croptopia)
+- byg:weeping_witch_forest? (from Croptopia)
+- byg:temperate_rainforest? (from Croptopia)
+- terralith:birch_taiga? (from Croptopia)
+- terralith:cloud_forest? (from Croptopia)
+- terralith:lavender_forest? (from Croptopia)
+- terralith:lavender_valley? (from Croptopia)
+- terralith:moonlight_grove? (from Croptopia)
+- terralith:moonlight_valley? (from Croptopia)
+- terralith:temperate_highlands? (from Croptopia)
+
+#c:climate_temperate
+- minecraft:forest (from Fabric Convention Tags)
+- minecraft:sunflower_plains (from Fabric Convention Tags)
+- minecraft:swamp (from Fabric Convention Tags)
+- minecraft:stony_shore (from Fabric Convention Tags)
+- minecraft:dark_forest (from Fabric Convention Tags)
+- minecraft:windswept_forest (from Fabric Convention Tags)
+- minecraft:birch_forest (from Fabric Convention Tags)
+- minecraft:old_growth_birch_forest (from Fabric Convention Tags)
+- minecraft:meadow (from Fabric Convention Tags)
+- minecraft:plains (from Fabric Convention Tags)
+
+#c:aquatic
+- #c:ocean? (from Fabric Convention Tags)
+- #c:river? (from Fabric Convention Tags)
+
+#c:aquatic_icy
+- minecraft:frozen_river (from Fabric Convention Tags)
+- minecraft:deep_frozen_ocean (from Fabric Convention Tags)
+- minecraft:frozen_ocean (from Fabric Convention Tags)
+
+#minecraft:has_structure/nether_fossil
+- minecraft:soul_sand_valley (from Default)
+- minecraft:soul_sand_valley (from Deeper and Darker)
+- deeperdarker:otherside_deeplands (from Deeper and Darker)
+
+#c:is_sparse
+- #c:is_sparse/overworld (from Porting Lib Tags)
+- #c:is_sparse/nether? (from Porting Lib Tags)
+- #c:is_sparse/end? (from Porting Lib Tags)
+
+#c:vegetation_sparse
+- #c:savanna? (from Fabric Convention Tags)
+- #c:desert? (from Fabric Convention Tags)
+- #c:dead? (from Fabric Convention Tags)
+- minecraft:lush_caves (from Fabric Convention Tags)
+- #c:wasteland? (from Fabric Convention Tags)
+
+#minecraft:has_structure/end_city
+- minecraft:end_highlands (from Default)
+- minecraft:end_midlands (from Default)
+
+#croptopia:has_crop/grape
+- minecraft:forest (from Croptopia)
+- minecraft:flower_forest (from Croptopia)
+- minecraft:birch_forest (from Croptopia)
+- minecraft:dark_forest (from Croptopia)
+- minecraft:old_growth_birch_forest (from Croptopia)
+- minecraft:grove (from Croptopia)
+- terralith:birch_taiga? (from Croptopia)
+- terralith:cloud_forest? (from Croptopia)
+- terralith:lavender_forest? (from Croptopia)
+- terralith:lavender_valley? (from Croptopia)
+- terralith:moonlight_grove? (from Croptopia)
+- terralith:moonlight_valley? (from Croptopia)
+- terralith:temperate_highlands? (from Croptopia)
+
+#c:beach
+- #minecraft:is_beach? (from Fabric Convention Tags)
+- minecraft:stony_shore (from Fabric Convention Tags)
+
+#c:extreme_hills
+- minecraft:windswept_gravelly_hills (from Fabric Convention Tags)
+- minecraft:windswept_hills (from Fabric Convention Tags)
+
+#c:is_swamp
+- minecraft:swamp (from Porting Lib Tags)
+- minecraft:mangrove_swamp (from Porting Lib Tags)
+
+#minecraft:has_structure/bastion_remnant
+- minecraft:crimson_forest (from Default)
+- minecraft:nether_wastes (from Default)
+- minecraft:soul_sand_valley (from Default)
+- minecraft:warped_forest (from Default)
+
+#c:is_dry/end
+- minecraft:the_end (from Porting Lib Tags)
+- minecraft:small_end_islands (from Porting Lib Tags)
+- minecraft:end_midlands (from Porting Lib Tags)
+- minecraft:end_highlands (from Porting Lib Tags)
+- minecraft:end_barrens (from Porting Lib Tags)
+
+#minecraft:has_structure/ruined_portal_mountain
+- #minecraft:is_badlands (from Default)
+- #minecraft:is_hill (from Default)
+- minecraft:savanna_plateau (from Default)
+- minecraft:windswept_savanna (from Default)
+- minecraft:stony_shore (from Default)
+- #minecraft:is_mountain (from Default)
+
+#croptopia:has_crop/raspberry
+- minecraft:forest (from Croptopia)
+- minecraft:flower_forest (from Croptopia)
+- minecraft:birch_forest (from Croptopia)
+- minecraft:dark_forest (from Croptopia)
+- minecraft:old_growth_birch_forest (from Croptopia)
+- minecraft:old_growth_pine_taiga (from Croptopia)
+- minecraft:old_growth_spruce_taiga (from Croptopia)
+- minecraft:taiga (from Croptopia)
+- minecraft:snowy_taiga (from Croptopia)
+- minecraft:grove (from Croptopia)
+- byg:aspen_forest? (from Croptopia)
+- byg:black_forest? (from Croptopia)
+- byg:borealis_grove? (from Croptopia)
+- byg:cherry_blossom_forest? (from Croptopia)
+- byg:cika_woods? (from Croptopia)
+- byg:coniferous_forest? (from Croptopia)
+- byg:ebony_woods? (from Croptopia)
+- byg:forgotten_forest? (from Croptopia)
+- byg:maple_taiga? (from Croptopia)
+- byg:red_oak_forest? (from Croptopia)
+- byg:autumnal_forest? (from Croptopia)
+- byg:autumnal_taiga? (from Croptopia)
+- byg:redwood_thicket? (from Croptopia)
+- byg:frosted_taiga? (from Croptopia)
+- byg:frosted_coniferous_forest? (from Croptopia)
+- byg:fragment_forest? (from Croptopia)
+- byg:twilight_meadow? (from Croptopia)
+- byg:weeping_witch_forest? (from Croptopia)
+- byg:temperate_rainforest? (from Croptopia)
+- byg:zelkova_forest? (from Croptopia)
+- terralith:birch_taiga? (from Croptopia)
+- terralith:cloud_forest? (from Croptopia)
+- terralith:lavender_forest? (from Croptopia)
+- terralith:lavender_valley? (from Croptopia)
+- terralith:moonlight_grove? (from Croptopia)
+- terralith:moonlight_valley? (from Croptopia)
+- terralith:temperate_highlands? (from Croptopia)
+
+#c:climate_wet
+- #c:aquatic? (from Fabric Convention Tags)
+- #c:swamp? (from Fabric Convention Tags)
+- minecraft:lush_caves (from Fabric Convention Tags)
+- #c:jungle? (from Fabric Convention Tags)
+
+#croptopia:has_crop/chile_pepper
+- minecraft:plains (from Croptopia)
+- minecraft:sunflower_plains (from Croptopia)
+
+#minecraft:water_on_map_outlines
+- #minecraft:is_ocean (from Default)
+- #minecraft:is_river (from Default)
+- minecraft:swamp (from Default)
+- minecraft:mangrove_swamp (from Default)
+
+#minecraft:is_river
+- minecraft:river (from Default)
+- minecraft:frozen_river (from Default)
+
+#croptopia:has_crop/turnip
+- minecraft:jungle (from Croptopia)
+- minecraft:sparse_jungle (from Croptopia)
+- minecraft:bamboo_jungle (from Croptopia)
+- byg:crag_gardens? (from Croptopia)
+- byg:guiana_shield? (from Croptopia)
+- byg:jacaranda_forest? (from Croptopia)
+- byg:tropical_rainforest? (from Croptopia)
+- terralith:jungle_mountains? (from Croptopia)
+- terralith:rocky_jungle? (from Croptopia)
+- terralith:tropical_jungle? (from Croptopia)
+
+#c:nether_forests
+- minecraft:warped_forest (from Fabric Convention Tags)
+- minecraft:crimson_forest (from Fabric Convention Tags)
+
+#croptopia:has_crop/tomato
+- minecraft:forest (from Croptopia)
+- minecraft:flower_forest (from Croptopia)
+- minecraft:birch_forest (from Croptopia)
+- minecraft:dark_forest (from Croptopia)
+- minecraft:old_growth_birch_forest (from Croptopia)
+- minecraft:grove (from Croptopia)
+- terralith:birch_taiga? (from Croptopia)
+- terralith:cloud_forest? (from Croptopia)
+- terralith:lavender_forest? (from Croptopia)
+- terralith:lavender_valley? (from Croptopia)
+- terralith:moonlight_grove? (from Croptopia)
+- terralith:moonlight_valley? (from Croptopia)
+- terralith:temperate_highlands? (from Croptopia)
+
+#croptopia:has_crop/cucumber
+- minecraft:plains (from Croptopia)
+- minecraft:sunflower_plains (from Croptopia)
+- byg:allium_fields? (from Croptopia)
+- byg:amaranth_fields? (from Croptopia)
+- byg:autumnal_valley? (from Croptopia)
+- byg:temperate_grove? (from Croptopia)
+- byg:coconino_meadow? (from Croptopia)
+- byg:orchard? (from Croptopia)
+- byg:prairie? (from Croptopia)
+- byg:rose_fields? (from Croptopia)
+- byg:sierra_badlands? (from Croptopia)
+- terralith:blooming_plateau? (from Croptopia)
+- terralith:blooming_valley? (from Croptopia)
+- terralith:highlands? (from Croptopia)
+- terralith:steppe? (from Croptopia)
+- terralith:valley_clearing? (from Croptopia)
+
+#botania:marimorphosis_mountain_bonus
+- #c:mountain (from Botania)
+
+#c:in_nether
+- #minecraft:is_nether? (from Fabric Convention Tags)
+- minecraft:crimson_forest (from Fabric Convention Tags)
+- minecraft:warped_forest (from Fabric Convention Tags)
+- minecraft:nether_wastes (from Fabric Convention Tags)
+- minecraft:soul_sand_valley (from Fabric Convention Tags)
+- minecraft:basalt_deltas (from Fabric Convention Tags)
+
+#c:tree_coniferous
+- minecraft:grove (from Fabric Convention Tags)
+- #c:taiga? (from Fabric Convention Tags)
+
+#c:savanna
+- #minecraft:is_savanna? (from Fabric Convention Tags)
+- minecraft:savanna_plateau (from Fabric Convention Tags)
+- minecraft:windswept_savanna (from Fabric Convention Tags)
+- minecraft:savanna (from Fabric Convention Tags)
+
+#ad_astra:has_structure/pygro_village_biomes
+- ad_astra:venus_wastelands (from Ad Astra)
+
+#c:is_wet/overworld
+- minecraft:swamp (from Porting Lib Tags)
+- minecraft:jungle (from Porting Lib Tags)
+- minecraft:sparse_jungle (from Porting Lib Tags)
+- minecraft:beach (from Porting Lib Tags)
+- minecraft:bamboo_jungle (from Porting Lib Tags)
+- minecraft:lush_caves (from Porting Lib Tags)
+- minecraft:mangrove_swamp (from Porting Lib Tags)
+
+#croptopia:has_crop/corn
+- minecraft:plains (from Croptopia)
+- minecraft:sunflower_plains (from Croptopia)
+- byg:allium_fields? (from Croptopia)
+- byg:amaranth_fields? (from Croptopia)
+- byg:autumnal_valley? (from Croptopia)
+- byg:temperate_grove? (from Croptopia)
+- byg:coconino_meadow? (from Croptopia)
+- byg:orchard? (from Croptopia)
+- byg:prairie? (from Croptopia)
+- byg:rose_fields? (from Croptopia)
+- byg:sierra_badlands? (from Croptopia)
+- terralith:blooming_plateau? (from Croptopia)
+- terralith:blooming_valley? (from Croptopia)
+- terralith:cold_shrubland? (from Croptopia)
+- terralith:highlands? (from Croptopia)
+- terralith:rocky_mountains? (from Croptopia)
+- terralith:sakura_grove? (from Croptopia)
+- terralith:sakura_valley? (from Croptopia)
+- terralith:scarlet_mountains? (from Croptopia)
+- terralith:shield? (from Croptopia)
+- terralith:shrubland? (from Croptopia)
+- terralith:steppe? (from Croptopia)
+- terralith:valley_clearing? (from Croptopia)
+- terralith:wintry_forest? (from Croptopia)
+- terralith:wintry_lowlands? (from Croptopia)
+
+#ad_astra:has_structure/moon_dungeon_biomes
+- ad_astra:lunar_wastelands (from Ad Astra)
+
+#ad_astra:has_structure/pygro_tower_biomes
+- ad_astra:venus_wastelands (from Ad Astra)
+
+#c:caves
+- minecraft:deep_dark (from Fabric Convention Tags)
+- minecraft:dripstone_caves (from Fabric Convention Tags)
+- minecraft:lush_caves (from Fabric Convention Tags)
+
+#c:floral
+- minecraft:sunflower_plains (from Fabric Convention Tags)
+- minecraft:flower_forest (from Fabric Convention Tags)
+
+#apoli:category/icy
+- minecraft:ice_spikes (from Apoli)
+- minecraft:snowy_plains (from Apoli)
+
+#minecraft:has_structure/buried_treasure
+- #minecraft:is_beach (from Default)
+
+#c:is_mountain
+- #c:is_peak (from Porting Lib Tags)
+- #c:is_slope (from Porting Lib Tags)
+
+#croptopia:has_crop/vanilla
+- minecraft:jungle (from Croptopia)
+- minecraft:sparse_jungle (from Croptopia)
+- minecraft:bamboo_jungle (from Croptopia)
+- terralith:amethyst_canyon? (from Croptopia)
+- terralith:amethyst_rainforest? (from Croptopia)
+- terralith:jungle_mountains? (from Croptopia)
+- terralith:rocky_jungle? (from Croptopia)
+- terralith:tropical_jungle? (from Croptopia)
+
+#croptopia:has_crop/sweetpotato
+- minecraft:plains (from Croptopia)
+- minecraft:sunflower_plains (from Croptopia)
+- terralith:cold_shrubland? (from Croptopia)
+- terralith:rocky_mountains? (from Croptopia)
+- terralith:sakura_grove? (from Croptopia)
+- terralith:sakura_valley? (from Croptopia)
+- terralith:scarlet_mountains? (from Croptopia)
+- terralith:shield? (from Croptopia)
+- terralith:shrubland? (from Croptopia)
+- terralith:wintry_forest? (from Croptopia)
+- terralith:wintry_lowlands? (from Croptopia)
+
+#c:badlands
+- #c:mesa? (from Fabric Convention Tags)
+- #minecraft:is_badlands? (from Fabric Convention Tags)
+
+#apoli:category/taiga
+- #minecraft:is_taiga (from Apoli)
+
+#apoli:category/mesa
+- #minecraft:is_badlands (from Apoli)
+
+#c:underground
+- #c:caves? (from Fabric Convention Tags)
+
+#c:is_slope
+- minecraft:savanna_plateau (from Porting Lib Tags)
+- minecraft:wooded_badlands (from Porting Lib Tags)
+- minecraft:meadow (from Porting Lib Tags)
+- minecraft:grove (from Porting Lib Tags)
+- minecraft:snowy_slopes (from Porting Lib Tags)
+
+#minecraft:is_savanna
+- minecraft:savanna (from Default)
+- minecraft:savanna_plateau (from Default)
+- minecraft:windswept_savanna (from Default)
+
+#croptopia:has_crop/rutabaga
+- minecraft:old_growth_pine_taiga (from Croptopia)
+- minecraft:old_growth_spruce_taiga (from Croptopia)
+- minecraft:taiga (from Croptopia)
+- minecraft:snowy_taiga (from Croptopia)
+- minecraft:savanna (from Croptopia)
+- minecraft:savanna_plateau (from Croptopia)
+- minecraft:windswept_savanna (from Croptopia)
+- byg:araucaria_savanna? (from Croptopia)
+- byg:baobab_savanna? (from Croptopia)
+- byg:black_forest? (from Croptopia)
+- byg:coniferous_forest? (from Croptopia)
+- byg:maple_taiga? (from Croptopia)
+- byg:autumnal_taiga? (from Croptopia)
+- byg:frosted_taiga? (from Croptopia)
+- byg:frosted_coniferous_forest? (from Croptopia)
+- byg:zelkova_forest? (from Croptopia)
+- terralith:arid_highlands? (from Croptopia)
+- terralith:brushland? (from Croptopia)
+- terralith:fractured_savanna? (from Croptopia)
+- terralith:savanna_badlands? (from Croptopia)
+- terralith:savanna_slopes? (from Croptopia)
+
+#c:jungle
+- #minecraft:is_jungle? (from Fabric Convention Tags)
+
+#croptopia:has_crop/cauliflower
+- minecraft:forest (from Croptopia)
+- minecraft:flower_forest (from Croptopia)
+- minecraft:birch_forest (from Croptopia)
+- minecraft:dark_forest (from Croptopia)
+- minecraft:old_growth_birch_forest (from Croptopia)
+- minecraft:grove (from Croptopia)
+- terralith:birch_taiga? (from Croptopia)
+- terralith:cloud_forest? (from Croptopia)
+- terralith:lavender_forest? (from Croptopia)
+- terralith:lavender_valley? (from Croptopia)
+- terralith:moonlight_grove? (from Croptopia)
+- terralith:moonlight_valley? (from Croptopia)
+- terralith:temperate_highlands? (from Croptopia)
+
+#minecraft:has_structure/igloo
+- minecraft:snowy_taiga (from Default)
+- minecraft:snowy_plains (from Default)
+- minecraft:snowy_slopes (from Default)
+
+#c:wasteland
+
+#minecraft:has_structure/shipwreck_beached
+- #minecraft:is_beach (from Default)
+
+#croptopia:has_crop/cranberry
+- minecraft:swamp (from Croptopia)
+- terralith:mirage_isles? (from Croptopia)
+- terralith:orchid_swamp? (from Croptopia)
+
+#croptopia:has_crop/greenbean
+- minecraft:plains (from Croptopia)
+- minecraft:sunflower_plains (from Croptopia)
+- byg:allium_fields? (from Croptopia)
+- byg:amaranth_fields? (from Croptopia)
+- byg:autumnal_valley? (from Croptopia)
+- byg:temperate_grove? (from Croptopia)
+- byg:coconino_meadow? (from Croptopia)
+- byg:orchard? (from Croptopia)
+- byg:prairie? (from Croptopia)
+- byg:rose_fields? (from Croptopia)
+- byg:sierra_badlands? (from Croptopia)
+- terralith:blooming_plateau? (from Croptopia)
+- terralith:blooming_valley? (from Croptopia)
+- terralith:highlands? (from Croptopia)
+- terralith:steppe? (from Croptopia)
+- terralith:valley_clearing? (from Croptopia)
+
+#minecraft:allows_surface_slime_spawns
+- minecraft:swamp (from Default)
+- minecraft:mangrove_swamp (from Default)
+
+#c:deep_ocean
+- minecraft:deep_frozen_ocean (from Fabric Convention Tags)
+- minecraft:deep_lukewarm_ocean (from Fabric Convention Tags)
+- minecraft:deep_cold_ocean (from Fabric Convention Tags)
+- minecraft:deep_ocean (from Fabric Convention Tags)
+
+#c:is_dense
+- #c:is_dense/overworld (from Porting Lib Tags)
+- #c:is_dense/nether? (from Porting Lib Tags)
+- #c:is_dense/end? (from Porting Lib Tags)
+
+#minecraft:required_ocean_monument_surrounding
+- #minecraft:is_ocean (from Default)
+- #minecraft:is_river (from Default)
+
+#apoli:category/extreme_hills
+- #minecraft:is_hill (from Apoli)
+
+#c:is_cold/end
+- minecraft:the_end (from Porting Lib Tags)
+- minecraft:small_end_islands (from Porting Lib Tags)
+- minecraft:end_midlands (from Porting Lib Tags)
+- minecraft:end_highlands (from Porting Lib Tags)
+- minecraft:end_barrens (from Porting Lib Tags)
+
+#croptopia:has_crop/rhubarb
+- minecraft:jungle (from Croptopia)
+- minecraft:sparse_jungle (from Croptopia)
+- minecraft:bamboo_jungle (from Croptopia)
+- byg:crag_gardens? (from Croptopia)
+- byg:guiana_shield? (from Croptopia)
+- byg:jacaranda_forest? (from Croptopia)
+- byg:tropical_rainforest? (from Croptopia)
+- terralith:jungle_mountains? (from Croptopia)
+- terralith:rocky_jungle? (from Croptopia)
+- terralith:tropical_jungle? (from Croptopia)
+
+#minecraft:has_structure/ocean_monument
+- #minecraft:is_deep_ocean (from Default)
+
+#c:is_wet
+- minecraft:mangrove_swamp (from Porting Lib Tags)
+- #c:is_wet/overworld (from Porting Lib Tags)
+- #c:is_wet/nether? (from Porting Lib Tags)
+- #c:is_wet/end? (from Porting Lib Tags)
+
+#minecraft:has_structure/ruined_portal_jungle
+- #minecraft:is_jungle (from Default)
+
+#c:climate_cold
+- minecraft:snowy_plains (from Fabric Convention Tags)
+- minecraft:grove (from Fabric Convention Tags)
+- minecraft:jagged_peaks (from Fabric Convention Tags)
+- minecraft:taiga (from Fabric Convention Tags)
+- minecraft:snowy_taiga (from Fabric Convention Tags)
+- minecraft:old_growth_spruce_taiga (from Fabric Convention Tags)
+- minecraft:old_growth_pine_taiga (from Fabric Convention Tags)
+- #c:icy? (from Fabric Convention Tags)
+
+#apoli:category/underground
+- minecraft:dripstone_caves (from Apoli)
+- minecraft:lush_caves (from Apoli)
+
+#minecraft:plays_underwater_music
+- #minecraft:is_ocean (from Default)
+- #minecraft:is_river (from Default)
+
+#minecraft:has_structure/desert_pyramid
+- minecraft:desert (from Default)
+
+#apoli:category/ocean
+- #minecraft:is_ocean (from Apoli)
+
+#botania:mystical_flower_blocklist
+- #forge:is_mushroom? (from Botania)
+- #c:mushroom? (from Botania)
+
+#c:in_the_end
+- #minecraft:is_end? (from Fabric Convention Tags)
+- minecraft:end_barrens (from Fabric Convention Tags)
+- minecraft:end_midlands (from Fabric Convention Tags)
+- minecraft:end_highlands (from Fabric Convention Tags)
+- minecraft:the_end (from Fabric Convention Tags)
+- minecraft:small_end_islands (from Fabric Convention Tags)
+
+#croptopia:has_crop/kale
+- minecraft:plains (from Croptopia)
+- minecraft:sunflower_plains (from Croptopia)
+- byg:allium_fields? (from Croptopia)
+- byg:amaranth_fields? (from Croptopia)
+- byg:autumnal_valley? (from Croptopia)
+- byg:temperate_grove? (from Croptopia)
+- byg:coconino_meadow? (from Croptopia)
+- byg:orchard? (from Croptopia)
+- byg:prairie? (from Croptopia)
+- byg:rose_fields? (from Croptopia)
+- byg:sierra_badlands? (from Croptopia)
+
+#croptopia:has_crop/hops
+- minecraft:savanna (from Croptopia)
+- minecraft:savanna_plateau (from Croptopia)
+- minecraft:windswept_savanna (from Croptopia)
+- terralith:arid_highlands? (from Croptopia)
+- terralith:brushland? (from Croptopia)
+- terralith:fractured_savanna? (from Croptopia)
+- terralith:savanna_badlands? (from Croptopia)
+- terralith:savanna_slopes? (from Croptopia)
+
+#croptopia:has_crop/tomatillo
+- minecraft:forest (from Croptopia)
+- minecraft:flower_forest (from Croptopia)
+- minecraft:birch_forest (from Croptopia)
+- minecraft:dark_forest (from Croptopia)
+- minecraft:old_growth_birch_forest (from Croptopia)
+- minecraft:grove (from Croptopia)
+- terralith:birch_taiga? (from Croptopia)
+- terralith:cloud_forest? (from Croptopia)
+- terralith:lavender_forest? (from Croptopia)
+- terralith:lavender_valley? (from Croptopia)
+- terralith:moonlight_grove? (from Croptopia)
+- terralith:moonlight_valley? (from Croptopia)
+- terralith:temperate_highlands? (from Croptopia)
+
+#minecraft:has_structure/woodland_mansion
+- minecraft:dark_forest (from Default)
+
+#botania:marimorphosis_plains_bonus
+- #c:plains (from Botania)
+- #c:beach (from Botania)
+
+#croptopia:has_crop/turmeric
+- minecraft:savanna (from Croptopia)
+- minecraft:savanna_plateau (from Croptopia)
+- minecraft:windswept_savanna (from Croptopia)
+- byg:araucaria_savanna? (from Croptopia)
+- byg:baobab_savanna? (from Croptopia)
+- terralith:arid_highlands? (from Croptopia)
+- terralith:brushland? (from Croptopia)
+- terralith:fractured_savanna? (from Croptopia)
+- terralith:savanna_badlands? (from Croptopia)
+- terralith:savanna_slopes? (from Croptopia)
+
+#c:mountain_peak
+- minecraft:frozen_peaks (from Fabric Convention Tags)
+- minecraft:jagged_peaks (from Fabric Convention Tags)
+- minecraft:stony_peaks (from Fabric Convention Tags)
+
+#croptopia:has_crop/currant
+- minecraft:swamp (from Croptopia)
+- terralith:mirage_isles? (from Croptopia)
+- terralith:orchid_swamp? (from Croptopia)
+
+#minecraft:has_structure/ocean_ruin_warm
+- minecraft:lukewarm_ocean (from Default)
+- minecraft:warm_ocean (from Default)
+- minecraft:deep_lukewarm_ocean (from Default)
+
+#c:is_lush
+- minecraft:lush_caves (from Porting Lib Tags)
+
+#croptopia:has_crop/blackbean
+- minecraft:forest (from Croptopia)
+- minecraft:flower_forest (from Croptopia)
+- minecraft:birch_forest (from Croptopia)
+- minecraft:dark_forest (from Croptopia)
+- minecraft:old_growth_birch_forest (from Croptopia)
+- minecraft:grove (from Croptopia)
+- terralith:birch_taiga? (from Croptopia)
+- terralith:cloud_forest? (from Croptopia)
+- terralith:lavender_forest? (from Croptopia)
+- terralith:lavender_valley? (from Croptopia)
+- terralith:moonlight_grove? (from Croptopia)
+- terralith:moonlight_valley? (from Croptopia)
+- terralith:temperate_highlands? (from Croptopia)
+
+#botania:marimorphosis_taiga_bonus
+- #c:tree_coniferous (from Botania)
+- #c:climate_cold (from Botania)
+- #c:snowy (from Botania)
+
+#botania:mystical_mushroom_spawnlist
+- #minecraft:is_overworld (from Botania)
+- #minecraft:is_nether (from Botania)
+
+#croptopia:has_crop/pineapple
+- minecraft:jungle (from Croptopia)
+- minecraft:sparse_jungle (from Croptopia)
+- minecraft:bamboo_jungle (from Croptopia)
+- byg:crag_gardens? (from Croptopia)
+- byg:guiana_shield? (from Croptopia)
+- byg:jacaranda_forest? (from Croptopia)
+- byg:tropical_rainforest? (from Croptopia)
+- terralith:jungle_mountains? (from Croptopia)
+- terralith:rocky_jungle? (from Croptopia)
+- terralith:tropical_jungle? (from Croptopia)
+
+#c:flower_forests
+- minecraft:flower_forest (from Fabric Convention Tags)
+
+#botania:mystical_mushroom_blocklist
+
+#c:is_spooky
+- minecraft:dark_forest (from Porting Lib Tags)
+- minecraft:deep_dark (from Porting Lib Tags)
+
+#croptopia:has_crop/radish
+- minecraft:forest (from Croptopia)
+- minecraft:flower_forest (from Croptopia)
+- minecraft:birch_forest (from Croptopia)
+- minecraft:dark_forest (from Croptopia)
+- minecraft:old_growth_birch_forest (from Croptopia)
+- minecraft:grove (from Croptopia)
+- byg:aspen_forest? (from Croptopia)
+- byg:borealis_grove? (from Croptopia)
+- byg:cherry_blossom_forest? (from Croptopia)
+- byg:cika_woods? (from Croptopia)
+- byg:ebony_woods? (from Croptopia)
+- byg:forgotten_forest? (from Croptopia)
+- byg:red_oak_forest? (from Croptopia)
+- byg:autumnal_forest? (from Croptopia)
+- byg:redwood_thicket? (from Croptopia)
+- byg:fragment_forest? (from Croptopia)
+- byg:twilight_meadow? (from Croptopia)
+- byg:weeping_witch_forest? (from Croptopia)
+- byg:temperate_rainforest? (from Croptopia)
+- terralith:birch_taiga? (from Croptopia)
+- terralith:cloud_forest? (from Croptopia)
+- terralith:lavender_forest? (from Croptopia)
+- terralith:lavender_valley? (from Croptopia)
+- terralith:moonlight_grove? (from Croptopia)
+- terralith:moonlight_valley? (from Croptopia)
+- terralith:temperate_highlands? (from Croptopia)
+
+#botania:marimorphosis_fungal_bonus
+- #c:mushroom (from Botania)
+- #c:underground (from Botania)
+
+#c:is_void
+- minecraft:the_void (from Porting Lib Tags)
+
+#minecraft:is_overworld
+- minecraft:mushroom_fields (from Default)
+- minecraft:deep_frozen_ocean (from Default)
+- minecraft:frozen_ocean (from Default)
+- minecraft:deep_cold_ocean (from Default)
+- minecraft:cold_ocean (from Default)
+- minecraft:deep_ocean (from Default)
+- minecraft:ocean (from Default)
+- minecraft:deep_lukewarm_ocean (from Default)
+- minecraft:lukewarm_ocean (from Default)
+- minecraft:warm_ocean (from Default)
+- minecraft:stony_shore (from Default)
+- minecraft:swamp (from Default)
+- minecraft:mangrove_swamp (from Default)
+- minecraft:snowy_slopes (from Default)
+- minecraft:snowy_plains (from Default)
+- minecraft:snowy_beach (from Default)
+- minecraft:windswept_gravelly_hills (from Default)
+- minecraft:grove (from Default)
+- minecraft:windswept_hills (from Default)
+- minecraft:snowy_taiga (from Default)
+- minecraft:windswept_forest (from Default)
+- minecraft:taiga (from Default)
+- minecraft:plains (from Default)
+- minecraft:meadow (from Default)
+- minecraft:beach (from Default)
+- minecraft:forest (from Default)
+- minecraft:old_growth_spruce_taiga (from Default)
+- minecraft:flower_forest (from Default)
+- minecraft:birch_forest (from Default)
+- minecraft:dark_forest (from Default)
+- minecraft:savanna_plateau (from Default)
+- minecraft:savanna (from Default)
+- minecraft:jungle (from Default)
+- minecraft:badlands (from Default)
+- minecraft:desert (from Default)
+- minecraft:wooded_badlands (from Default)
+- minecraft:jagged_peaks (from Default)
+- minecraft:stony_peaks (from Default)
+- minecraft:frozen_river (from Default)
+- minecraft:river (from Default)
+- minecraft:ice_spikes (from Default)
+- minecraft:old_growth_pine_taiga (from Default)
+- minecraft:sunflower_plains (from Default)
+- minecraft:old_growth_birch_forest (from Default)
+- minecraft:sparse_jungle (from Default)
+- minecraft:bamboo_jungle (from Default)
+- minecraft:eroded_badlands (from Default)
+- minecraft:windswept_savanna (from Default)
+- minecraft:frozen_peaks (from Default)
+- minecraft:dripstone_caves (from Default)
+- minecraft:lush_caves (from Default)
+- minecraft:deep_dark (from Default)
+
+#minecraft:has_structure/village_savanna
+- minecraft:savanna (from Default)
+
+#minecraft:without_patrol_spawns
+- minecraft:mushroom_fields (from Default)
+
+#croptopia:has_crop/blueberry
+- minecraft:forest (from Croptopia)
+- minecraft:flower_forest (from Croptopia)
+- minecraft:birch_forest (from Croptopia)
+- minecraft:dark_forest (from Croptopia)
+- minecraft:old_growth_birch_forest (from Croptopia)
+- minecraft:old_growth_pine_taiga (from Croptopia)
+- minecraft:old_growth_spruce_taiga (from Croptopia)
+- minecraft:taiga (from Croptopia)
+- minecraft:snowy_taiga (from Croptopia)
+- minecraft:grove (from Croptopia)
+- terralith:alpine_highlands? (from Croptopia)
+- terralith:birch_taiga? (from Croptopia)
+- terralith:cloud_forest? (from Croptopia)
+- terralith:lavender_forest? (from Croptopia)
+- terralith:lavender_valley? (from Croptopia)
+- terralith:moonlight_grove? (from Croptopia)
+- terralith:moonlight_valley? (from Croptopia)
+- terralith:temperate_highlands? (from Croptopia)
+
+#c:mountain_slope
+- minecraft:snowy_slopes (from Fabric Convention Tags)
+
+#minecraft:has_structure/village_taiga
+- minecraft:taiga (from Default)
+
+#croptopia:has_crop/lettuce
+- minecraft:plains (from Croptopia)
+- minecraft:sunflower_plains (from Croptopia)
+- terralith:blooming_plateau? (from Croptopia)
+- terralith:blooming_valley? (from Croptopia)
+- terralith:highlands? (from Croptopia)
+- terralith:steppe? (from Croptopia)
+- terralith:valley_clearing? (from Croptopia)
+
+#apoli:category/mushroom
+- minecraft:mushroom_fields (from Apoli)
+
+#c:void
+- minecraft:the_void (from Fabric Convention Tags)
+
+#minecraft:has_closer_water_fog
+- minecraft:swamp (from Default)
+- minecraft:mangrove_swamp (from Default)
+
+#croptopia:has_crop/pepper
+- minecraft:plains (from Croptopia)
+- minecraft:sunflower_plains (from Croptopia)
+- terralith:ashen_savanna? (from Croptopia)
+- terralith:blooming_plateau? (from Croptopia)
+- terralith:blooming_plateau? (from Croptopia)
+- terralith:blooming_valley? (from Croptopia)
+- terralith:blooming_valley? (from Croptopia)
+- terralith:highlands? (from Croptopia)
+- terralith:highlands? (from Croptopia)
+- terralith:steppe? (from Croptopia)
+- terralith:steppe? (from Croptopia)
+- terralith:valley_clearing? (from Croptopia)
+- terralith:valley_clearing? (from Croptopia)
+
+#minecraft:without_wandering_trader_spawns
+- minecraft:the_void (from Default)
+
+#minecraft:has_structure/ruined_portal_desert
+- minecraft:desert (from Default)
+
+#minecraft:has_structure/ruined_portal_swamp
+- minecraft:swamp (from Default)
+- minecraft:mangrove_swamp (from Default)
+
+#apoli:category/river
+- #minecraft:is_river (from Apoli)
+
+#minecraft:spawns_cold_variant_frogs
+- minecraft:snowy_plains (from Default)
+- minecraft:ice_spikes (from Default)
+- minecraft:frozen_peaks (from Default)
+- minecraft:jagged_peaks (from Default)
+- minecraft:snowy_slopes (from Default)
+- minecraft:frozen_ocean (from Default)
+- minecraft:deep_frozen_ocean (from Default)
+- minecraft:grove (from Default)
+- minecraft:deep_dark (from Default)
+- minecraft:frozen_river (from Default)
+- minecraft:snowy_taiga (from Default)
+- minecraft:snowy_beach (from Default)
+- #minecraft:is_end (from Default)
+
+#c:is_mushroom
+- minecraft:mushroom_fields (from Porting Lib Tags)
+
+#minecraft:is_end
+- minecraft:the_end (from Default)
+- minecraft:end_highlands (from Default)
+- minecraft:end_midlands (from Default)
+- minecraft:small_end_islands (from Default)
+- minecraft:end_barrens (from Default)
+
+#croptopia:has_crop/broccoli
+- minecraft:plains (from Croptopia)
+- minecraft:sunflower_plains (from Croptopia)
+- terralith:blooming_plateau? (from Croptopia)
+- terralith:blooming_valley? (from Croptopia)
+- terralith:highlands? (from Croptopia)
+- terralith:steppe? (from Croptopia)
+- terralith:valley_clearing? (from Croptopia)
+
+#c:climate_dry
+- #c:in_nether? (from Fabric Convention Tags)
+- #c:badlands? (from Fabric Convention Tags)
+- #c:desert? (from Fabric Convention Tags)
+- #c:savanna? (from Fabric Convention Tags)
+
+#ad_astra:has_structure/meteor_biomes
+- #minecraft:is_jungle (from Ad Astra)
+- #minecraft:is_forest (from Ad Astra)
+- #minecraft:is_taiga (from Ad Astra)
+- minecraft:desert (from Ad Astra)
+- minecraft:plains (from Ad Astra)
+- minecraft:snowy_plains (from Ad Astra)
+- minecraft:sunflower_plains (from Ad Astra)
+- minecraft:savanna (from Ad Astra)
+- minecraft:savanna_plateau (from Ad Astra)
+- minecraft:windswept_savanna (from Ad Astra)
+
+#minecraft:without_zombie_sieges
+- minecraft:mushroom_fields (from Default)
+
+#geode:has_echo_geode
+- deeperdarker:echoing_forest (from Deeper and Darker)
+- deeperdarker:otherside_deeplands (from Deeper and Darker)
+- deeperdarker:overcast_columns (from Deeper and Darker)
+
+#croptopia:has_crop/olive
+- minecraft:savanna (from Croptopia)
+- minecraft:savanna_plateau (from Croptopia)
+- minecraft:windswept_savanna (from Croptopia)
+- terralith:arid_highlands? (from Croptopia)
+- terralith:brushland? (from Croptopia)
+- terralith:fractured_savanna? (from Croptopia)
+- terralith:savanna_badlands? (from Croptopia)
+- terralith:savanna_slopes? (from Croptopia)
+
+#c:mesa
+- minecraft:wooded_badlands (from Fabric Convention Tags)
+- minecraft:eroded_badlands (from Fabric Convention Tags)
+- minecraft:badlands (from Fabric Convention Tags)
+
+#apoli:category/the_end
+- #minecraft:is_end (from Apoli)
+
+#minecraft:is_taiga
+- minecraft:taiga (from Default)
+- minecraft:snowy_taiga (from Default)
+- minecraft:old_growth_pine_taiga (from Default)
+- minecraft:old_growth_spruce_taiga (from Default)
+
+#minecraft:spawns_warm_variant_frogs
+- minecraft:desert (from Default)
+- minecraft:warm_ocean (from Default)
+- #minecraft:is_jungle (from Default)
+- #minecraft:is_savanna (from Default)
+- #minecraft:is_nether (from Default)
+- #minecraft:is_badlands (from Default)
+- minecraft:mangrove_swamp (from Default)
+
+#minecraft:mineshaft_blocking
+- minecraft:deep_dark (from Default)
+
+#croptopia:has_crop/elderberry
+- minecraft:forest (from Croptopia)
+- minecraft:flower_forest (from Croptopia)
+- minecraft:birch_forest (from Croptopia)
+- minecraft:dark_forest (from Croptopia)
+- minecraft:old_growth_birch_forest (from Croptopia)
+- minecraft:grove (from Croptopia)
+- terralith:birch_taiga? (from Croptopia)
+- terralith:cloud_forest? (from Croptopia)
+- terralith:lavender_forest? (from Croptopia)
+- terralith:lavender_valley? (from Croptopia)
+- terralith:moonlight_grove? (from Croptopia)
+- terralith:moonlight_valley? (from Croptopia)
+- terralith:temperate_highlands? (from Croptopia)
+
+#croptopia:has_crop/cabbage
+- minecraft:plains (from Croptopia)
+- minecraft:sunflower_plains (from Croptopia)
+- terralith:blooming_plateau? (from Croptopia)
+- terralith:blooming_valley? (from Croptopia)
+- terralith:highlands? (from Croptopia)
+- terralith:steppe? (from Croptopia)
+- terralith:valley_clearing? (from Croptopia)
+
+#minecraft:has_structure/village_snowy
+- minecraft:snowy_plains (from Default)
+
+#c:snowy
+- minecraft:snowy_beach (from Fabric Convention Tags)
+- minecraft:snowy_plains (from Fabric Convention Tags)
+- minecraft:snowy_slopes (from Fabric Convention Tags)
+- minecraft:snowy_taiga (from Fabric Convention Tags)
+
+#c:taiga
+- #minecraft:is_taiga? (from Fabric Convention Tags)
+
+#croptopia:has_crop/leek
+- minecraft:savanna (from Croptopia)
+- minecraft:savanna_plateau (from Croptopia)
+- minecraft:windswept_savanna (from Croptopia)
+- terralith:arid_highlands? (from Croptopia)
+- terralith:brushland? (from Croptopia)
+- terralith:fractured_savanna? (from Croptopia)
+- terralith:savanna_badlands? (from Croptopia)
+- terralith:savanna_slopes? (from Croptopia)
+
+#apoli:category/desert
+- minecraft:desert (from Apoli)
+
+#botania:marimorphosis_swamp_bonus
+- #c:swamp (from Botania)
+- #c:jungle (from Botania)
+
+#c:is_underground
+- minecraft:lush_caves (from Porting Lib Tags)
+- minecraft:dripstone_caves (from Porting Lib Tags)
+- minecraft:deep_dark (from Porting Lib Tags)
+
+#botania:marimorphosis_mesa_bonus
+- #c:mesa (from Botania)
+- #c:savanna (from Botania)
+
+#ad_astra:has_structure/oil_well_biomes
+- #minecraft:is_ocean (from Ad Astra)
+- #minecraft:is_deep_ocean (from Ad Astra)
+- minecraft:swamp (from Ad Astra)
+
+#apoli:category/forest
+- #minecraft:is_forest (from Apoli)
+
+#c:is_sparse/overworld
+- minecraft:windswept_forest (from Porting Lib Tags)
+- minecraft:savanna (from Porting Lib Tags)
+- minecraft:savanna_plateau (from Porting Lib Tags)
+- minecraft:wooded_badlands (from Porting Lib Tags)
+- minecraft:snowy_slopes (from Porting Lib Tags)
+- minecraft:jagged_peaks (from Porting Lib Tags)
+- minecraft:frozen_peaks (from Porting Lib Tags)
+- minecraft:windswept_gravelly_hills (from Porting Lib Tags)
+- minecraft:windswept_savanna (from Porting Lib Tags)
+- minecraft:eroded_badlands (from Porting Lib Tags)
+- minecraft:dripstone_caves (from Porting Lib Tags)
+
+#croptopia:has_crop/zucchini
+- minecraft:savanna (from Croptopia)
+- minecraft:savanna_plateau (from Croptopia)
+- minecraft:windswept_savanna (from Croptopia)
+- terralith:arid_highlands? (from Croptopia)
+- terralith:brushland? (from Croptopia)
+- terralith:fractured_savanna? (from Croptopia)
+- terralith:savanna_badlands? (from Croptopia)
+- terralith:savanna_slopes? (from Croptopia)
+
+#croptopia:has_crop/asparagus
+- minecraft:swamp (from Croptopia)
+- terralith:mirage_isles? (from Croptopia)
+- terralith:orchid_swamp? (from Croptopia)
+
+#minecraft:reduce_water_ambient_spawns
+- #minecraft:is_river (from Default)
+
+#croptopia:has_crop/onion
+- minecraft:jungle (from Croptopia)
+- minecraft:sparse_jungle (from Croptopia)
+- minecraft:bamboo_jungle (from Croptopia)
+- terralith:alpine_grove? (from Croptopia)
+- terralith:forested_highlands? (from Croptopia)
+- terralith:jungle_mountains? (from Croptopia)
+- terralith:lush_valley? (from Croptopia)
+- terralith:rocky_jungle? (from Croptopia)
+- terralith:siberian_grove? (from Croptopia)
+- terralith:siberian_taiga? (from Croptopia)
+- terralith:snowy_maple_forest? (from Croptopia)
+- terralith:snowy_shield? (from Croptopia)
+- terralith:tropical_jungle? (from Croptopia)
+- terralith:yosemite_lowlands? (from Croptopia)

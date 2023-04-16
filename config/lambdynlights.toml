@@ -23,6 +23,9 @@ mode = "fancy"
 
 			[light_sources.settings.entities.minecraft]
 				dolphin = true
+				item = true
+				potion = true
+				slime = true
 				skeleton = true
 				bat = true
 				zombie = true
@@ -33,5 +36,11 @@ mode = "fancy"
 				spider = true
 				creeper = true
 				player = true
-				slime = true
+
+			[light_sources.settings.entities.botania]
+				mana_burst = true
+				flame_ring = true
+
+			[light_sources.settings.entities.ad_astra]
+				tier_1_rover = true
 
