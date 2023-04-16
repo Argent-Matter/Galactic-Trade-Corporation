@@ -1,0 +1,36 @@
+*.pdf
+config/brandon3055/ProjectIntelligence
+config/brandon3055/ResourceCache
+
+# Instance Sync
+**/*.jar
+!Cat-Downloader-Legacy*.jar
+**/*.jar.disabled
+**/*.disabled
+**/*.jar.meta
+
+# Optional: Generic Modpack Ignores
+**/*.log
+/.vscode
+/logs
+/local
+/esm
+**/*.log.gz
+/.mixin.out
+/saves
+/journeymap
+/screenshots
+/downloads
+/backups
+/resourcepacks
+/shaderpacks
+/crash-reports
+.curseclient
+options.txt
+config/jei/worldSettings.cfg
+hei_bookmarks.ini
+.curseclient
+.rhino.local.properties
+usercache.json
+usernamecache.json
+config/byg/backups/last_working_configs_backup.zip
