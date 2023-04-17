@@ -6,16 +6,16 @@
   "backgroundColor": "base1",
   "foregroundColor": "text",
   "colorVariables": {
+    "blue": "#78dce8",
+    "text": "#fcfcfa",
+    "yellow": "#ffd866",
     "orange": "#fc9867",
     "purple": "#ab9df2",
     "red": "#ff6188",
     "base2": "#2d2a2e",
     "base1": "#221f22",
     "base0": "#19181a",
-    "green": "#a9dc76",
-    "blue": "#78dce8",
-    "text": "#fcfcfa",
-    "yellow": "#ffd866"
+    "green": "#a9dc76"
   },
   "progressBarHeight": 2,
   "progressBarSpeedDivision": 10,
@@ -34,11 +34,13 @@
   "lineSpeedDifference": 4.0,
   "lineDirection": "LEFT",
   "lineColors": {
+    "red": 1,
     "base2": 1000,
-    "blue": 50,
-    "red": 1
+    "blue": 50
   },
   "customSplashLines": [],
+  "addDefaultSplashLines": true
+}": [],
   "addDefaultSplashLines": true
 }": [],
   "addDefaultSplashLines": true

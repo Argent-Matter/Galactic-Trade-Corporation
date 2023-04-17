@@ -26,6 +26,7 @@ Cat-Downloader.log
 /resourcepacks
 /shaderpacks
 /crash-reports
+/dashloader-cache
 .curseclient
 options.txt
 config/jei/worldSettings.cfg
