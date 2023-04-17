@@ -1,5 +1,27 @@
 {
   "attributes": {
+    "dml-refabricated:archery": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 16,
+        "value": 10000000
+      }
+    },
+    "dml-refabricated:fire_protection": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 16,
+        "value": 10000000
+      }
+    },
     "minecraft:generic.follow_range": {
       "enabled": true,
       "min": {
@@ -8,6 +30,270 @@
       },
       "max": {
         "default": 2048,
+        "value": 10000000
+      }
+    },
+    "dml-refabricated:zombie_friendly": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 16,
+        "value": 10000000
+      }
+    },
+    "dml-refabricated:auto_extinguish": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 16,
+        "value": 10000000
+      }
+    },
+    "porting_lib:step_height_addition": {
+      "enabled": false,
+      "min": {
+        "default": -512,
+        "value": -512
+      },
+      "max": {
+        "default": 512,
+        "value": 10000000
+      }
+    },
+    "dml-refabricated:fly": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 16,
+        "value": 10000000
+      }
+    },
+    "minecraft:generic.luck": {
+      "enabled": true,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 10000000
+      }
+    },
+    "dml-refabricated:jump_boost": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 16,
+        "value": 10000000
+      }
+    },
+    "dml-refabricated:soul_vision": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 16,
+        "value": 10000000
+      }
+    },
+    "creeperoverhaul:reach_distance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 10000000
+      }
+    },
+    "dml-refabricated:underwater_haste": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 16,
+        "value": 10000000
+      }
+    },
+    "porting_lib:entity_gravity": {
+      "enabled": false,
+      "min": {
+        "default": -8,
+        "value": -8
+      },
+      "max": {
+        "default": 8,
+        "value": 10000000
+      }
+    },
+    "dml-refabricated:fire_immunity": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 16,
+        "value": 10000000
+      }
+    },
+    "additionalentityattributes:lava_visibility": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 10000000
+      }
+    },
+    "dml-refabricated:fall_immunity": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 16,
+        "value": 10000000
+      }
+    },
+    "stepheightentityattribute:stepheight": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 10000000
+      }
+    },
+    "dml-refabricated:depth_strider": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 16,
+        "value": 10000000
+      }
+    },
+    "minecraft:zombie.spawn_reinforcements": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 10000000
+      }
+    },
+    "minecraft:generic.attack_knockback": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 5,
+        "value": 10000000
+      }
+    },
+    "minecraft:generic.armor_toughness": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 20,
+        "value": 10000000
+      }
+    },
+    "additionalentityattributes:dig_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 10000000
+      }
+    },
+    "dml-refabricated:shulker_friendly": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 16,
+        "value": 10000000
+      }
+    },
+    "dml-refabricated:piglin_truce": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 16,
+        "value": 10000000
+      }
+    },
+    "dml-refabricated:undying": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 16,
+        "value": 10000000
+      }
+    },
+    "reach-entity-attributes:attack_range": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 10000000
+      }
+    },
+    "dml-refabricated:poseidon_bless": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 16,
         "value": 10000000
       }
     },
@@ -22,6 +308,17 @@
         "value": 10000000
       }
     },
+    "dml-refabricated:endermen_proof_vision": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 16,
+        "value": 10000000
+      }
+    },
     "reach-entity-attributes:reach": {
       "enabled": false,
       "min": {
@@ -30,6 +327,28 @@
       },
       "max": {
         "default": 1024,
+        "value": 10000000
+      }
+    },
+    "dml-refabricated:night_vision": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 16,
+        "value": 10000000
+      }
+    },
+    "dml-refabricated:unrotten_flesh": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 16,
         "value": 10000000
       }
     },
@@ -66,28 +385,6 @@
         "value": 10000000
       }
     },
-    "porting_lib:step_height_addition": {
-      "enabled": false,
-      "min": {
-        "default": -512,
-        "value": -512
-      },
-      "max": {
-        "default": 512,
-        "value": 10000000
-      }
-    },
-    "minecraft:generic.luck": {
-      "enabled": true,
-      "min": {
-        "default": -1024,
-        "value": -1024
-      },
-      "max": {
-        "default": 1024,
-        "value": 10000000
-      }
-    },
     "minecraft:generic.armor": {
       "enabled": true,
       "min": {
@@ -96,6 +393,17 @@
       },
       "max": {
         "default": 30,
+        "value": 10000000
+      }
+    },
+    "dml-refabricated:skeleton_friendly": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 16,
         "value": 10000000
       }
     },
@@ -110,14 +418,14 @@
         "value": 10000000
       }
     },
-    "creeperoverhaul:reach_distance": {
+    "dml-refabricated:plenty": {
       "enabled": false,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
-        "default": 1024,
+        "default": 16,
         "value": 10000000
       }
     },
@@ -143,30 +451,41 @@
         "value": 10000000
       }
     },
-    "minecraft:generic.flying_speed": {
-      "enabled": true,
+    "dml-refabricated:teleport": {
+      "enabled": false,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
-        "default": 1024,
+        "default": 16,
         "value": 10000000
       }
     },
-    "porting_lib:entity_gravity": {
+    "dml-refabricated:resistance": {
       "enabled": false,
       "min": {
-        "default": -8,
-        "value": -8
+        "default": 0,
+        "value": 0
       },
       "max": {
-        "default": 8,
+        "default": 16,
         "value": 10000000
       }
     },
-    "additionalentityattributes:lava_visibility": {
+    "dml-refabricated:water_breathing": {
       "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 16,
+        "value": 10000000
+      }
+    },
+    "minecraft:generic.flying_speed": {
+      "enabled": true,
       "min": {
         "default": 0,
         "value": 0
@@ -181,17 +500,6 @@
       "min": {
         "default": 0,
         "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 10000000
-      }
-    },
-    "stepheightentityattribute:stepheight": {
-      "enabled": false,
-      "min": {
-        "default": -1024,
-        "value": -1024
       },
       "max": {
         "default": 1024,
@@ -220,19 +528,19 @@
         "value": 10000000
       }
     },
-    "additionalentityattributes:lava_speed": {
+    "dml-refabricated:rot_resistance": {
       "enabled": false,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
-        "default": 1,
+        "default": 16,
         "value": 10000000
       }
     },
-    "minecraft:zombie.spawn_reinforcements": {
-      "enabled": true,
+    "additionalentityattributes:lava_speed": {
+      "enabled": false,
       "min": {
         "default": 0,
         "value": 0
@@ -253,14 +561,14 @@
         "value": 10000000
       }
     },
-    "minecraft:generic.attack_knockback": {
-      "enabled": true,
+    "dml-refabricated:feather_falling": {
+      "enabled": false,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
-        "default": 5,
+        "default": 16,
         "value": 10000000
       }
     },
@@ -272,39 +580,6 @@
       },
       "max": {
         "default": 1,
-        "value": 10000000
-      }
-    },
-    "minecraft:generic.armor_toughness": {
-      "enabled": true,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 20,
-        "value": 10000000
-      }
-    },
-    "additionalentityattributes:dig_speed": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 2048,
-        "value": 10000000
-      }
-    },
-    "reach-entity-attributes:attack_range": {
-      "enabled": false,
-      "min": {
-        "default": -1024,
-        "value": -1024
-      },
-      "max": {
-        "default": 1024,
         "value": 10000000
       }
     }

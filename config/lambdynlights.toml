@@ -29,7 +29,9 @@ mode = "fancy"
 				cow = true
 				slime = true
 				pig = true
+				item_frame = true
 				skeleton = true
+				phantom = true
 				bat = true
 				zombie = true
 				cod = true
@@ -41,12 +43,16 @@ mode = "fancy"
 				parrot = true
 				creeper = true
 				sheep = true
+				lightning_bolt = true
 				player = true
 				enderman = true
 
 			[light_sources.settings.entities.botania]
 				mana_burst = true
 				flame_ring = true
+
+			[light_sources.settings.entities.powah]
+				charged_snowball = true
 
 			[light_sources.settings.entities.creeperoverhaul]
 				bamboo_creeper = true
