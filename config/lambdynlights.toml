@@ -25,21 +25,33 @@ mode = "fancy"
 				dolphin = true
 				item = true
 				potion = true
+				chicken = true
+				cow = true
 				slime = true
+				pig = true
 				skeleton = true
 				bat = true
 				zombie = true
 				cod = true
 				glow_squid = true
 				glow_item_frame = false
+				squid = true
 				drowned = true
 				spider = true
+				parrot = true
 				creeper = true
+				sheep = true
 				player = true
+				enderman = true
 
 			[light_sources.settings.entities.botania]
 				mana_burst = true
 				flame_ring = true
+
+			[light_sources.settings.entities.creeperoverhaul]
+				bamboo_creeper = true
+				dripstone_creeper = true
+				cave_creeper = true
 
 			[light_sources.settings.entities.ad_astra]
 				tier_1_rover = true
