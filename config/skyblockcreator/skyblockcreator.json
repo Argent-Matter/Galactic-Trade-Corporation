@@ -1,0 +1,35 @@
+{
+    "structureWorldConfigs": [
+      {
+        "structureIdentifier": "starter-island",
+        "biomeIdentifier": "minecraft:flower_forest",
+        "structureOffset": [
+          -2,
+          0,
+          -2
+        ],
+        "playerSpawnOffset": [
+          0,
+          8,
+          0
+        ],
+        "overridingDefault": true,
+        "fillmentBlockIdentifier": "minecraft:air",
+        "topBedrockEnabled": false,
+        "bottomBedrockEnabled": false,
+        "isBedrockFlat": false,
+        "theEnd": {
+          "voidMode": true
+        },
+        "theNether": {
+          "voidMode": true
+        }
+      }
+    ],
+    "createPlatformPermissionLevel": 0,
+    "teleportToPlatformPermissionLevel": 0,
+    "platformDistanceRadius": 2000,
+    "commandName": "island",
+    "commandAlias": "is"
+  }
+  

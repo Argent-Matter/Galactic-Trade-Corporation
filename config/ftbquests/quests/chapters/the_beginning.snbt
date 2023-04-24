@@ -1,0 +1,11 @@
+{
+	id: "1EB116F853BE7C32"
+	group: "3FC563BA9DA5BC7D"
+	order_index: 0
+	filename: "the_beginning"
+	title: "The Beginning."
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [ ]
+	quest_links: [ ]
+}

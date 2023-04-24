@@ -1,0 +1,23 @@
+{
+  "favorites": [],
+  "lookup_history": [
+    {
+      "item": "minecraft:yellow_banner",
+      "amount": 1,
+      "type": "emi:item"
+    },
+    {
+      "item": "minecraft:firework_star",
+      "amount": 1,
+      "type": "emi:item"
+    }
+  ],
+  "craft_history": [
+    "kubejs:kjs_5djtqq1yz7yw2aub6j10rg802",
+    "kubejs:kjs_ehzqqj4vxyythmc7rcus472fw"
+  ],
+  "recipe_defaults": {
+    "added": [],
+    "disabled": []
+  }
+}

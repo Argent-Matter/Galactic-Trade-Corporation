@@ -312,8 +312,7 @@
     },
     "dynamicIcons": {
       "default": "https://via.placeholder.com/256.png",
-      "NemEzanevem": "https://mc-heads.net/avatar/9dc6a7e5576047539dee6ff9ce315468",
-      "screret": "https://mc-heads.net/avatar/1184eb7958314f7db8f43a46fccf7a1d"
+      "NemEzanevem": "https://mc-heads.net/avatar/9dc6a7e5576047539dee6ff9ce315468"
     },
     "dynamicVariables": {
       "default": "Example Text",
