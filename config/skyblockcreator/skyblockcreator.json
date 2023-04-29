@@ -1,7 +1,7 @@
 {
     "structureWorldConfigs": [
       {
-        "structureIdentifier": "starter-island",
+        "structureIdentifier": "starter_island",
         "biomeIdentifier": "minecraft:flower_forest",
         "structureOffset": [
           -2,
@@ -11,6 +11,31 @@
         "playerSpawnOffset": [
           0,
           8,
+          0
+        ],
+        "overridingDefault": false,
+        "fillmentBlockIdentifier": "minecraft:air",
+        "topBedrockEnabled": false,
+        "bottomBedrockEnabled": false,
+        "isBedrockFlat": false,
+        "theEnd": {
+          "voidMode": true
+        },
+        "theNether": {
+          "voidMode": true
+        }
+      },
+      {
+        "structureIdentifier": "start_world",
+        "biomeIdentifier": "minecraft:flower_forest",
+        "structureOffset": [
+          -21,
+          -1,
+          -13
+        ],
+        "playerSpawnOffset": [
+          0,
+          1,
           0
         ],
         "overridingDefault": true,
