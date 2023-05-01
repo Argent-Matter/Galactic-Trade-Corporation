@@ -8,7 +8,6 @@
 			"{data:{Count:1b,id:\"minecraft:polished_deepslate\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 			"{data:{Count:1b,id:\"minecraft:waxed_cut_copper_stairs\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 			"{data:{Count:1b,id:\"minecraft:raw_gold_block\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-<<<<<<< HEAD
 			"{data:{Count:1b,id:\"gtceu:electric_blast_furnace\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 			"{data:{Count:1b,id:\"extended_drawers:lock\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 			"{data:{Count:1b,id:\"minecraft:spruce_sapling\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
@@ -22,10 +21,6 @@
 			"{data:{Count:1b,id:\"minecraft:smooth_stone_slab\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 			"{data:{Count:1b,id:\"minecraft:muddy_mangrove_roots\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 			"{data:{Count:1b,id:\"gtceu:fluid_hatch.export.zpm\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
-=======
-			"{data:{Count:1b,id:\"ad_astra:iron_sliding_door\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-			"{data:{Count:1b,id:\"minecraft:deepslate_redstone_ore\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
->>>>>>> 253b33a8ff37b379815cb4b368c51196b2cdbcfe
 		],
 		"hiddenFavorites": [],
 		"displayHistory": [],
