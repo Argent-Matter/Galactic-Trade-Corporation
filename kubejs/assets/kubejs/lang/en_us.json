@@ -1,0 +1,9 @@
+{
+    "npc.overseer.hello": "Hello %s!",
+    "npc.overseer.join_question": "So you'd like to join our experimental research program?",
+    "npc.overseer.answer": "Answer:",
+    "npc.overseer.yes": "  YES",
+    "npc.overseer.yes.subtitle": "Join the program",
+    "npc.overseer.no": "  NO",
+    "npc.overseer.no.subtitle": "Don't join"
+}

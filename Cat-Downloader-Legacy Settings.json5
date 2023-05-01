@@ -8,5 +8,5 @@
   "isLoggerActive": true,
   "isFileSizeVerificationActive": true,
   "isSumCheckVerificationActive": true,
-  "modBlacklist": []
+  "modBlacklist": ["gtceu-fabric-1.19.2-1.0.2.jar"]
 }
