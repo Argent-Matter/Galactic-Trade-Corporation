@@ -5,14 +5,19 @@
     "extended_drawers:guide": {
       "viewedEntries": [
         "extended_drawers:simple_networks",
-        "extended_drawers:mod_interoperability"
+        "extended_drawers:mod_interoperability",
+        "extended_drawers:upgrades"
       ],
       "bookmarks": [],
       "completedManualQuests": []
     },
     "botania:lexicon": {
       "viewedEntries": [
-        "botania:basics/garden_of_glass"
+        "botania:basics/garden_of_glass",
+        "botania:tools/grass_seeds",
+        "botania:generating_flowers/gourmaryllis",
+        "botania:mana/dreamwood_spreader",
+        "botania:generating_flowers/hydroangeas"
       ],
       "bookmarks": [],
       "completedManualQuests": []

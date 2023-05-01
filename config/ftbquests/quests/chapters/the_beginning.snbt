@@ -6,6 +6,46 @@
 	title: "The Beginning."
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
-	quests: [ ]
+	quests: [
+		{
+			x: 0.0d
+			y: -1.5d
+			subtitle: "You wake up finding yourself on a floating island in the middle of nowhere with a single tree...."
+			description: ["&cLore: **After signing a piece of paper for an experiment you got nauseaus..... You Remember &l\"DRUMROLL\"........... Nothing...**&r &l&aP.S: Welcome to (INSERT MODPACK NAME)! Here your task is to dive into the World Of Gregtech Inside an Expert Skyblock Enviroment and use the technologies to construct yourself a portal that will bring you back to the Overworld and END THIS EXPERIMENT!&r&r &4&lGOOD LUCK! YOU'LL NEED IT...&r&r"]
+			id: "7670B2A506A646C4"
+			tasks: [{
+				id: "7D7A8CBAE9AE76AC"
+				type: "checkmark"
+				title: "Welcome!"
+			}]
+			rewards: [{
+				id: "00677DCDEAB33E0D"
+				type: "item"
+				title: "Either Take It Leave It... You Choose"
+				item: "minecraft:apple"
+			}]
+		}
+		{
+			title: "No Planks???"
+			x: -2.0d
+			y: 0.0d
+			subtitle: "Looks like that did'nt work.... Well what now?"
+			description: ["*Insert Megamind Looking Meme*"]
+			dependencies: ["7670B2A506A646C4"]
+			id: "192E30A10575E8B6"
+			tasks: [{
+				id: "0E818BD94139867C"
+				type: "item"
+				item: "minecraft:oak_slab"
+				count: 10L
+			}]
+			rewards: [{
+				id: "15B2BCF898577071"
+				type: "item"
+				item: "minecraft:oak_slab"
+				random_bonus: 1
+			}]
+		}
+	]
 	quest_links: [ ]
 }
