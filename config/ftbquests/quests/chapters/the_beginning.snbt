@@ -27,8 +27,8 @@
 		}
 		{
 			title: "No Planks???"
-			x: -2.0d
-			y: 0.0d
+			x: 0.0d
+			y: 1.0d
 			subtitle: "Looks like that did'nt work.... Well what now?"
 			description: ["*Insert Megamind Looking Meme*"]
 			dependencies: ["7670B2A506A646C4"]
@@ -37,13 +37,179 @@
 				id: "0E818BD94139867C"
 				type: "item"
 				item: "minecraft:oak_slab"
-				count: 10L
+				count: 6L
 			}]
 			rewards: [{
 				id: "15B2BCF898577071"
 				type: "item"
 				item: "minecraft:oak_slab"
 				random_bonus: 1
+			}]
+		}
+		{
+			title: "Planks..."
+			x: 1.5d
+			y: 3.0d
+			shape: "circle"
+			subtitle: "In This Experiment the recipe of planks have been altered to give the player the early game difficulty of obtaining wood... However you can get more and more planks as you progress and get more advanced..."
+			description: ["&l&c*As explained above you won't get planks straight From logs. to make them craft 2 slabs together...*&r&r"]
+			dependencies: ["192E30A10575E8B6"]
+			id: "6C6F8381CE709093"
+			tasks: [{
+				id: "68EAB41B251E141D"
+				type: "item"
+				item: "minecraft:oak_planks"
+				count: 3L
+			}]
+			rewards: [
+				{
+					id: "71A7DF3900B5DADB"
+					type: "item"
+					title: "Generous Donation.... If you lost your Sapling"
+					item: "minecraft:oak_sapling"
+				}
+				{
+					id: "700EB35EAEF3329C"
+					type: "item"
+					title: "Use it Carefully..."
+					item: "minecraft:oak_planks"
+					count: 10
+					random_bonus: 22
+				}
+			]
+		}
+		{
+			title: "Objective: 1 Basic Tools"
+			icon: {
+				id: "minecraft:wooden_axe"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: 1.5d
+			y: 5.0d
+			subtitle: "No Explanation Here."
+			description: ["&aSome Tools. tho you will stop using vanilla tools very soon...&r"]
+			dependencies: ["6C6F8381CE709093"]
+			id: "60CE8CF56AE2E149"
+			tasks: [
+				{
+					id: "6DF2C5E18D7E6BC2"
+					type: "item"
+					item: "minecraft:crafting_table"
+				}
+				{
+					id: "60C1A58E1420551D"
+					type: "item"
+					item: {
+						id: "minecraft:wooden_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "44828F74CC5CBA62"
+					type: "item"
+					item: {
+						id: "minecraft:wooden_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "541E09DFF8F04DB1"
+					type: "item"
+					item: {
+						id: "minecraft:wooden_shovel"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "3796A7E8C11B4F21"
+					type: "item"
+					item: {
+						id: "minecraft:wooden_axe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+		}
+		{
+			icon: "minecraft:bone"
+			x: -1.5d
+			y: 5.0d
+			subtitle: "Constructing a basic mobfarm shouldn't be hard.. At the very least you can construct yourself a basic platform for mobs to spawn until you get more blocks to build with"
+			description: ["&eMake sure to get the bones you are going to need them eventually.&r"]
+			dependencies: ["5DFA6885D2504003"]
+			id: "1775C4EF2247D8D7"
+			tasks: [
+				{
+					id: "1A1845153CABE3ED"
+					type: "item"
+					item: "minecraft:rotten_flesh"
+					count: 8L
+				}
+				{
+					id: "47860A6CDA86DE7F"
+					type: "item"
+					item: "minecraft:bone"
+					count: 16L
+				}
+				{
+					id: "1B375B6B45701020"
+					type: "item"
+					item: "minecraft:gunpowder"
+					count: 4L
+				}
+				{
+					id: "3F4327A7126B7D3A"
+					type: "item"
+					item: "minecraft:ender_pearl"
+				}
+			]
+		}
+		{
+			title: "Log(istics) Farming Wood"
+			x: -1.5d
+			y: 3.0d
+			subtitle: "The amount of logs may seem a lot at first, but after making planks you may realize that its not even much..."
+			description: ["&eThese 256 logs will result in 2 stacks of Planks which you should use to construct a very basic mob farm. trust me you ARE going to need it for progression..&r"]
+			dependencies: ["192E30A10575E8B6"]
+			id: "5DFA6885D2504003"
+			tasks: [{
+				id: "25B2C4160DBC88CD"
+				type: "item"
+				item: "minecraft:oak_log"
+				count: 256L
+			}]
+			rewards: [{
+				id: "0D9835C7609289E5"
+				type: "item"
+				item: "minecraft:oak_planks"
+				count: 32
+				random_bonus: 32
+			}]
+		}
+		{
+			x: -1.5d
+			y: 7.0d
+			dependencies: ["1775C4EF2247D8D7"]
+			id: "38667045AA0C08A7"
+			tasks: [{
+				id: "7667C2B5674A74B1"
+				type: "item"
+				item: "botania:fertilizer"
 			}]
 		}
 	]

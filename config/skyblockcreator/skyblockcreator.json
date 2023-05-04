@@ -29,14 +29,14 @@
         "structureIdentifier": "start_world",
         "biomeIdentifier": "minecraft:flower_forest",
         "structureOffset": [
-          -21,
+          -14,
           -1,
-          -13
+          -9
         ],
         "playerSpawnOffset": [
-          0,
+          2,
           1,
-          0
+          2
         ],
         "overridingDefault": true,
         "fillmentBlockIdentifier": "minecraft:air",
