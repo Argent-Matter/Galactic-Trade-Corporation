@@ -14,6 +14,7 @@ ServerEvents.recipes(event => {
     event.remove({ id: 'botania:livingwood_planks' })
     event.remove({ id: 'minecraft:chest' })
     event.remove({ id: 'botania:elven_trade/dragonstone' })
+    event.remove({ id: 'ae2:misc/tiny_tnt' })
     event.remove([{ type: 'minecraft:smelting', output: 'minecraft:iron_ingot' }, { type: 'minecraft:blasting', output: 'minecraft:iron_ingot' }])
     event.remove([{ type: 'minecraft:smelting', output: 'minecraft:copper_ingot' }, { type: 'minecraft:blasting', output: 'minecraft:copper_ingot' }])
     event.remove([{ type: 'minecraft:smelting', output: 'minecraft:gold_ingot' }, { type: 'minecraft:blasting', output: 'minecraft:gold_ingot' }])
