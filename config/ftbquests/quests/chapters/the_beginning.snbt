@@ -48,7 +48,7 @@
 		}
 		{
 			title: "Planks..."
-			x: 1.5d
+			x: 3.5d
 			y: 3.0d
 			shape: "circle"
 			subtitle: "In This Experiment the recipe of planks have been altered to give the player the early game difficulty of obtaining wood... However you can get more and more planks as you progress and get more advanced..."
@@ -87,8 +87,8 @@
 					Damage: 0
 				}
 			}
-			x: 1.5d
-			y: 5.0d
+			x: 3.5d
+			y: 1.0d
 			subtitle: "No Explanation Here."
 			description: ["&aSome Tools. tho you will stop using vanilla tools very soon...&r"]
 			dependencies: ["6C6F8381CE709093"]
@@ -147,8 +147,8 @@
 		}
 		{
 			icon: "minecraft:bone"
-			x: -1.5d
-			y: 5.0d
+			x: 6.0d
+			y: -1.0d
 			subtitle: "Constructing a basic mobfarm shouldn't be hard.. At the very least you can construct yourself a basic platform for mobs to spawn until you get more blocks to build with"
 			description: ["&eMake sure to get the bones you are going to need them eventually.&r"]
 			dependencies: ["5DFA6885D2504003"]
@@ -181,8 +181,8 @@
 		}
 		{
 			title: "Log(istics) Farming Wood"
-			x: -1.5d
-			y: 3.0d
+			x: 3.5d
+			y: -1.0d
 			subtitle: "The amount of logs may seem a lot at first, but after making planks you may realize that its not even much..."
 			description: ["&eThese 256 logs will result in 2 stacks of Planks which you should use to construct a very basic mob farm. trust me you ARE going to need it for progression..&r"]
 			dependencies: ["192E30A10575E8B6"]
@@ -202,8 +202,8 @@
 			}]
 		}
 		{
-			x: -1.5d
-			y: 7.0d
+			x: 6.0d
+			y: 1.0d
 			dependencies: ["1775C4EF2247D8D7"]
 			id: "38667045AA0C08A7"
 			tasks: [{

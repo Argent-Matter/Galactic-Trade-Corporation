@@ -21,7 +21,16 @@
 			"{data:{Count:1b,id:\"minecraft:smooth_stone_slab\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 			"{data:{Count:1b,id:\"minecraft:muddy_mangrove_roots\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 			"{data:{Count:1b,id:\"gtceu:fluid_hatch.export.zpm\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-			"{data:{Count:1b,id:\"botania:monocle\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+			"{data:{Count:1b,id:\"botania:monocle\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:dripstone_block\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:waxed_exposed_cut_copper\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"gtceu:plunger_iron\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"botania:livingrock\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:crimson_hyphae\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"chisel:raw/lime_concrete\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"ae2:crafting_terminal\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"ae2:memory_card_white\",tag:{},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:deepslate_diamond_ore\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
 		],
 		"hiddenFavorites": [],
 		"displayHistory": [],
