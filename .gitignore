@@ -38,3 +38,4 @@ config/roughlyenoughitems/config.json5
 !gtceu*.jar
 !Hephaestus*.jar
 /emojiful
+fancymenu_data/last_world.fmdata

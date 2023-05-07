@@ -1272,6 +1272,7 @@ mode = "fancy"
 
 			[light_sources.settings.entities.tconstruct]
 				earth_slime = true
+				flint_shuriken = true
 				sky_slime = true
 
 			[light_sources.settings.entities.powah]
