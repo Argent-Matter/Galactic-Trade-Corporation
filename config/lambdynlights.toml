@@ -1270,6 +1270,10 @@ mode = "fancy"
 				painting = true
 				wither = true
 
+			[light_sources.settings.entities.tconstruct]
+				earth_slime = true
+				sky_slime = true
+
 			[light_sources.settings.entities.powah]
 				charged_snowball = true
 

@@ -27,13 +27,14 @@ Cat-Downloader.log
 /shaderpacks
 /crash-reports
 /dashloader-cache
-.curseclient
 options.txt
 config/jei/worldSettings.cfg
-hei_bookmarks.ini
 .curseclient
 .rhino.local.properties
 usercache.json
 usernamecache.json
 config/byg/backups/last_working_configs_backup.zip
+config/roughlyenoughitems/config.json5
 !gtceu*.jar
+!Hephaestus*.jar
+/emojiful
