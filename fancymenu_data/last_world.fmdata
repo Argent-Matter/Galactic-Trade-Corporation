@@ -1,7 +1,0 @@
-type = last_world
-
-last_world {
-  is_server = false
-  world = E:/Minecraft mods/Instances/Factory In the Clouds/saves/New World (1)
-}
-

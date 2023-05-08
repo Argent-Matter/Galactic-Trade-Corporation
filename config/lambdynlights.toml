@@ -1271,8 +1271,8 @@ mode = "fancy"
 				wither = true
 
 			[light_sources.settings.entities.tconstruct]
-				earth_slime = true
 				flint_shuriken = true
+				earth_slime = true
 				sky_slime = true
 
 			[light_sources.settings.entities.powah]
