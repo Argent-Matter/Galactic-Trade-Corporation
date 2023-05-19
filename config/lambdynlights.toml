@@ -1273,7 +1273,10 @@ mode = "fancy"
 			[light_sources.settings.entities.tconstruct]
 				flint_shuriken = true
 				earth_slime = true
+<<<<<<< HEAD
 				fancy_item_frame = true
+=======
+>>>>>>> 519f9a19429f9a7667adbe948ff675d9ada4f153
 				sky_slime = true
 				efln_ball = true
 
