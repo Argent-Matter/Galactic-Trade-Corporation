@@ -52,16 +52,16 @@ showHorseStatSetting = "EXTENDED"
 showSilverfish = "NOT"
 #The distance to the left side of the screen. Use -1 if you don't want to set this
 #Range: -1 ~ 10000
-boxLeftX = 5
+boxLeftX = -1
 #The distance to the right side of the screen. Use -1 if you don't want to set this
 #Range: -1 ~ 10000
-boxRightX = -1
+boxRightX = 5
 #The distance to the top side of the screen. Use -1 if you don't want to set this
 #Range: -1 ~ 10000
-boxTopY = 5
+boxTopY = -1
 #The distance to the bottom side of the screen. Use -1 if you don't want to set this
 #Range: -1 ~ 10000
-boxBottomY = -1
+boxBottomY = 5
 #Color of the border of the box (0 to disable)
 boxBorderColor = "0"
 #Color of the box (0 to disable)

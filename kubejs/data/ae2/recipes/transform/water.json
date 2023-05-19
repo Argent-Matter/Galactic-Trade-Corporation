@@ -1,0 +1,15 @@
+{
+  "type": "ae2:transform",
+  "circumstance": {
+    "type": "fluid",
+    "tag": "tconstruct:earth_slime"
+  },
+  "ingredients": [
+    {
+      "item": "tconstruct:earth_slime_dirt"
+    }
+  ],
+  "result": {
+    "item": "minecraft:water_bucket"
+  }
+}
