@@ -37,7 +37,7 @@
 		"disabled": false,
 		"cooldown": 200,
 		"useStrongHealing": false,
-		"useStrongHarming": false
+		"useStrongHarming": true
 	},
 	"berserkConfig": {
 		"name": "Berserk",
@@ -55,7 +55,7 @@
 		"name": "Burning",
 		"disabled": false,
 		"cooldown": 500,
-		"fireDuration": 6
+		"fireDuration": 10
 	},
 	"cloakedConfig": {
 		"name": "Cloaked",
@@ -91,7 +91,7 @@
 		"name": "Ghastly",
 		"disabled": false,
 		"cooldown": 700,
-		"fireballPower": 1
+		"fireballPower": 2
 	},
 	"gravityConfig": {
 		"name": "Gravity",

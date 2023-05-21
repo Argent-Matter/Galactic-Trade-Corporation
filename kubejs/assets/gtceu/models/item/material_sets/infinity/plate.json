@@ -1,7 +1,6 @@
 {
-  "parent": "item/generated",
+  "parent": "gtceu:item/material_sets/shiny/plate",
   "textures": {
-    "layer0": "gtceu:item/material_sets/infinity/plate",
     "layer1": "gtceu:item/material_sets/infinity/plate_overlay"
   }
 }

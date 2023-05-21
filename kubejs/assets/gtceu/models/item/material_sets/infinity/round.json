@@ -1,6 +1,6 @@
 {
-  "parent": "item/generated",
+  "parent": "gtceu:item/material_sets/shiny/round",
   "textures": {
-    "layer0": "gtceu:item/material_sets/infinity/round"
+    "layer1": "gtceu:item/material_sets/infinity/round_overlay"
   }
 }

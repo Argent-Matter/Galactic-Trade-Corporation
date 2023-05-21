@@ -3,7 +3,7 @@ effect give @s minecraft:slowness 10 5 true
 effect give @s minecraft:nausea 10 5 true
 npc select id 1
 npc remove
-setworldspawn 2 80 6
+spawnpoint @a 2 80 6
 fill 21 62 28 -14 71 -9 air
 place structure kubejs:start_slime 0 92 0
 tp @s 2 80 6

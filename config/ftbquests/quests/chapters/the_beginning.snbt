@@ -48,29 +48,21 @@
 			dependencies: ["7670B2A506A646C4"]
 		}
 		{
-			tasks: [
-				{
-					type: "observation"
-					timer: 5L
-					observe_type: 0
-					id: "2899C2D64AE68352"
-					to_observe: "minecraft:mossy_cobblestone"
-				}
-				{
-					id: "25BC4CC1A4D88B48"
-					type: "item"
-					item: "minecraft:mossy_cobblestone"
-				}
-			]
+			tasks: [{
+				id: "25BC4CC1A4D88B48"
+				type: "item"
+				item: "minecraft:mossy_cobblestone"
+			}]
 			description: [
-				"&eSince you got some tools already it would be a good idea check these  geodes for some useful stuff"
-				"&elike: cobblestone"
+				"&eIf you  noticed there are a few weird floating geodes around you."
+				"&eWell it's time to actually see what they actually have to offer, the  answer is simple... Cobblestone!&r"
 			]
 			id: "59A4BD00E639F6D5"
 			x: 3.0d
-			y: 0.0d
+			y: 1.5d
 			title: "The Strage Meteor like structures"
-			subtitle: "You may want to venture out to one of these Strange Sphere shaped Structures and you may (?) even find answers..."
+			subtitle: "You may want to venture out to the vast void around you...."
+			dependencies: ["59095C2D5ADF23B2"]
 		}
 	]
 }
