@@ -19,7 +19,7 @@
         "bottomBedrockEnabled": false,
         "isBedrockFlat": false,
         "theEnd": {
-          "voidMode": true
+          "voidMode": false
         },
         "theNether": {
           "voidMode": true

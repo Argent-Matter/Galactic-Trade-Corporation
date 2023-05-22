@@ -1,13 +1,5 @@
 {
-    "block.gtceu.compressed_block_infinity": "Block of Infinity",
-    "block.gtceu.frame_block_infinity": "Infinity Frame Box",
-    "item.gtceu.dust.infinity": "Infinity Dust",
-    "item.gtceu.dust_tiny.infinity": "Tiny Pile of Infinity Dust",
-    "item.gtceu.plate_double.infinity": "Double Infinity Plate",
-    "item.gtceu.ingot.infinity": "Infinity Ingot",
-    "item.gtceu.dust_small.infinity": "Small Pile of Infinity Dust",
-    "item.gtceu.rod.infinity": "Infinity Rod",
-    "item.gtceu.round.infinity": "Infinity Round",
-    "item.gtceu.ingot_hot.infinity": "Hot Infinity Ingot",
-    "item.gtceu.screw.infinity": "Infinity Screw"
+"material.infinity": "Infinity",
+"material.crystal_matrix": "Crystal Matrix",
+"material.mana_steel": "Mana Steel"
 }   
