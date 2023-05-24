@@ -19,6 +19,20 @@ REIEvents.groupEntries(event => {
     event.groupItemsByTag('kubejs:rei_groups/ingots', 'Ingots', "c:ingots");
     event.groupItemsByTag('kubejs:rei_groups/plates', 'Plates', "c:plates");
     event.groupItemsByTag('kubejs:rei_groups/storage_blocks', 'Blocks', "c:storage_blocks");
+    event.groupItemsByTag('kubejs:rei_groups/wool_carpets', 'Wool Carpets', "minecraft:wool_carpets");
+    event.groupItemsByTag('kubejs:rei_groups/terracotta', 'Terracotta', "minecraft:terracotta");
+    event.groupItemsByTag('kubejs:rei_groups/flowers', 'Flowers', "minecraft:flowers");
+    event.groupItemsByTag('kubejs:rei_groups/walls', 'Walls', "minecraft:walls");
+    event.groupItemsByTag('kubejs:rei_groups/shulker_boxes', 'Shulker Boxes', "c:shulker_boxes");
+    event.groupItemsByTag('kubejs:rei_groups/coral_blocks', 'Coral Blocks', "minecraft:coral_blocks");
+    event.groupItemsByTag('kubejs:rei_groups/coral_plants', 'Coral Plants', "minecraft:coral_plants");
+    event.groupItemsByTag('kubejs:rei_groups/potions', 'Potions', "c:potions");
+    event.groupItemsByTag('kubejs:rei_groups/beds', 'Beds', "minecraft:beds");
+    event.groupItemsByTag('kubejs:rei_groups/enchanted_books', 'Enchanted Books', "c:books");
+    event.groupItemsByTag('kubejs:rei_groups/doors', 'Doors', "minecraft:doors");
+    event.groupItemsByTag('kubejs:rei_groups/trapdoors', 'Trapdoors', "minecraft:trapdoors");
+    event.groupItemsByTag('kubejs:rei_groups/fence_gates', 'Fence Gates', "c:fence_gates");
+    event.groupItemsByTag('kubejs:rei_groups/fences', 'Fences', "c:fences");
 })
 // Gregtech
 REIEvents.groupEntries(event => {
@@ -123,4 +137,10 @@ REIEvents.groupEntries(event => {
     event.groupItemsByTag('kubejs:rei_groups/garnet_sand_ores', 'Garnet Sand Ores', 'c:garnet_sand_ores');
     event.groupItemsByTag('kubejs:rei_groups/basaltic_mineral_sand_ores', 'Basaltic Mineralsand Ores', 'c:basaltic_minearal_sand_ores');
     event.groupItemsByTag('kubejs:rei_groups/kyanite_ores', 'Kyanite Ores', 'c:kyanite_ores');
+    event.groupItemsByTag('kubejs:rei_groups/pyrolusite_ores', 'Pyrolusite Ores', 'c:pyrolusite_ores');
+    event.groupItemsByTag('kubejs:rei_groups/basaltic_mineral_sand_ores', 'Basaltic Mineral Sand Ores', 'c:basaltic_mineral_sand_ores');
+    event.groupItemsByTag('kubejs:rei_groups/glauconite_sand_ores', 'Glauconite Sand Ores', 'c:glauconite_sand_ores');
+
+
+
 })

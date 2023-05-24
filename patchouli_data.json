@@ -1,6 +1,6 @@
 {
   "bookGuiScale": 0,
-  "clickedVisualize": false,
+  "clickedVisualize": true,
   "bookData": {
     "extended_drawers:guide": {
       "viewedEntries": [
@@ -19,7 +19,8 @@
         "botania:mana/dreamwood_spreader",
         "botania:generating_flowers/hydroangeas",
         "botania:basics/flowers",
-        "botania:devices/forest_drum"
+        "botania:devices/forest_drum",
+        "botania:alfhomancy/intro"
       ],
       "bookmarks": [],
       "completedManualQuests": []

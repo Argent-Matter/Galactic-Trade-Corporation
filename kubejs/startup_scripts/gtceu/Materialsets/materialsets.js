@@ -38,20 +38,20 @@ GTCEuStartupEvents.registry('gtceu:material_icon_set', event => {
 
 // Manasteel
 GTCEuStartupEvents.registry('gtceu:element', event => {
-    event.create('mana_steel', 26, 42, -1, null, 'Fe', false);
+    event.create('manasteel', 26, 42, -1, null, 'Fe', false);
 })
 
 GTCEuStartupEvents.registry('gtceu:material', event => {
-    event.create("mana_steel")
+    event.create("manasteel")
         .ingot(1)
-        .element(GTElements.get("mana_steel"))
-        .color(0x0097FF).iconSet('mana_steel')
+        .element(GTElements.get("manasteel"))
+        .color(0x0097FF).iconSet('manasteel')
         .blastTemp(3000)
         .flags(GTMaterialFlags.GENERATE_PLATE, GTMaterialFlags.GENERATE_BOLT_SCREW, GTMaterialFlags.GENERATE_FRAME, GTMaterialFlags.GENERATE_ROD, GTMaterialFlags.GENERATE_LONG_ROD, GTMaterialFlags.GENERATE_ROUND)
 })
 
 GTCEuStartupEvents.registry('gtceu:material_icon_set', event => {
-    event.create('gtceu:mana_steel').parent(GTMaterialIconSet.BRIGHT)
+    event.create('gtceu:manasteel').parent(GTMaterialIconSet.BRIGHT)
 })
 
 
@@ -72,4 +72,25 @@ GTCEuStartupEvents.registry('gtceu:material', event => {
 
 GTCEuStartupEvents.registry('gtceu:material_icon_set', event => {
     event.create('gtceu:elementium').parent(GTMaterialIconSet.BRIGHT)
+})
+
+
+// Terrasteel
+
+
+GTCEuStartupEvents.registry('gtceu:element', event => {
+    event.create('terrasteel', 29, 45, -1, null, 'FeCBeK?', false);
+})
+
+GTCEuStartupEvents.registry('gtceu:material', event => {
+    event.create("terrasteel")
+        .ingot(1)
+        .element(GTElements.get("terrasteel"))
+        .color(0x3AFF00).iconSet('terrasteel')
+        .blastTemp(3800)
+        .flags(GTMaterialFlags.GENERATE_PLATE, GTMaterialFlags.GENERATE_BOLT_SCREW, GTMaterialFlags.GENERATE_FRAME, GTMaterialFlags.GENERATE_ROD, GTMaterialFlags.GENERATE_LONG_ROD, GTMaterialFlags.GENERATE_ROUND)
+})
+
+GTCEuStartupEvents.registry('gtceu:material_icon_set', event => {
+    event.create('gtceu:terrasteel').parent(GTMaterialIconSet.BRIGHT)
 })

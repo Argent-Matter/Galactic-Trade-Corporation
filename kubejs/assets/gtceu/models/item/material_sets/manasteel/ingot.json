@@ -1,6 +1,6 @@
 {
   "parent": "gtceu:item/material_sets/shiny/ingot",
   "textures": {
-    "layer1": "gtceu:item/material_sets/mana_steel/ingot_overlay"
+    "layer1": "gtceu:item/material_sets/manasteel/ingot_overlay"
   }
 }

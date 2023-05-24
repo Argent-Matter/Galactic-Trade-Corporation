@@ -1,6 +1,7 @@
 {
 "material.infinity": "Infinity",
 "material.crystal_matrix": "Crystal Matrix",
-"material.mana_steel": "Manasteel",
-"material.elementium": "Elementium"
+"material.manasteel": "Manasteel",
+"material.elementium": "Elementium",
+"material.terrasteel": "Terrasteel"
 }   
