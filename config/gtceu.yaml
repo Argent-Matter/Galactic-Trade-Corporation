@@ -71,8 +71,17 @@ recipes:
 
 worldgen:
   # Should all Stone Types drop unique Ore Item Blocks?
-  # Default: false (meaning only Stone, Netherrack, and Endstone
+  # Default: false (meaning only Stone, Netherrack, and Endstone)
   allUniqueStoneTypes: false
+
+  # Should Sand-like ores fall?
+  # This includes gravel, sand, and red sand ores.
+  # Default: false (no falling ores)
+  sandOresFall: false
+
+  # Debug ore vein placement? (will print placed veins to server's debug.log)
+  # Default: false (no placement printout in debug.log)
+  debugWorldgen: false
 
 machines:
   # Whether machines explode in rainy weather or when placed next to certain terrain, such as fire or lava

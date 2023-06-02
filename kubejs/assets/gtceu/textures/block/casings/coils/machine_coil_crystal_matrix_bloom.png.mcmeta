@@ -1,0 +1,6 @@
+{
+    "ldlib": {
+        "connection": "gtceu:block/casings/coils/machine_coil_crystal_matrix_bloom_ctm",
+        "emissive": true
+    }
+}
