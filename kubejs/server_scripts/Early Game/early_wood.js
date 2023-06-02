@@ -26,7 +26,7 @@ ServerEvents.recipes(event => {
         result: [Item.of(output).toJson()]
         
     })
-
+    
     makeCutting('tconstruct:stripped_greenheart_log', '3x tconstruct:greenheart_planks')
     makeCutting('minecraft:stripped_oak_log', '3x oak_planks')
     makeCutting('minecraft:stripped_spruce_log', '3x spruce_planks')
