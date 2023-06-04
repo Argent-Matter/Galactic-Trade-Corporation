@@ -37,6 +37,7 @@ GTCEuStartupEvents.registry('gtceu:material_icon_set', event => {
 
 
 // Manasteel
+
 GTCEuStartupEvents.registry('gtceu:element', event => {
     event.create('manasteel', 26, 42, -1, null, 'Fe', false);
 })
@@ -93,4 +94,24 @@ GTCEuStartupEvents.registry('gtceu:material', event => {
 
 GTCEuStartupEvents.registry('gtceu:material_icon_set', event => {
     event.create('gtceu:terrasteel').parent(GTMaterialIconSet.BRIGHT)
+})
+
+
+// Ferrous ALlyo
+
+GTCEuStartupEvents.registry('gtceu:element', event => {
+    event.create('ferrous_alloy', 26, 42, -1, null, 'Fe+', false);
+})
+
+GTCEuStartupEvents.registry('gtceu:material', event => {
+    event.create("ferrous_alloy")
+        .ingot(1)
+        .element(GTElements.get("ferrous_alloy"))
+        .color(0x00E4FF).iconSet('ferrous_alloy')
+        .blastTemp(3000)
+        .flags(GTMaterialFlags.GENERATE_PLATE, GTMaterialFlags.GENERATE_BOLT_SCREW, GTMaterialFlags.GENERATE_FRAME, GTMaterialFlags.GENERATE_ROD, GTMaterialFlags.GENERATE_LONG_ROD, GTMaterialFlags.GENERATE_ROUND)
+})
+
+GTCEuStartupEvents.registry('gtceu:material_icon_set', event => {
+    event.create('gtceu:ferrous_alloy').parent(GTMaterialIconSet.BRIGHT)
 })
