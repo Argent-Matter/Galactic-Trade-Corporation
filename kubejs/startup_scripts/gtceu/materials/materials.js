@@ -10,6 +10,9 @@ GTCEuStartupEvents.registry('gtceu:element', event => {
     event.create('cosmos', 1000, 1000, -1, null, 'Ci', false)
 })
 
+// NOTE: PUT MATERIALS DEPENDING ON OTHER MATERIALS IN SECOND~THIRD-DEGREE BLOCKS
+
+// Element materials
 GTCEuStartupEvents.registry('gtceu:material', event => {
     event.create("infinity")
         .ingot(1)
@@ -60,6 +63,10 @@ GTCEuStartupEvents.registry('gtceu:material', event => {
         .element(GTElements.get("cosmos"))
         .color(0x6e6e6e).iconSet('cosmic')
 
+})
+
+// 2nd-degree materials
+GTCEuStartupEvents.registry('material', event => {
     event.create('cosmic_neutronium')
         .ingot(6).fluid()
         ["components(java.lang.Object[])"](GTMaterials.get('cosmos'), 1, GTMaterials.get('neutronium'), 1)
