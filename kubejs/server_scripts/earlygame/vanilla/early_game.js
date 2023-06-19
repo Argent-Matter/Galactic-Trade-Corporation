@@ -38,5 +38,4 @@ ServerEvents.recipes(event => {
 // Loot changes
 LootJS.modifiers((event) => {
     event.addBlockLootModifier("kubejs:mana_infused_cobblestone").replaceLoot("kubejs:mana_infused_cobblestone", "minecraft:gravel")
-})  
-  
+})
