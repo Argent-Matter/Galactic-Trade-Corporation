@@ -31,9 +31,9 @@ StartupEvents.registry('block', event => {
 
 StartupEvents.registry('block', event => {
     event.create('gtceu:neutronium_coil_block', 'gtceu:coil')
-    .temperature(21745)
+    .temperature(18746)
     .level(11)
-    .energyDiscount(16384)
+    .energyDiscount(13494)
     .tier(11)
     .coilMaterial(GTMaterials.get('neutronium'))
     .texture('gtceu:block/casings/coils/neutronium_coil_block')
