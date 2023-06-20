@@ -1,3 +1,15 @@
+// Just to let myself know:
+
+// Tier 1 Cupronickel
+// Tier 2 Kanthal
+// Tier 3 Nichrome
+// Tier 4 Tungstensteel
+// Tier 5 HSS-G
+// Tier 6 Naquadah
+// Tier 7 Naquadah Alloy
+// Tier 8 Trinium
+// Tier 9 Tritanium
+
 // Crystal Matrix Coil Tier 10
 
 StartupEvents.registry('block', event => { 
