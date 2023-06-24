@@ -3,5 +3,11 @@
 "material.crystal_matrix": "Crystal Matrix",
 "material.manasteel": "Manasteel",
 "material.elementium": "Elementium",
-"material.terrasteel": "Terrasteel"
-}   
+"material.terrasteel": "Terrasteel",
+"block.gtceu.shipping_port.lv": "Basic Shipping Port",
+"block.gtceu.shipping_port.mv": "Advanced Shipping Port",
+"block.gtceu.shipping_port.hv": "Advanced Shipping Port II",
+"block.gtceu.shipping_port.ev": "Advanced Shipping Port III",
+"block.gtceu.shipping_port.iv": "Elite Shipping Port",
+"material.cosmos": "Cosmos"
+}
