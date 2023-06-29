@@ -1,2 +1,0 @@
-gamerule sendCommandFeedback false
-scoreboard objectives add startTrigger trigger

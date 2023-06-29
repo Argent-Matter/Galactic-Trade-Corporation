@@ -4,10 +4,11 @@
 "material.manasteel": "Manasteel",
 "material.elementium": "Elementium",
 "material.terrasteel": "Terrasteel",
-"block.gtceu.shipping_port.lv": "Basic Shipping Port",
-"block.gtceu.shipping_port.mv": "Advanced Shipping Port",
-"block.gtceu.shipping_port.hv": "Advanced Shipping Port II",
-"block.gtceu.shipping_port.ev": "Advanced Shipping Port III",
-"block.gtceu.shipping_port.iv": "Elite Shipping Port",
-"material.cosmos": "Cosmos"
+"block.gtceu.lv_shipping_port": "Basic Shipping Port",
+"block.gtceu.mv_shipping_port": "Advanced Shipping Port",
+"block.gtceu.hv_shipping_port": "Advanced Shipping Port II",
+"block.gtceu.ev_shipping_port": "Advanced Shipping Port III",
+"block.gtceu.iv_shipping_port": "Elite Shipping Port",
+"material.cosmos": "Cosmos",
+"material.ferrous_metal": "Ferrous Alloy"
 }

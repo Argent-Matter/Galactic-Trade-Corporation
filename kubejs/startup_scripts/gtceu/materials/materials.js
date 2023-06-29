@@ -62,7 +62,6 @@ GTCEuStartupEvents.registry('gtceu:material', event => {
         .dust(6).fluid(GTFluidTypes.GAS)
         .element(GTElements.get("cosmos"))
         .color(0x6e6e6e).iconSet('cosmic')
-
 })
 
 // 2nd-degree materials
@@ -73,6 +72,14 @@ GTCEuStartupEvents.registry('material', event => {
         .color(0x121212).iconSet('cosmic')
         .blastTemp(10000)
         .flags(GTMaterialFlags.GENERATE_PLATE, GTMaterialFlags.GENERATE_BOLT_SCREW, GTMaterialFlags.GENERATE_FRAME, GTMaterialFlags.GENERATE_ROD, GTMaterialFlags.GENERATE_LONG_ROD, GTMaterialFlags.GENERATE_ROUND)
+
+        GTCEuStartupEvents.registry('material', event => {
+            event.create('andesite_alloy')
+            .ingot(1)
+            .components(GTMaterials.Andesite, 1, GTMaterials.Iron, 1)
+            .color(0x99b09f).iconSet(GTMaterialIconSet.DULL)
+            .flags(GTMaterialFlags.GENERATE_PLATE, GTMaterialFlags.GENEARATE_GEAR, GTMaterialFlags.GENEARATE_SMALL_GEAR)
+        })
 })
 
 

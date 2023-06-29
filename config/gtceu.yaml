@@ -114,8 +114,52 @@ machines:
   # Default: false
   steelSteamMultiblocks: false
 
+  # Whether to enable the cleanroom, required for various recipes.
+  # Default: true
+  enableCleanroom: true
+
+  # Whether multiblocks should ignore all cleanroom requirements.
+  # This does nothing if enableCleanroom is false.
+  # Default: false
+  cleanMultiblocks: false
+
 client:
   # Whether or not to enable Emissive Textures for GregTech Machines.
   # Default: true
   machinesEmissiveTextures: true
+
+# Config options for Mod Compatibility
+compat:
+  # Config options regarding GTEU compatibility with other energy systems
+  energy:
+    # Enable Native GTEU to Platform native Energy (RF and alike) on GT Cables and Wires.
+    # This does not enable nor disable Converters.
+    # Default: true
+    nativeEUToPlatformNative: true
+
+    # Enable GTEU to Platform native (and vice versa) Converters.
+    # Default: false
+    enablePlatformConverters: false
+
+    # Platform native Energy to GTEU ratio for converting FE to EU.
+    # Only affects converters.
+    # Default: 4 FE/Energy == 1 EU
+    platformToEuRatio: 4
+
+    # GTEU to Platform native Energy ratio for converting EU to FE.
+    # Affects native conversion and Converters.
+    # Default: 4 FE/Energy == 1 EU
+    euToPlatformRatio: 4
+
+  # Whether to hide facades of all blocks in JEI and creative search menu.
+  # Default: true
+  hideFacadesInJEI: true
+
+  # Whether to hide filled cells in JEI and creative search menu.
+  # Default: true
+  hideFilledCellsInJEI: true
+
+  # Whether Gregtech should remove smelting recipes from the vanilla furnace for ingots requiring the Electric Blast Furnace.
+  # Default: true
+  removeSmeltingForEBFMetals: true
 
