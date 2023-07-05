@@ -26,8 +26,6 @@ ServerEvents.recipes(event => {
             B: '#minecraft:planks',
         }
     )
-
-    event.shapeless('2x tconstruct:greenheart_planks', ['#tconstruct:greenheart_logs'])
 })
 
 // Create

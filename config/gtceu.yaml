@@ -89,6 +89,12 @@ worldgen:
   debugWorldgen: false
 
 machines:
+  # Whether insufficient energy supply should reset Machine recipe progress to zero.
+  # If true, progress will reset.
+  # If false, progress will decrease to zero with 2x speed
+  # Default: false
+  recipeProgressLowEnergy: false
+
   # Whether to require a Wrench, Wirecutter, or other GregTech tools to break machines, casings, wires, and more.
   # Default: false
   requireGTToolsForBlocks: false
@@ -123,10 +129,22 @@ machines:
   # Default: false
   cleanMultiblocks: false
 
+  # Whether to enable the Maintenance Hatch, required for Multiblocks.
+  # Default: true
+  enableMaintenance: true
+
+  # Whether the machine's circuit slot need to be inserted a real circuit.
+  ghostCircuit: true
+
 client:
   # Whether or not to enable Emissive Textures for GregTech Machines.
   # Default: true
   machinesEmissiveTextures: true
+
+  # The default color to overlay onto machines.
+  # 16777215 (0xFFFFFF in decimal) is no coloring (like GTCE).
+  # 13819135 (0xD2DCFF in decimal) is the classic blue from GT5 (default).
+  defaultPaintingColor: 13819135
 
 # Config options for Mod Compatibility
 compat:

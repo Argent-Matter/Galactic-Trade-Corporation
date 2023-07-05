@@ -8,6 +8,7 @@ GTCEuStartupEvents.registry('gtceu:element', event => {
     event.create('terrasteel', 29, 45, -1, null, 'FeCBeK?', false);
     event.create('ferrous_metal', 26, 42, -1, null, 'Fe+', false);
     event.create('cosmos', 1000, 1000, -1, null, 'Ci', false)
+    event.create('mica_pulp', 0, 8, -1, null, 'C5KAl3Si3F2O10H8', false)
 })
 
 // NOTE: PUT MATERIALS DEPENDING ON OTHER MATERIALS IN SECOND~THIRD-DEGREE BLOCKS
@@ -62,6 +63,12 @@ GTCEuStartupEvents.registry('gtceu:material', event => {
         .dust(6).fluid(GTFluidTypes.GAS)
         .element(GTElements.get("cosmos"))
         .color(0x6e6e6e).iconSet('cosmic')
+
+            event.create('mica_pulp')
+                .dust(6)
+                .element(GTElements.get("mica_pulp"))
+                .color(0xf1c345).iconSet('mica')
+                .flags(GTMaterialFlags.GENERATE_PLATE, GTMaterialFlags.GENERATE_PLATE, GTMaterialFlags.GENERATE_FOIL)
 })
 
 // 2nd-degree materials
@@ -72,15 +79,7 @@ GTCEuStartupEvents.registry('material', event => {
         .color(0x121212).iconSet('cosmic')
         .blastTemp(10000)
         .flags(GTMaterialFlags.GENERATE_PLATE, GTMaterialFlags.GENERATE_BOLT_SCREW, GTMaterialFlags.GENERATE_FRAME, GTMaterialFlags.GENERATE_ROD, GTMaterialFlags.GENERATE_LONG_ROD, GTMaterialFlags.GENERATE_ROUND)
-
-        GTCEuStartupEvents.registry('material', event => {
-            event.create('andesite_alloy')
-            .ingot(1)
-            .components(GTMaterials.Andesite, 1, GTMaterials.Iron, 1)
-            .color(0x99b09f).iconSet(GTMaterialIconSet.DULL)
-            .flags(GTMaterialFlags.GENERATE_PLATE, GTMaterialFlags.GENEARATE_GEAR, GTMaterialFlags.GENEARATE_SMALL_GEAR)
-        })
-})
+    })
 
 
 // Icon Sets
@@ -92,4 +91,5 @@ GTCEuStartupEvents.registry('gtceu:material_icon_set', event => {
     event.create('gtceu:terrasteel').parent(GTMaterialIconSet.BRIGHT)
     event.create('gtceu:ferrous_alloy').parent(GTMaterialIconSet.BRIGHT)
     event.create('gtceu:cosmic').parent(GTMaterialIconSet.SHINY)
+    event.create('gtceu:mica_pulp').parent(GTMaterialIconSet.SHINY)
 })

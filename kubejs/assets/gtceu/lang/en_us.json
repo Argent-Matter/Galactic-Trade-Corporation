@@ -10,5 +10,7 @@
 "block.gtceu.ev_shipping_port": "Advanced Shipping Port III",
 "block.gtceu.iv_shipping_port": "Elite Shipping Port",
 "material.cosmos": "Cosmos",
-"material.ferrous_metal": "Ferrous Alloy"
+"material.ferrous_metal": "Ferrous Alloy",
+"gtceu:shipping": "Shipping",
+"material.mica_pulp": "Mica Insulator"
 }
