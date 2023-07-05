@@ -23,6 +23,7 @@ ServerEvents.recipes(event => {
     event.remove({ id: 'gtceu:assembler/coil_naquadah' })
     event.remove({ id: 'gtceu:assembler/coil_trinium' })
     event.remove({ id: 'gtceu:assembler/coil_tritanium' })
+    event.remove({ id: 'gtceu:compressor/compress_plate_dust_mica_pulp_' })
     event.remove([{ type: 'minecraft:smelting', output: 'minecraft:iron_ingot' }, { type: 'minecraft:blasting', output: 'minecraft:iron_ingot' }])
     event.remove([{ type: 'minecraft:smelting', output: 'minecraft:copper_ingot' }, { type: 'minecraft:blasting', output: 'minecraft:copper_ingot' }])
     event.remove([{ type: 'minecraft:smelting', output: 'minecraft:gold_ingot' }, { type: 'minecraft:blasting', output: 'minecraft:gold_ingot' }])

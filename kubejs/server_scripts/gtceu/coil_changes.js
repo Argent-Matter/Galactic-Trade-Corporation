@@ -39,6 +39,14 @@ ServerEvents.recipes(event => {
                 .inputFluids('gtceu:tungsten_steel 144')
                 .circuitMeta(3)
 
+                event.recipes.gtceu.assembler('hsss_coil')             
+                .itemInputs('8x gtceu:hsss_frame', '28x gtceu:mica_pulp_foil')
+                .itemOutputs('gtceu:hsss_coil_block')
+                .duration(700)
+                .EUt(7680)
+                .inputFluids('gtceu:hssg 144')
+                .circuitMeta(3)
+
                 event.recipes.gtceu.assembler('naquadah_coil')             
                 .itemInputs('8x gtceu:naquadah_double_wire', '32x gtceu:mica_pulp_foil')
                 .itemOutputs('gtceu:naquadah_coil_block')

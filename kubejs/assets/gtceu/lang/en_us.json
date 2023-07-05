@@ -12,5 +12,7 @@
 "material.cosmos": "Cosmos",
 "material.ferrous_metal": "Ferrous Alloy",
 "gtceu:shipping": "Shipping",
-"material.mica_pulp": "Mica Insulator"
+"material.mica_pulp": "Mica Insulator",
+"gtceu:mica_pulp_plate": "Mica Insulator Sheet",
+"gtceu:mica_pulp_dust": "Mica Based Pulp"
 }
