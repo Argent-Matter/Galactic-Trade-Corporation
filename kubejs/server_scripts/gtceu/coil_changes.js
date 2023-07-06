@@ -40,7 +40,7 @@ ServerEvents.recipes(event => {
                 .circuitMeta(3)
 
                 event.recipes.gtceu.assembler('hsss_coil')             
-                .itemInputs('8x gtceu:hsss_frame', '28x gtceu:mica_pulp_foil')
+                .itemInputs('8x gtceu:hsss_double_wire', '28x gtceu:mica_pulp_foil')
                 .itemOutputs('gtceu:hsss_coil_block')
                 .duration(700)
                 .EUt(7680)
