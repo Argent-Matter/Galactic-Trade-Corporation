@@ -1,6 +1,4 @@
-//priority: 1
-
+// priority 1
 GTCEuStartupEvents.registry('gtceu:world_gen_layer', event => {
-    event.create('air')
-        .target({ })
+    event.create('air');
 })
