@@ -72,7 +72,7 @@ ServerEvents.recipes(event => {
                 .circuitMeta(3)
                 
                 event.recipes.gtceu.assembly_line('infinity_coil')
-                .itemInputs('gtceu:wetware_processor_mainframe', '8x gtceu:infinity_double_wire', '8x gtceu:infinity_screw' , '64x gtceu:mica_pulp_foil', '32x gtceu:mica_pulp_foil')
+                .itemInputs('gtceu:bio_mainframe', '8x gtceu:infinity_double_wire', '8x gtceu:infinity_screw' , '64x gtceu:mica_pulp_foil', '32x gtceu:mica_pulp_foil')
                 .itemOutputs('gtceu:infinity_coil_block')
                 .duration(1200)
                 .EUt(8000000)

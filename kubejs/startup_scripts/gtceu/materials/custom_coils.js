@@ -41,7 +41,6 @@ StartupEvents.registry('block', event => {
         .hardness(5)
         .requiresTool(true)
         .material('metal')
-        .model('gtceu:block/casings/coils/crystal_matrix_coil_block')
 })
 
 // Neutronium Coil Tier 12
@@ -58,7 +57,6 @@ StartupEvents.registry('block', event => {
     .hardness(5)
     .requiresTool(true)
     .material('metal')
-    .model('gtceu:block/casings/coils/neutronium_coil_block')
 })
 
 // Cosmic Neutronium Coil Tier 13
@@ -75,7 +73,6 @@ StartupEvents.registry('block', event => {
     .hardness(5)
     .requiresTool(true)
     .material('metal')
-    .model('gtceu:block/casings/coils/cosmic_neutronium_coil_block')
 })
 
 // Infinity Coil Tier 14
@@ -92,6 +89,4 @@ StartupEvents.registry('block', event => {
         .hardness(5)
         .requiresTool(true)
         .material('metal')
-        .model('gtceu:block/casings/coils/infinity_coils_block')
-
     })

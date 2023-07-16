@@ -10,11 +10,11 @@ recipes:
 
   # Change the recipe of Rods in the Lathe to 1 Rod and 2 Small Piles of Dust, instead of 2 Rods.
   # Default: false
-  harderRods: false
+  harderRods: true
 
   # Whether to make crafting recipes for Bricks, Firebricks, and Coke Bricks harder.
   # Default: false
-  harderBrickRecipes: false
+  harderBrickRecipes: true
 
   # Whether to nerf Wood crafting to 2 Planks from 1 Log, and 2 Sticks from 2 Planks.
   # Default: false
@@ -82,7 +82,7 @@ worldgen:
   # Radius that ore veins will check for existing ones.
   # If one is found, the vein will not spawn.
   # Default: 3
-  oreVeinScanRadius: 3
+  oreVeinScanRadius: 5
 
   # Debug ore vein placement? (will print placed veins to server's debug.log)
   # Default: false (no placement printout in debug.log)
@@ -128,6 +128,10 @@ machines:
   # This does nothing if enableCleanroom is false.
   # Default: false
   cleanMultiblocks: false
+
+  # Block to replace mined ores with in the miner and multiblock miner.
+  # Default: minecraft:cobblestone
+  replaceMinedBlocksWith: minecraft:cobblestone
 
   # Whether to enable the Maintenance Hatch, required for Multiblocks.
   # Default: true
