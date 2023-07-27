@@ -36,6 +36,13 @@ ServerEvents.recipes(event => {
         .itemOutputs('4x gtceu:mica_pulp_plate')
         .duration(400)
         .EUt(15)
+
+        event.recipes.gtceu.bender('mica_insulator_sheet')
+        .itemInputs('gtceu:mica_pulp_plate')
+        .itemOutputs('4x gtceu:mica_pulp_foil')
+        .duration(100)
+        .EUt(15)
+        .circuit(1)
 })
 
 
