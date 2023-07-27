@@ -1,8 +1,7 @@
 
 GTCEuStartupEvents.registry('gtceu:machine', event => {
-    event.create("shipping_port", 'simple')
-        .recipeType('shipping')
-        .tiers(GTValues.LV, GTValues.MV, GTValues.HV, GTValues.EV, GTValues.IV);
+    event.create("shipping_port", 'simple', GTValues.LV, GTValues.MV, GTValues.HV)
+        .recipeType('shipping', true, true)
 })
 
 GTCEuStartupEvents.registry('gtceu:recipe_type', event => {

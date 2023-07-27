@@ -9,6 +9,7 @@ GTCEuStartupEvents.registry('gtceu:element', event => {
     event.create('ferrous_metal', 26, 42, -1, null, 'Fe+', false);
     event.create('cosmos', 1000, 1000, -1, null, 'Ci', false)
     event.create('mica_pulp', 0, 8, -1, null, 'C5KAl3Si3F2O10H8', false)
+    event.create('fluix', 4, 8, -1, null, '', false)
 })
 
 // NOTE: PUT MATERIALS DEPENDING ON OTHER MATERIALS IN SECOND~THIRD-DEGREE BLOCKS

@@ -140,14 +140,26 @@ machines:
   # Whether the machine's circuit slot need to be inserted a real circuit.
   ghostCircuit: true
 
+  # Wether to add a "Bedrock Ore Miner" (also enables bedrock ore generation)
+  # Default: false
+  doBedrockOres: false
+
+  # What Kind of material should the bedrock ore miner output?
+  # Default: "raw"
+  bedrockOreDropTagPrefix: raw
+
+  # Wether to add a "Processing Array"
+  # Default: true
+  doProcessingArray: true
+
 client:
   # Whether or not to enable Emissive Textures for GregTech Machines.
   # Default: true
   machinesEmissiveTextures: true
 
   # The default color to overlay onto machines.
-  # 16777215 (0xFFFFFF in decimal) is no coloring (like GTCE).
-  # 13819135 (0xD2DCFF in decimal) is the classic blue from GT5 (default).
+  # 16777215 (0xFFFFFF in decimal) is no coloring (default).
+  # 13819135 (0xD2DCFF in decimal) is the classic blue from GT5.
   defaultPaintingColor: 13819135
 
 # Config options for Mod Compatibility

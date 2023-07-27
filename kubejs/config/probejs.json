@@ -1,11 +1,11 @@
 {
-  "dumpMethod": true,
-  "noAggressiveProbing": false,
-  "vanillaOrder": true,
-  "exportClassNames": false,
-  "allowObfuscated": false,
-  "docsTimestamp": 1684657463694,
+  "firstLoad": false,
+  "noAggressiveProbing": true,
+  "docsTimestamp": 1689669566363,
   "allowRegistryObjectDumps": false,
   "requireSingleAndPerm": true,
+  "enabled": true,
+  "disableRecipeJsonDump": false,
+  "dumpJSONIntermediates": false,
   "version": 1
 }
