@@ -10,6 +10,7 @@ GTCEuStartupEvents.registry('gtceu:element', event => {
     event.create('cosmos', 1000, 1000, -1, null, 'Ci', false)
     event.create('mica_pulp', 0, 8, -1, null, 'C5KAl3Si3F2O10H8', false)
     event.create('fluix', 4, 8, -1, null, '', false)
+    event.create('resin', 0, 0, -1, null, '', false)
 })
 
 // NOTE: PUT MATERIALS DEPENDING ON OTHER MATERIALS IN SECOND~THIRD-DEGREE BLOCKS
@@ -71,6 +72,17 @@ GTCEuStartupEvents.registry('gtceu:material', event => {
                 .element(GTElements.get("mica_pulp"))
                 .color(0xf1c345).iconSet('mica')
                 .flags(GTMaterialFlags.GENERATE_PLATE, GTMaterialFlags.GENERATE_PLATE, GTMaterialFlags.GENERATE_FOIL)
+                
+                event.create('resin')
+                .dust(6).fluid(GTFluidTypes.GAS)
+                .element(GTElements.get("resin"))
+                .color(0xffd76a).iconSet('resin')
+
+                event.create("fluix")
+        .ingot(1)
+        .element(GTElements.get("fluix"))
+        .color(0xc306f1).iconSet('fluix')
+        .flags(GTMaterialFlags.GENERATE_PLATE, GTMaterialFlags.GENERATE_BOLT_SCREW, GTMaterialFlags.GENERATE_ROD, GTMaterialFlags.GENERATE_LONG_ROD, GTMaterialFlags.GENERATE_LENS);
 })
 
 // 2nd-degree materials
@@ -94,4 +106,6 @@ GTCEuStartupEvents.registry('gtceu:material_icon_set', event => {
     event.create('gtceu:ferrous_alloy').parent(GTMaterialIconSet.BRIGHT)
     event.create('gtceu:cosmic').parent(GTMaterialIconSet.SHINY)
     event.create('gtceu:mica_pulp').parent(GTMaterialIconSet.SHINY)
+    event.create('gtceu:resin').parent(GTMaterialIconSet.FLUID)
+    event.create('gtceu:fluix').parent(GTMaterialIconSet.SHINY)
 })

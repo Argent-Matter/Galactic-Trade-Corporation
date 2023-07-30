@@ -29,7 +29,7 @@
 				type: "checkmark"
 			}]
 			x: 0.0d
-			y: -1.5d
+			y: -3.5d
 		}
 		{
 			dependencies: ["7670B2A506A646C4"]
@@ -45,17 +45,23 @@
 			}]
 			title: "There's Something Odd Here."
 			x: 3.0d
-			y: -0.5d
+			y: -3.5d
 		}
 		{
-			id: "6BB0CAF4BEE93370"
+			id: "4B5723B1DD23DF6E"
 			tasks: [{
-				id: "19F744F80F9EB993"
-				item: "botania:water_bowl"
+				id: "7AFAA37946682C2A"
+				item: {
+					Count: 1b
+					id: "minecraft:wooden_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
 				type: "item"
 			}]
-			x: 3.5d
-			y: 2.0d
+			x: 6.0d
+			y: -3.5d
 		}
 	]
 	title: "The Beginning."
