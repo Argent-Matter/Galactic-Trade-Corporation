@@ -20,13 +20,13 @@ ServerEvents.recipes(event => {
         type: 'farmersdelight:cutting',
         ingredients: [Item.of(input).toJson()],
         tool: {
-          type: "farmersdelight:tool",
-          tag: "c:axes"
+            type: "farmersdelight:tool",
+            tag: "c:axes"
         },
         result: [Item.of(output).toJson()]
-        
+
     })
-        makeCutting('minecraft:stripped_oak_log', '3x oak_planks')
+    makeCutting('minecraft:stripped_oak_log', '3x oak_planks')
     makeCutting('minecraft:stripped_spruce_log', '3x spruce_planks')
     makeCutting('minecraft:stripped_birch_log', '3x birch_planks')
     makeCutting('minecraft:stripped_jungle_log', '3x jungle_planks')

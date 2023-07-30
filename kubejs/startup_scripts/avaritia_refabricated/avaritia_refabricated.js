@@ -2,7 +2,6 @@ StartupEvents.registry('item', event => {
     event.create('avaritia_refabricated:infinity_catalyst').displayName('§cInfinity Catalyst')
     event.create('avaritia_refabricated:cosmic_neutronium_pile').displayName('§bPile of Cosmic_neutrons')
     event.create('avaritia_refabricated:neutronium_pile').displayName('§bPile of Neutrons')
-
     event.create('avaritia_refabricated:cosmic_meatballs').maxStackSize(16).food(food => {
         food
           .hunger(20)
