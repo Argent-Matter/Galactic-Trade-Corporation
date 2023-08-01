@@ -6,7 +6,7 @@ GTCEuStartupEvents.registry('gtceu:machine', event => {
 
 GTCEuStartupEvents.registry('gtceu:recipe_type', event => {
     event.create('primitive_roasting')
-        .category('steam')
+        .category('electric')
         .setMaxIOSize(2, 2, 2, 3)
         .setSlotOverlay(false, false, GuiTextures.SOLIDIFIER_OVERLAY)
         .setProgressBar(GuiTextures.PROGRESS_BAR_EXTRACT, FillDirection.LEFT_TO_RIGHT)
