@@ -47,22 +47,6 @@
 			x: 3.0d
 			y: -3.5d
 		}
-		{
-			id: "4B5723B1DD23DF6E"
-			tasks: [{
-				id: "7AFAA37946682C2A"
-				item: {
-					Count: 1b
-					id: "minecraft:wooden_pickaxe"
-					tag: {
-						Damage: 0
-					}
-				}
-				type: "item"
-			}]
-			x: 6.0d
-			y: -3.5d
-		}
 	]
 	title: "The Beginning."
 }

@@ -56,6 +56,30 @@ ServerEvents.recipes(event => {
         .duration(100)
         .EUt(7)
 
+        event.recipes.gtceu.component_assembling('gtceu:primitive_assembled_vaccuum_tubes')
+        .itemInputs('gtceu:glass_tube', '2x gtceu:steel_ring', '4x gtceu:copper_foil')
+        .itemOutputs('gtceu:vacuum_tube')
+        .duration(100)
+        .EUt(7)
+
+        event.recipes.gtceu.component_assembling('primitive_resistors_normal_coal')
+        .itemInputs('4x gtceu:copper_fine_wire', '2x minecraft:paper', '2x gtceu:sticky_resin', '#c:coal_dusts')
+        .itemOutputs('gtceu:resistor')
+        .duration(100)
+        .EUt(7)
+
+        event.recipes.gtceu.component_assembling('primitive_resistors_charcoal')
+        .itemInputs('4x gtceu:copper_fine_wire', '2x minecraft:paper', '2x gtceu:sticky_resin', '#c:charcoal_dusts')
+        .itemOutputs('gtceu:resistor')
+        .duration(100)
+        .EUt(7)
+
+        event.recipes.gtceu.component_assembling('primitive_resistors_coke')
+        .itemInputs('4x gtceu:copper_fine_wire', '2x minecraft:paper', '2x gtceu:sticky_resin', '#c:coke_dusts')
+        .itemOutputs('2x gtceu:resistor')
+        .duration(100)
+        .EUt(7)
+
     event.shaped(
         Item.of('3x gtceu:resin_circuit_board'),
         ['AAA', 'BBB', 'AAA',],

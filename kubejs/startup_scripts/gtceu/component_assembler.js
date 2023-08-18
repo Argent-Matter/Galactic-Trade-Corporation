@@ -1,6 +1,6 @@
 GTCEuStartupEvents.registry('gtceu:machine', event => {
     event.create('component_assembler', 'simple', GTValues.LV, GTValues.MV, GTValues.HV)
-    .recipeType('component_assembling')
+    .recipeType('component_assembling', true ,true)
     .workableTieredHullRenderer(GTCEu.id("block/machines/component_assembler"))
 })
 
