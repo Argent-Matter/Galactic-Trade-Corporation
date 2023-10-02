@@ -1,0 +1,15 @@
+{
+  "type": "ae2:transform",
+  "circumstance": {
+    "type": "fluid",
+    "tag": "tconstruct:earth_slime"
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "botania:water_bowl"
+  }
+}

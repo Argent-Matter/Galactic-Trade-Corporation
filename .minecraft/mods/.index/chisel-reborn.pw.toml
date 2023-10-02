@@ -1,0 +1,14 @@
+name = "Chisel Reborn"
+filename = "chisel-1.6+1.20.1+templates2-inside.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "811ae844e0b18e5f5eaeca6a67ff96e2cdfb465b"
+
+[update]
+[update.curseforge]
+file-id = 4729006
+project-id = 551763

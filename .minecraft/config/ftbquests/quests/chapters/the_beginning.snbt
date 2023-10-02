@@ -1,0 +1,163 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_beginning"
+	group: "3FC563BA9DA5BC7D"
+	icon: "minecraft:grass_block"
+	id: "1EB116F853BE7C32"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"&cWelcome to (no pack name yet) this is a custom skyblock with a \"pinch of lore aka 'the experiment'\"!"
+				"&cYour job here is to complete set challenges and a face a powerful enemy \"Chemistry\" using the infamous Gregtech Mod. "
+				"&cAfter completing set challenges you will find the key to End this Experiment.&r"
+			]
+			icon: "tconstruct:earth_slime_sapling"
+			id: "7670B2A506A646C4"
+			rewards: [{
+				id: "00677DCDEAB33E0D"
+				item: "minecraft:apple"
+				title: "Either Take It Leave It... You Choose"
+				type: "item"
+			}]
+			size: 1.5d
+			subtitle: "*Blackout..* You wake finding yourself on a strange floating island with some strange \"meteors\" around it.."
+			tasks: [{
+				id: "7D7A8CBAE9AE76AC"
+				title: "Welcome!"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["7670B2A506A646C4"]
+			description: ["&e[Harvest Greenheart Logs]&r"]
+			id: "59095C2D5ADF23B2"
+			size: 1.1d
+			subtitle: "It looks familiar. but still its a strange lifeform... A Slime+Tree=?"
+			tasks: [{
+				icon: "tconstruct:greenheart_log"
+				id: "0C43D14D47386DF9"
+				item: "tconstruct:greenheart_log"
+				match_nbt: false
+				type: "item"
+			}]
+			title: "There's Something Odd Here."
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["59095C2D5ADF23B2"]
+			description: ["&a*Hint make some bowls and drop then in the water to fill them with liquid slime.&r"]
+			icon: "botania:water_bowl"
+			id: "3BB653923FFBD016"
+			shape: "square"
+			size: 1.2d
+			subtitle: "Well.. Since you're on this small island the only thing you can drink is that green goo, I know it doesn't look very appetizing but what can you do? You choose to be here."
+			tasks: [
+				{
+					id: "77AFE0A986B05247"
+					item: "minecraft:bowl"
+					type: "item"
+				}
+				{
+					id: "0FF49132E1CEB7EA"
+					item: "botania:water_bowl"
+					type: "item"
+				}
+			]
+			title: "Are you thirsty? Hope you arent picky...."
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["59095C2D5ADF23B2"]
+			description: ["&aThese are the ORES you're gonna need to get further in the pack&r"]
+			icon: "gtceu:iron_ore"
+			id: "446D60B5FFBCFBCD"
+			size: 1.25d
+			subtitle: "After looking around for a while you should've noticed that these 'meteor like structures' are actually Gregtech ore veins, so what are you waiting for? Go and mine if you ever want to get out"
+			tasks: [
+				{
+					id: "363E36522D9DBB16"
+					item: {
+						Count: 1b
+						id: "itemfilters:tag"
+						tag: {
+							value: "c:iron_ores"
+						}
+					}
+					title: "Any #c:iron_ores"
+					type: "item"
+				}
+				{
+					id: "451FFB67C37437DE"
+					item: {
+						Count: 1b
+						id: "itemfilters:tag"
+						tag: {
+							value: "c:copper_ores"
+						}
+					}
+					title: "Any #c:copper_ores"
+					type: "item"
+				}
+				{
+					id: "355FD21855251D75"
+					item: {
+						Count: 1b
+						id: "itemfilters:tag"
+						tag: {
+							value: "c:gold_ores"
+						}
+					}
+					title: "Any #c:gold_ores"
+					type: "item"
+				}
+				{
+					id: "03FC119D01E90642"
+					item: {
+						Count: 1b
+						id: "itemfilters:tag"
+						tag: {
+							value: "c:coal_ores"
+						}
+					}
+					title: "Any #c:coal_ores"
+					type: "item"
+				}
+				{
+					id: "6638CDE7A35A8A85"
+					item: {
+						Count: 1b
+						id: "itemfilters:tag"
+						tag: {
+							value: "c:tin_ores"
+						}
+					}
+					title: "Any #c:tin_ores"
+					type: "item"
+				}
+			]
+			title: "Time To Mine!"
+			x: 3.0d
+			y: -0.5d
+		}
+		{
+			id: "62BD0B81961B5A06"
+			size: 1.25d
+			tasks: [{
+				id: "3B9013D894C78D83"
+				item: "gtceu:stone_dust"
+				type: "item"
+			}]
+			title: "Yeah right.... How am I gonna get Stone?"
+			x: 3.0d
+			y: 2.0d
+		}
+	]
+	title: "The Beginning."
+}

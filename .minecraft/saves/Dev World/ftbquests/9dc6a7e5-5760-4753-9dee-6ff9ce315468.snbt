@@ -1,0 +1,22 @@
+{
+	claimed_rewards: { }
+	rewards_blocked: false
+	task_progress: { }
+	uuid: "9dc6a7e5576047539dee6ff9ce315468"
+	can_edit: true
+	version: 1
+	name: "NemEzanevem"
+	pinned_quests: [ ]
+	lock: false
+	started: {
+		1EB116F853BE7C32: 1684687581709L
+		0000000000000001: 1684687581709L
+		59A4BD00E639F6D5: 1684687581709L
+		2899C2D64AE68352: 1684687581709L
+	}
+	completed: {
+		2899C2D64AE68352: 1684687581711L
+	}
+	chapter_pinned: false
+	auto_pin: false
+}

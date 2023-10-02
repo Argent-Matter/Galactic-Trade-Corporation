@@ -1,0 +1,14 @@
+name = "Ding (Fabric)"
+filename = "Ding-1.20.1-Fabric-1.4.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "08db53ceca2fd56ba4cbc08e238c58ba43b318aa"
+
+[update]
+[update.curseforge]
+file-id = 4618853
+project-id = 822694

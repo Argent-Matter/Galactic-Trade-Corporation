@@ -1,0 +1,14 @@
+name = "Yet Another World Protector"
+filename = "yawp-1.20.1-0.0.2.9-beta3-fabric.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "b0f4cbf21d315d8cc534386acb2dc24bd828eacf"
+
+[update]
+[update.curseforge]
+file-id = 4702332
+project-id = 663276

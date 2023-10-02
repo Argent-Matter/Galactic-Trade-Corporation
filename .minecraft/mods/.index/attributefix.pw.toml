@@ -1,0 +1,14 @@
+name = "AttributeFix"
+filename = "AttributeFix-Fabric-1.20.1-21.0.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "d90baaeeed627372044405500d5e5ea8832801c5"
+
+[update]
+[update.curseforge]
+file-id = 4714728
+project-id = 280510

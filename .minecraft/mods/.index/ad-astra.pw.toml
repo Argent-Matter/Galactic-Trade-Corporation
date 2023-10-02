@@ -1,0 +1,14 @@
+name = "Ad Astra"
+filename = "ad_astra-fabric-1.20.1-1.15.4.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "4f3904c169a6ce648675e3ce57962fb8e30a87c6"
+
+[update]
+[update.curseforge]
+file-id = 4774341
+project-id = 635042

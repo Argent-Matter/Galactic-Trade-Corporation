@@ -1,0 +1,14 @@
+name = "CompleteConfig"
+filename = "completeconfig-2.5.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "1c9ea8fb5cbc7d9aa39c9f388f87ee5a2e91fc87"
+
+[update]
+[update.curseforge]
+file-id = 4667562
+project-id = 381257

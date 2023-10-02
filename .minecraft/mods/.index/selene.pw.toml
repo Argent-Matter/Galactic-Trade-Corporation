@@ -1,0 +1,14 @@
+name = "Moonlight"
+filename = "moonlight-1.20-2.8.40-fabric.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "d182157368a574c4b50ccd0c1cac901e301f8a13"
+
+[update]
+[update.curseforge]
+file-id = 4777232
+project-id = 499980

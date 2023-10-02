@@ -1,0 +1,14 @@
+name = "Item Filters"
+filename = "item-filters-fabric-2001.1.0-build.55.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "36f9b508805c7531e83abc4fdb4cfcf864228c8a"
+
+[update]
+[update.curseforge]
+file-id = 4728208
+project-id = 309674

@@ -1,0 +1,14 @@
+name = "CC: Tweaked"
+filename = "cc-tweaked-1.20.1-fabric-1.108.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "be11906aefeb4af8341662289e01cf0022997963"
+
+[update]
+[update.curseforge]
+file-id = 4726253
+project-id = 282001

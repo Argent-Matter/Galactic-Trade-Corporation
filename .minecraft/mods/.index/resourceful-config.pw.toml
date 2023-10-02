@@ -1,0 +1,14 @@
+name = "Resourceful Config"
+filename = "resourcefulconfig-fabric-1.20.1-2.1.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "8dfc26fe140d5e1e6953076c6257a9799a10f5af"
+
+[update]
+[update.curseforge]
+file-id = 4683093
+project-id = 714059

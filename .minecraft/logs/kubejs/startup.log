@@ -1,0 +1,32 @@
+[17:02:53] [INIT] KubeJS 2001.6.3-build.52; MC 2001 fabric
+[17:02:53] [INIT] Loaded plugins:
+[17:02:53] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricPlugin
+[17:02:53] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[17:02:53] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[17:02:53] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
+[17:02:54] [INFO] Loaded script startup_scripts:avaritia_refabricated/avaritia_refabricated.js in 0.073 s
+[17:02:54] [INFO] Loaded script startup_scripts:gtceu/machines/component_assembler.js in 0.001 s
+[17:02:54] [INFO] Loaded script startup_scripts:gtceu/machines/primitive_assembler.js in 0.001 s
+[17:02:54] [INFO] Loaded script startup_scripts:gtceu/machines/roaster.js in 0.001 s
+[17:02:54] [INFO] Loaded script startup_scripts:gtceu/machines/shipping_port.js in 0.002 s
+[17:02:54] [INFO] Loaded script startup_scripts:gtceu/machines/steam_roaster.js in 0.001 s
+[17:02:54] [INFO] Loaded script startup_scripts:gtceu/materials/Circuit_Stuff.js in 0.001 s
+[17:02:54] [INFO] Loaded script startup_scripts:gtceu/materials/Custom_Coils.js in 0.002 s
+[17:02:54] [INFO] Loaded script startup_scripts:gtceu/materials/MaterialRegistry.js in 0.004 s
+[17:02:54] [INFO] Loaded script startup_scripts:gtceu/materials/Mica_Stuff.js in 0.0 s
+[17:02:54] [INFO] Loaded script startup_scripts:gtceu/materials/ore_stone_types.js in 0.0 s
+[17:02:54] [INFO] gtceu/materials/wires.js#1: Loaded Java class 'com.gregtechceu.gtceu.api.data.chemical.material.properties.PropertyKey'
+[17:02:54] [INFO] gtceu/materials/wires.js#2: Loaded Java class 'com.gregtechceu.gtceu.api.data.chemical.material.properties.WireProperties'
+[17:02:54] [INFO] Loaded script startup_scripts:gtceu/materials/wires.js in 0.019 s
+[17:02:54] [INFO] Loaded script startup_scripts:pack/early_game.js in 0.001 s
+[17:02:54] [INFO] Loaded script startup_scripts:pack/heart.js in 0.002 s
+[17:02:54] [INFO] Loaded script startup_scripts:pack/lang_changes.js in 0.0 s
+[17:02:54] [INFO] Loaded 15/15 KubeJS startup scripts in 1.174 s
+[17:02:56] [WARN] gtceu/materials/Custom_Coils.js#27: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[17:02:56] [WARN] gtceu/materials/Custom_Coils.js#43: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[17:02:56] [WARN] gtceu/materials/Custom_Coils.js#59: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[17:02:56] [WARN] gtceu/materials/Custom_Coils.js#75: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[17:02:56] [WARN] gtceu/materials/Custom_Coils.js#91: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[17:02:56] [WARN] pack/early_game.js#2: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[17:02:56] [WARN] pack/early_game.js#3: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[17:02:56] [WARN] pack/early_game.js#4: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
