@@ -24,5 +24,4 @@ ServerEvents.recipes(event => {
     event.remove({ id: 'gtceu:assembler/coil_trinium' })
     event.remove({ id: 'gtceu:assembler/coil_tritanium' })
     event.remove({ id: 'gtceu:compressor/compress_plate_dust_mica_pulp_' })
-    aaaa
 })
