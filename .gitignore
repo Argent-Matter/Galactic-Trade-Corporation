@@ -39,3 +39,7 @@ config/roughlyenoughitems/config.json5
 !Hephaestus*.jar
 /emojiful
 fancymenu_data/last_world.fmdata
+logs/latest.log
+logs/rei.log
+config/tconstruct-common-1.toml.bak
+options.txt
