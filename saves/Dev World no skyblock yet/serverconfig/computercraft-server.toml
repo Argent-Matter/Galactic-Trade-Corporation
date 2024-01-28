@@ -12,9 +12,6 @@ default_computer_settings = ""
 computer_space_limit = 1000000
 #The disk space limit for floppy disks, in bytes.
 floppy_space_limit = 125000
-#Set this to true to disable Lua 5.1 functions that will be removed in a future
-#update. Useful for ensuring forward compatibility of your programs now.
-disable_lua51_features = false
 #Log exceptions thrown by peripherals and other Lua objects. This makes it easier
 #for mod authors to debug problems, but may result in log spam should people use
 #buggy methods.

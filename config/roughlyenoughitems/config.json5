@@ -1,28 +1,19 @@
 {
 	"basics": {
 		"favorites": [
-			"{id:\"ftbchunks:claim_chunks\",json:'{\"group\":\"ftblibrary:util\",\"icon\":\"ftblibrary:icons/map; tint\\\\u003d#FF80FFFF\",\"x\":400,\"click\":\"ftbchunks:open_claim_gui\"}',type:\"ftblibrary:sidebar_button\"}",
 			"{id:\"ftbteams:my_team\",json:'{\"group\":\"ftblibrary:info\",\"icon\":\"ftbteams:textures/teams.png\",\"x\":0,\"click\":\"ftbteams:open_gui\",\"loading_screen\":true}',type:\"ftblibrary:sidebar_button\"}",
 			"{id:\"ftbquests:quests\",json:'{\"group\":\"ftblibrary:info\",\"icon\":\"ftbquests:item/book\",\"x\":610,\"click\":\"ftbquests:open_gui\",\"required_server_mods\":[\"ftbquests\"],\"custom_text\":true}',type:\"ftblibrary:sidebar_button\"}",
-			"{data:{Count:1b,id:\"botania:dreamwood_fence_gate\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-			"{data:{Count:1b,id:\"gtceu:iron_small_dust\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-			"{data:{Count:1b,id:\"minecraft:emerald_ore\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-			"{data:{Count:1b,id:\"minecraft:spruce_planks\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-			"{data:{Count:1b,id:\"minecraft:bowl\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-			"{data:{Count:1b,id:\"minecraft:polished_andesite\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-			"{data:{Count:1b,id:\"minecraft:oak_planks\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-			"{data:{Count:1b,id:\"minecraft:lava_bucket\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-			"{data:{Count:1b,id:\"minecraft:birch_planks\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+			"{id:\"ftbessentials:trash_can\",json:'{\"group\":\"ftblibrary:util\",\"icon\":\"ftblibrary:icons/bin\",\"x\":150,\"click\":\"command:/trashcan\",\"required_server_mods\":[\"ftbessentials\"]}',type:\"ftblibrary:sidebar_button\"}",
+			"{id:\"ftbchunks:chunks\",json:'{\"group\":\"ftblibrary:util\",\"icon\":\"ftblibrary:icons/map\",\"x\":310,\"click\":\"ftbchunks:open_gui\"}',type:\"ftblibrary:sidebar_button\"}",
+			"{id:\"ftbchunks:claim_chunks\",json:'{\"group\":\"ftblibrary:util\",\"icon\":\"ftblibrary:icons/map; tint\\\\u003d#FF80FFFF\",\"x\":400,\"click\":\"ftbchunks:open_claim_gui\"}',type:\"ftblibrary:sidebar_button\"}",
+			"{data:{Count:1b,id:\"minecraft:stripped_warped_stem\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:birch_planks\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:jungle_planks\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
 		],
-		"hiddenFavorites": [
-			"{id:\"ftbchunks:chunks\",json:'{\"group\":\"ftblibrary:util\",\"icon\":\"ftblibrary:icons/map\",\"x\":310,\"click\":\"ftbchunks:open_gui\"}',type:\"ftblibrary:sidebar_button\"}"
-		],
-		"displayHistory": [
-			"{DisplayHistoryCategory:\"gtceu:multiblock_info\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"862572d0-5ce6-41b0-8508-17b760095da1\"}",
-			"{DisplayHistoryCategory:\"tconstruct:melting\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"19bdd97b-a72e-4899-a388-522d07533d53\"}"
-		],
+		"hiddenFavorites": [],
+		"displayHistory": [],
 		// Declares whether cheating mode is on.
-		"cheating": true,
+		"cheating": false,
 		"favoritesEnabled": true,
 		"keyBindings": {
 			"recipeKeybind": {
@@ -162,7 +153,7 @@
 			"showCraftableOnlyButton": true
 		},
 		// Declares the appearance of recipe's border.
-		"recipeBorder": "LIGHTER",
+		"recipeBorder": "DEFAULT",
 		// Declares whether entry panel is scrolled.
 		"scrollingEntryListWidget": false,
 		"horizontalEntriesBoundaries": 1.0,

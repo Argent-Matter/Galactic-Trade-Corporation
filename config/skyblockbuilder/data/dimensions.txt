@@ -1,0 +1,14 @@
+minecraft:overworld
+gcyr:mars
+gcyr:mars_orbit
+minecraft:the_nether
+minecraft:the_end
+gcyr:mercury_orbit
+gcyr:venus_orbit
+bloodmagic:dungeon
+gcyr:mercury
+gcyr:luna
+gcyr:venus
+gcyr:luna_orbit
+gcyr:overworld_orbit
+ae2:spatial_storage

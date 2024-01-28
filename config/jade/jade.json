@@ -28,7 +28,7 @@
     "overlayAnchorY": 0.0,
     "overlaySquare": false,
     "flipMainHand": false,
-    "autoScaleThreshold": 0.5,
+    "autoScaleThreshold": 0.4,
     "alpha": 0.7,
     "iconMode": "TOP",
     "animation": true,

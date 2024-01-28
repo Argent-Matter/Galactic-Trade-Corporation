@@ -1,14 +1,14 @@
-name = "Roughly Enough Items"
-filename = "RoughlyEnoughItems-12.0.665.jar"
+name = "Roughly Enough Items Fabric/Forge (REI)"
+filename = "RoughlyEnoughItems-12.0.684-forge.jar"
 side = "both"
 
 [download]
 mode = "metadata:curseforge"
 url = ""
 hash-format = "sha1"
-hash = "16940571733214d11c008915fca75b1231b3f303"
+hash = "0661579c44f83fef980829831ed02122b74ab6f1"
 
 [update]
 [update.curseforge]
-file-id = 4774394
+file-id = 4951142
 project-id = 310111

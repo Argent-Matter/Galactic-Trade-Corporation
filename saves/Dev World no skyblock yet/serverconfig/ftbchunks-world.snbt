@@ -108,6 +108,11 @@
 	# Default: true
 	protect_unknown_explosions: true
 	
+	# Should PvP combat be allowed in claimed chunks? Default is ALWAYS; NEVER prevents it in all claimed chunks; PER_TEAM allows teams to decide if PvP is allowed in their claims
+	# Default: "always"
+	# Valid values: "always", "never", "per_team"
+	pvp_mode: "always"
+	
 	# If true, the player must have the 'ftbchunks_mapping' Game stage to be able to use the map and minimap.
 	# Requires KubeJS and/or Gamestages to be installed.
 	# Default: false

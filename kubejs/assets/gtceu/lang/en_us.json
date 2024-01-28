@@ -29,5 +29,7 @@
     "block.gtceu.hp_primitive_component_assembler": "High Pressure Component Steam Assembler",
     "block.gtceu.lv_component_assembler": "Basic Component Assembler",
     "block.gtceu.mv_component_assembler": "§bAdvanced Component Assembler §r",
-    "block.gtceu.hv_component_assembler": "§6Advanced Component Assembler II"
+    "block.gtceu.hv_component_assembler": "§6Advanced Component Assembler II",
+    "tagprefix.marble": "Marble %s Ore"
+
 }

@@ -1,32 +1,20 @@
-[17:02:53] [INIT] KubeJS 2001.6.3-build.52; MC 2001 fabric
-[17:02:53] [INIT] Loaded plugins:
-[17:02:53] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricPlugin
-[17:02:53] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
-[17:02:53] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
-[17:02:53] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
-[17:02:54] [INFO] Loaded script startup_scripts:avaritia_refabricated/avaritia_refabricated.js in 0.073 s
-[17:02:54] [INFO] Loaded script startup_scripts:gtceu/machines/component_assembler.js in 0.001 s
-[17:02:54] [INFO] Loaded script startup_scripts:gtceu/machines/primitive_assembler.js in 0.001 s
-[17:02:54] [INFO] Loaded script startup_scripts:gtceu/machines/roaster.js in 0.001 s
-[17:02:54] [INFO] Loaded script startup_scripts:gtceu/machines/shipping_port.js in 0.002 s
-[17:02:54] [INFO] Loaded script startup_scripts:gtceu/machines/steam_roaster.js in 0.001 s
-[17:02:54] [INFO] Loaded script startup_scripts:gtceu/materials/Circuit_Stuff.js in 0.001 s
-[17:02:54] [INFO] Loaded script startup_scripts:gtceu/materials/Custom_Coils.js in 0.002 s
-[17:02:54] [INFO] Loaded script startup_scripts:gtceu/materials/MaterialRegistry.js in 0.004 s
-[17:02:54] [INFO] Loaded script startup_scripts:gtceu/materials/Mica_Stuff.js in 0.0 s
-[17:02:54] [INFO] Loaded script startup_scripts:gtceu/materials/ore_stone_types.js in 0.0 s
-[17:02:54] [INFO] gtceu/materials/wires.js#1: Loaded Java class 'com.gregtechceu.gtceu.api.data.chemical.material.properties.PropertyKey'
-[17:02:54] [INFO] gtceu/materials/wires.js#2: Loaded Java class 'com.gregtechceu.gtceu.api.data.chemical.material.properties.WireProperties'
-[17:02:54] [INFO] Loaded script startup_scripts:gtceu/materials/wires.js in 0.019 s
-[17:02:54] [INFO] Loaded script startup_scripts:pack/early_game.js in 0.001 s
-[17:02:54] [INFO] Loaded script startup_scripts:pack/heart.js in 0.002 s
-[17:02:54] [INFO] Loaded script startup_scripts:pack/lang_changes.js in 0.0 s
-[17:02:54] [INFO] Loaded 15/15 KubeJS startup scripts in 1.174 s
-[17:02:56] [WARN] gtceu/materials/Custom_Coils.js#27: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
-[17:02:56] [WARN] gtceu/materials/Custom_Coils.js#43: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
-[17:02:56] [WARN] gtceu/materials/Custom_Coils.js#59: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
-[17:02:56] [WARN] gtceu/materials/Custom_Coils.js#75: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
-[17:02:56] [WARN] gtceu/materials/Custom_Coils.js#91: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
-[17:02:56] [WARN] pack/early_game.js#2: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
-[17:02:56] [WARN] pack/early_game.js#3: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
-[17:02:56] [WARN] pack/early_game.js#4: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[23:05:48] [INIT] KubeJS 2001.6.4-build.127; MC 2001 forge
+[23:05:48] [INIT] Loaded plugins:
+[23:05:48] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[23:05:48] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[23:05:48] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[23:05:48] [INIT] - pie.ilikepiefoo.AdditionsPlugin
+[23:05:48] [INIT] - com.bobvarioa.kubejsreiruntime.integrations.kube.KubePlugin
+[23:05:48] [INIT] - com.almostreliable.kubeio.kube.KubePlugin
+[23:05:48] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
+[23:05:48] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[23:05:48] [INIT] - pie.ilikepiefoo.kubejsoffline.OfflinePlugin
+[23:05:48] [INIT] - argent_matter.gcyr.integration.kjs.GCyRKubeJSPlugin
+[23:05:48] [INIT] - com.prunoideae.KubeJSBotaniaPlugin
+[23:05:48] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[23:05:49] [INFO] Loaded script startup_scripts:mods/gtceu/extra_stuff_etc.js in 0.049 s
+[23:05:49] [INFO] mods/gtceu/ore_registry.js#1: Loaded Java class 'dev.latvian.mods.kubejs.util.UtilsJS'
+[23:05:49] [INFO] Loaded script startup_scripts:mods/gtceu/ore_registry.js in 0.003 s
+[23:05:49] [INFO] Loaded 2/2 KubeJS startup scripts in 0.76 s with 0 errors and 0 warnings
+[23:05:49] [WARN] mods/gtceu/extra_stuff_etc.js#8: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[23:05:49] [WARN] mods/gtceu/extra_stuff_etc.js#16: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!

@@ -1,0 +1,14 @@
+name = "Gregicality Rocketry"
+filename = "Gregicality Rocketry-1.20.1-0.1.3-a.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "29fc653d13924bae50fa379630e4719cd291cc29"
+
+[update]
+[update.curseforge]
+file-id = 5048275
+project-id = 922713

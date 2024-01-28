@@ -1,5 +1,14 @@
 {
   "bookGuiScale": 0,
-  "clickedVisualize": false,
-  "bookData": {}
+  "clickedVisualize": true,
+  "bookData": {
+    "bloodmagic:guide": {
+      "viewedEntries": [
+        "bloodmagic:rituals/ritual_stones",
+        "bloodmagic:rituals/ritual_list/ritual_meteor"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
 }
