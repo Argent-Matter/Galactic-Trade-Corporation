@@ -11,34 +11,34 @@ config/brandon3055/ResourceCache
 Cat-Downloader.log
 
 # Optional: Generic Modpack Ignores
-**/*.log
-/.vscode
-/logs
-/local
-/esm
-**/*.log.gz
-/.mixin.out
-saves
-journeymap
-screenshots
-downloads
-backups
-resourcepacks
-shaderpacks
-crash-reports
-dashloader-cache
-options.txt
-config/jei/worldSettings.cfg
-.curseclient
-.rhino.local.properties
-usercache.json
-usernamecache.json
-config/byg/backups/last_working_configs_backup.zip
-config/roughlyenoughitems/config.json5
+$ cat .gitignore
+#Whitelist
+/*
+/config/worldedit/schematics
+/scripts/generated
 
-/emojiful
-fancymenu_data/last_world.fmdata
-logs/latest.log
-logs/rei.log
-config/tconstruct-common-1.toml.bak
-options.txt
+#Folders
+!/bansoukou/
+!/config/
+!/patchouli_books
+!/resources
+!/oresources
+!/scripts
+!/structures
+!/ModWatcher
+
+#Files
+!/.gitignore
+!/README.md
+!/PlanAndProgress.md
+
+# This is a part of the modpack!
+!/Title.txt
+
+scripts/.VSCodeCounter/
+resources/crafttweaker/lang/.VSCodeCounter/
+scripts/.brackets.zs
+scripts/.d.zs
+config/triumph/documentation/
+config/triumph/script/triumph/example/
+ModWatcher/stage/*.jar.disabled
