@@ -55,5 +55,9 @@ config/voicechat/voicechat-client.properties
 config/jade/sort-order.json
 config/jei*
 options.txt
+local
+saves
+screenshots
+modernfix
 config/embeddium++.toml
 config/embeddium++.toml
