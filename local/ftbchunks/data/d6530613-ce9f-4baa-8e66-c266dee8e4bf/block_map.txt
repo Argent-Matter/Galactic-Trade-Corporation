@@ -43,6 +43,7 @@
 #314645 tconstruct:earth_slime_leaves
 #A8B9C3 tconstruct:earth_vanilla_slime_grass
 #40C105 bloodmagic:earthritualstone
+#4576E9 gtceu:electric_blast_furnace
 #5671B5 gtceu:ev_bedrock_ore_miner
 #76EE82 gtceu:firebricks
 #163799 bloodmagic:fireritualstone
@@ -58,6 +59,7 @@
 #BB4C74 tconstruct:greenheart_trapdoor
 #CFA1C4 minecraft:grindstone
 #656D96 gtceu:hastelloy_x_frame
+#9D79AA gtceu:heatproof_machine_casing
 #123594 gtceu:hematite_ore
 #5555CF gtceu:high_temperature_smelting_casing
 #3DF449 gtceu:hp_primitive_component_assembler
@@ -78,6 +80,8 @@
 #7F9BDA gtceu:infinity_hex_wire
 #7FC12C gtceu:infinity_octal_cable
 #8676FF gtceu:infinity_single_wire
+#437743 bloodmagic:inversion_pillar
+#F3CB56 bloodmagic:inversion_pillar_cap
 #9B60B8 minecraft:iron_door
 #DB0765 gtceu:iron_ore
 #D7EADE minecraft:iron_ore

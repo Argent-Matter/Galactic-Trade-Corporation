@@ -14,7 +14,7 @@ recipes:
 
   # Whether to make crafting recipes for Bricks, Firebricks, Nether Bricks, and Coke Bricks harder.
   # Default: false
-  harderBrickRecipes: true
+  harderBrickRecipes: false
 
   # Whether to nerf Wood crafting to 2 Planks from 1 Log, and 2 Sticks from 2 Planks.
   # Default: false
@@ -51,7 +51,7 @@ recipes:
 
   # Recipes for items like Iron Doors, Trapdoors, Anvil require Iron Plates, Rods, and more.
   # Default: false
-  hardAdvancedIronRecipes: true
+  hardAdvancedIronRecipes: false
 
   # Whether to make coloring blocks like Concrete or Glass harder.
   # Default: false
@@ -94,7 +94,7 @@ worldgen:
 
   # Allow GregTech to add additional GregTech Items as loot in various structures.
   # Default: true
-  addLoot: false
+  addLoot: true
 
   oreVeins:
     # The grid size (in chunks) for ore vein generation
@@ -119,7 +119,7 @@ worldgen:
 
     # Make bedrock ore/fluid veins infinite?
     # Default: false
-    infiniteBedrockOresFluids: true
+    infiniteBedrockOresFluids: false
 
     # Sets the maximum number of chunks that may be cached for ore vein generation.
     # Higher values may improve world generation performance, but at the cost of more RAM usage.
@@ -141,7 +141,7 @@ machines:
 
   # Whether to require a Wrench, Wirecutter, or other GregTech tools to break machines, casings, wires, and more.
   # Default: false
-  requireGTToolsForBlocks: true
+  requireGTToolsForBlocks: false
 
   # Whether machines explode in rainy weather or when placed next to certain terrain, such as fire or lava
   # Default: false
@@ -154,7 +154,7 @@ machines:
   # Whether machines or boilers damage the terrain when they explode.
   # Note machines and boilers always explode when overloaded with power or met with special conditions, regardless of this config.
   # Default: true
-  doesExplosionDamagesTerrain: true
+  doesExplosionDamagesTerrain: false
 
   # Divisor for Recipe Duration per Overclock.
   # Default: 2.0
@@ -185,12 +185,26 @@ machines:
   # Default: true
   enableMaintenance: true
 
+  # Whether to enable World Accelerators, which accelerate ticks for surrounding Tile Entities, Crops, etc.
+  # Default: true
+  enableWorldAccelerators: true
+
+  # List of TileEntities that the World Accelerator should not accelerate.
+  # GregTech TileEntities are always blocked.
+  # Entries must be in a fully qualified format. For example: appeng.tile.networking.TileController
+  # Default: none
+  worldAcceleratorBlacklist:
+
+  # Whether to use GT6-style pipe and cable connections, meaning they will not auto-connect unless placed directly onto another pipe or cable.
+  # Default: true
+  gt6StylePipesCables: true
+
   # Whether the machine's circuit slot need to be inserted a real circuit.
   ghostCircuit: true
 
   # Wether to add a "Bedrock Ore Miner" (also enables bedrock ore generation)
   # Default: false
-  doBedrockOres: true
+  doBedrockOres: false
 
   # What Kind of material should the bedrock ore miner output?
   # Default: "raw"
@@ -217,7 +231,7 @@ machines:
   # This is intended for modpack developers only, and is not playable without custom tweaks or addons.
   # Other mods can override this to true, regardless of the config file.
   # Default: false
-  highTierContent: true
+  highTierContent: false
 
   # Whether search for recipes asynchronously.
   #  Default: true
@@ -241,10 +255,23 @@ client:
   # #D2DCFF is the classic blue from GT5.
   defaultPaintingColor: #FFFFFF
 
+  # The default color to overlay onto Machine (and other) UIs.
+  # 16777215 (#FFFFFF) is no coloring (like GTCE).
+  # 13819135 (#D2DCFF in decimal) is the classic blue from GT5 (default).
+  defaultUIColor: #FFFFFF
+
   # Use VBO cache for multiblock preview.
   # Disable it if you have issues with rendering multiblocks.
   # Default: true
   useVBO: true
+
+  # Duration of the multiblock in-world preview (s)
+  # Default: 10
+  inWorldPreviewDuration: 10
+
+  # Duration of UI animations in ms
+  # Default: 300
+  animationTime: 300
 
 # Config options for Tools and Armor
 tools:

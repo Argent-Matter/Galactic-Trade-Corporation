@@ -86,6 +86,9 @@
 	#Changing this value will alter the hydraulic bar production of the Pneumatic Pump. The input, air, will stay the same
 	#Range: > 0
 	pneumatic_pump_efficiency = 40
+	#Minimum pressure required for the Pressurized Spawner to run
+	#Range: 1.0 ~ 20.0
+	pressurized_spawner_min_pressure = 10.0
 	#Speed multiplier per speed upgrade: speed mult = speedUpgradeSpeedMultiplier ^ num_of_speed_upgrades
 	#Range: 1.0 ~ 2.0
 	speed_upgrade_speed_multiplier = 1.5

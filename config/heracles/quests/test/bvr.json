@@ -1,0 +1,39 @@
+{
+  "dependencies": [],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "kkkkkkkkkkkkkk\n"
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "test": {
+        "position": [
+          -144,
+          -102
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "gtceu:uhv_ultimate_battery",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "bvr"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

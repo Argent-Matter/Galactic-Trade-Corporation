@@ -1,16 +1,11 @@
-[23:05:49] [INIT] KubeJS 2001.6.4-build.127; MC 2001 forge
-[23:05:49] [INIT] Loaded plugins:
-[23:05:49] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[23:05:49] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[23:05:49] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
-[23:05:49] [INIT] - pie.ilikepiefoo.AdditionsPlugin
-[23:05:49] [INIT] - com.bobvarioa.kubejsreiruntime.integrations.kube.KubePlugin
-[23:05:49] [INIT] - com.almostreliable.kubeio.kube.KubePlugin
-[23:05:49] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
-[23:05:49] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
-[23:05:49] [INIT] - pie.ilikepiefoo.kubejsoffline.OfflinePlugin
-[23:05:49] [INIT] - argent_matter.gcyr.integration.kjs.GCyRKubeJSPlugin
-[23:05:49] [INIT] - com.prunoideae.KubeJSBotaniaPlugin
-[23:05:49] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
-[23:05:49] [INFO] Loaded 0/0 KubeJS client scripts in 0.019 s with 0 errors and 0 warnings
-[23:05:57] [INFO] Client resource reload complete!
+[00:10:09] [INIT] KubeJS 2001.6.4-build.138; MC 2001 forge
+[00:10:09] [INIT] Loaded plugins:
+[00:10:09] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[00:10:09] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[00:10:09] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[00:10:09] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[00:10:09] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
+[00:10:09] [INIT] - net.cathienova.kubejsbloodmagic.KubeJSBloodMagicPlugin
+[00:10:09] [INIT] - com.klikli_dev.occultism_kubejs.KubeJSOccultismPlugin
+[00:10:09] [INFO] Loaded 0/0 KubeJS client scripts in 0.033 s with 0 errors and 0 warnings
+[00:10:21] [INFO] Client resource reload complete!

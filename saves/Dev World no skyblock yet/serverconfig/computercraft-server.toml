@@ -127,7 +127,7 @@ disabled_generic_methods = []
 	#unlimited.
 	#Range: > 0
 	max_requests = 16
-	#The number of websockets a computer can have open at one time. Set to 0 for unlimited.
+	#The number of websockets a computer can have open at one time.
 	#Range: > 1
 	max_websockets = 4
 	#Enable the "http" API on Computers. Disabling this also disables the "pastebin" and

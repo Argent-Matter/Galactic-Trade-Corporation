@@ -1,14 +1,13 @@
-name = "FerriteCore (Forge)"
-filename = "ferritecore-6.0.1-forge.jar"
-side = "both"
+filename = 'ferritecore-6.0.1-forge.jar'
+name = 'FerriteCore ((Neo)Forge)'
+side = 'both'
 
 [download]
-mode = "metadata:curseforge"
-url = ""
-hash-format = "sha1"
-hash = "417fb6ce8f52abf40bd9d0390371790f9576f8ba"
+hash = '417fb6ce8f52abf40bd9d0390371790f9576f8ba'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update]
 [update.curseforge]
 file-id = 4810975
 project-id = 429235

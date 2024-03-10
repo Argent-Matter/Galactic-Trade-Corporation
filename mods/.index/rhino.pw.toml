@@ -1,14 +1,13 @@
-name = "Rhino"
-filename = "rhino-forge-2001.2.2-build.18.jar"
-side = "both"
+filename = 'rhino-forge-2001.2.2-build.18.jar'
+name = 'Rhino'
+side = 'both'
 
 [download]
-mode = "metadata:curseforge"
-url = ""
-hash-format = "sha1"
-hash = "0a631b4e8235a777d08bd53d4f49dba388205cad"
+hash = '0a631b4e8235a777d08bd53d4f49dba388205cad'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update]
 [update.curseforge]
 file-id = 4944325
 project-id = 416294

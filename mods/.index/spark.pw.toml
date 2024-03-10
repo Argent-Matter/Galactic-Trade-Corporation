@@ -1,14 +1,13 @@
-name = "spark"
-filename = "spark-1.10.53-forge.jar"
-side = "both"
+filename = 'spark-1.10.53-forge.jar'
+name = 'spark'
+side = 'both'
 
 [download]
-mode = "metadata:curseforge"
-url = ""
-hash-format = "sha1"
-hash = "231fb325368c0660954f47bfb03493f5246fa4d1"
+hash = '231fb325368c0660954f47bfb03493f5246fa4d1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update]
 [update.curseforge]
 file-id = 4738952
 project-id = 361579

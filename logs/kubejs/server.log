@@ -1,19 +1,14 @@
-[23:23:08] [INIT] KubeJS 2001.6.4-build.127; MC 2001 forge
-[23:23:08] [INIT] Loaded plugins:
-[23:23:08] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[23:23:08] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[23:23:08] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
-[23:23:08] [INIT] - pie.ilikepiefoo.AdditionsPlugin
-[23:23:08] [INIT] - com.bobvarioa.kubejsreiruntime.integrations.kube.KubePlugin
-[23:23:08] [INIT] - com.almostreliable.kubeio.kube.KubePlugin
-[23:23:08] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
-[23:23:08] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
-[23:23:08] [INIT] - pie.ilikepiefoo.kubejsoffline.OfflinePlugin
-[23:23:08] [INIT] - argent_matter.gcyr.integration.kjs.GCyRKubeJSPlugin
-[23:23:08] [INIT] - com.prunoideae.KubeJSBotaniaPlugin
-[23:23:08] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
-[23:23:08] [INFO] Loaded script server_scripts:mods/bloodmagic/meteors.js in 0.001 s
-[23:23:08] [INFO] Loaded 1/1 KubeJS server scripts in 0.008 s with 0 errors and 0 warnings
-[23:23:08] [INFO] Scripts loaded
-[23:23:08] [INFO] [minecraft:block] Found 452 tags, added 4 objects, removed 0 objects
-[23:23:10] [INFO] Server resource reload complete!
+[00:10:51] [INIT] KubeJS 2001.6.4-build.138; MC 2001 forge
+[00:10:51] [INIT] Loaded plugins:
+[00:10:51] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[00:10:51] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[00:10:51] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[00:10:51] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[00:10:51] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
+[00:10:51] [INIT] - net.cathienova.kubejsbloodmagic.KubeJSBloodMagicPlugin
+[00:10:51] [INIT] - com.klikli_dev.occultism_kubejs.KubeJSOccultismPlugin
+[00:10:52] [INFO] Loaded script server_scripts:mods/bloodmagic/meteors.js in 0.002 s
+[00:10:52] [INFO] Loaded 1/1 KubeJS server scripts in 0.015 s with 0 errors and 0 warnings
+[00:10:52] [INFO] Scripts loaded
+[00:10:55] [INFO] [minecraft:block] Found 1048 tags, added 4 objects, removed 0 objects
+[00:11:01] [INFO] Server resource reload complete!
