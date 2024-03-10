@@ -1,15 +1,6 @@
 *.pdf
 config/brandon3055/ProjectIntelligence
 config/brandon3055/ResourceCache
-
-# Instance Sync
-**/*.jar
-!Cat-Downloader-Legacy*.jar
-**/*.jar.disabled
-**/*.disabled
-**/*.jar.meta
-Cat-Downloader.log
-
 /*
 !/config
 !/kubejs
@@ -17,18 +8,12 @@ Cat-Downloader.log
 !/.gitignore
 !/.gitattributes
 !/manifest.json
-
-!/mods/systeams*
-
 /mods/.index
-
 /config/fml.toml
 /config/jei/world/local/*
 /kubejs/probe
 /mods/.connector
-
 /mods/gtceu*
-
 config/fabric/indigo-renderer.properties
 config/roughlyenoughitems/pinyin.properties
 config/roughlyenoughitems/pinyin_double.properties
@@ -61,3 +46,12 @@ screenshots
 modernfix
 config/embeddium++.toml
 config/embeddium++.toml
+
+# Instance Sync
+**/*.jar
+!Cat-Downloader-Legacy*.jar
+**/*.jar.disabled
+**/*.disabled
+**/*.jar.meta
+Cat-Downloader.log
+
