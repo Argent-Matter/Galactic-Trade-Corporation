@@ -17,7 +17,6 @@
 /mods/.index*
 /mods/.connector
 /mods/memoryleakfix*
-mods/.index
 
 /config/fml.toml
 /config/jei/world/local/*
