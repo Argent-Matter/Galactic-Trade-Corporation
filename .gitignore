@@ -13,6 +13,7 @@
 !.editorconfig
 
 !/mods/systeams*
+!/mods/gtceu*
 
 /mods/.index*
 /mods/.connector
