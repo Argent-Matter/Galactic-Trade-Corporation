@@ -1,9 +1,8 @@
 minecraft:overworld
-minecraft:the_nether
-overworldmirror:overworld
-minecraft:the_end
-bloodmagic:dungeon
-aether:the_aether
 witherstormmod:bowels
 twilightforest:twilight_forest
+minecraft:the_nether
+bloodmagic:dungeon
+minecraft:the_end
+overworldmirror:overworld
 ae2:spatial_storage

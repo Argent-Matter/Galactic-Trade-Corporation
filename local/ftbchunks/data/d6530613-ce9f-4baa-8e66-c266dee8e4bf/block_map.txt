@@ -2,6 +2,7 @@
 #25C005 bloodmagic:airritualstone
 #FA75A8 minecraft:andesite
 #D41AAF gtceu:andesite_iron_ore
+#D31607 minecraft:andesite_wall
 #9D292C botania:apothecary_default
 #7389E2 botania:apothecary_mossy
 #A9A632 ftbquests:barrier
@@ -23,6 +24,7 @@
 #0165F1 minecraft:conduit
 #3BEB0B farmersdelight:cooking_pot
 #8C5E34 tconstruct:crafting_station
+#1CE592 gtceu:creative_energy
 #BF5353 create:creative_fluid_tank
 #485F9E ironchests:crystal_chest
 #CB1DCC gtceu:crystal_matrix_coil_block
@@ -49,10 +51,12 @@
 #163799 bloodmagic:fireritualstone
 #863EE4 functionalstorage:fluid_1
 #42D87E gtceu:frostproof_machine_casing
+#C5BB45 iceandfire:frozen_splinters
 #2F436F minecraft:glass
 #482EEB minecraft:glowstone
 #1C5548 ironchests:gold_chest
 #3F84B7 minecraft:grass_block
+#F94EB7 tombstone:grave_simple
 #4AEC1E minecraft:green_glazed_terracotta
 #7365C7 tconstruct:greenheart_door
 #904E92 tconstruct:greenheart_fence
@@ -102,7 +106,9 @@
 #EC91B9 gtceu:lp_primitive_roaster
 #189BC3 gtceu:luv_large_miner
 #8CEFB1 gtceu:luv_machine_hull
+#568E9B gtceu:lv_centrifuge
 #C05FFF gtceu:lv_electric_roaster
+#532131 gtceu:lv_resource_generator
 #91B682 gtceu:lv_super_chest
 #1B388E gtceu:maintenance_hatch
 #CACE49 gtceu:malachite_ore
@@ -118,10 +124,13 @@
 #C5DD7E gtceu:mega_blast_furnace
 #A48499 gtceu:moon_soapstone_ore
 #A4FC4B minecraft:mossy_cobblestone
+#387A29 multipiston:multipistonblock
 #7FC102 gtceu:mv_component_assembler
 #6AC1C0 gtceu:mv_electric_roaster
 #6F8021 gtceu:mv_super_chest
+#58D471 gtceu:mv_wiremill
 #858BD5 gtceu:naquadah_alloy_frame
+#308B47 minecraft:oak_door
 #AD9EB5 minecraft:oak_leaves
 #605CB5 minecraft:oak_pressure_plate
 #46FB1F minecraft:oak_wall_sign
@@ -129,6 +138,8 @@
 #4A5E4E minecraft:obsidian
 #F97609 gtceu:opv_machine_hull
 #2D954D gtceu:opv_quantum_chest
+#DAED69 minecraft:orange_concrete
+#4C4219 minecraft:orange_wool
 #7A6771 gtceu:osmiridium_small_item_pipe
 #2AD8E4 gtceu:osmium_huge_restrictive_item_pipe
 #BB6DCC tconstruct:part_builder
@@ -139,6 +150,7 @@
 #6F3B9C gtceu:ptfe_pipe_casing
 #868785 minecraft:rail
 #46C364 gtceu:reaction_safe_mixing_casing
+#65CF11 gtceu:redstone_ore
 #430B8F bloodmagic:ritualstone
 #514BAD gtceu:robust_machine_casing
 #45DA85 gtceu:rubber_leaves
@@ -163,6 +175,7 @@
 #3AEBC1 gtceu:stainless_steel_gearbox
 #874A31 templates:stairs
 #A9622E gtceu:steam_machine_casing
+#FEB74A gtceu:steam_miner
 #3E7273 gtceu:steel_frame
 #BEFC53 gtceu:steel_machine_casing
 #1881CB gtceu:steel_turbine_casing

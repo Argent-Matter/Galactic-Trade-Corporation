@@ -1,7 +1,5 @@
 minecraft:acacia
 productivebees:acacia_wood_nest
-aether:aether_dirt_ore
-aether:ambrosium_ore
 minecraft:amethyst_geode
 naturesaura:ancient_tree
 naturesaura:aura_bloom
@@ -14,7 +12,6 @@ minecraft:bamboo_some_podzol
 minecraft:bamboo_vegetation
 minecraft:basalt_blobs
 minecraft:basalt_pillar
-aether:berry_bush_patch
 forbidden_arcanus:big_fungyss_0
 forbidden_arcanus:big_fungyss_1
 minecraft:birch
@@ -32,7 +29,6 @@ geophilic:block_patches/gravel_sparse_medium
 geophilic:block_patches/podzol_large_patch
 geophilic:block_patches/stone_dense_small
 geophilic:block_piles/ice
-aether:blue_aercloud
 minecraft:blue_ice
 minecraft:bonus_chest
 witherstormmod:bowels_podium
@@ -61,7 +57,6 @@ twilightforest:cicada_lamppost
 minecraft:clay_pool_with_dripleaves
 minecraft:clay_with_dripleaves
 productivebees:coarse_dirt_nest
-aether:cold_aercloud
 witherstormmod:command_block_podium
 naturesaura:crimson_aura_mushroom
 minecraft:crimson_forest_vegetation
@@ -70,8 +65,6 @@ minecraft:crimson_fungus
 productivebees:crimson_fungus_bees
 productivebees:crimson_fungus_bees_grown
 minecraft:crimson_fungus_planted
-aether:crystal_island
-aether:crystal_tree
 iceandfire:cyclops_cave
 twilightforest:dark_dead_bushes
 twilightforest:dark_ferns
@@ -134,17 +127,10 @@ iceandfire:frost_lily
 minecraft:glow_lichen
 minecraft:glowstone_extra
 productivebees:glowstone_nest
-aether:golden_aercloud
-aether:golden_oak_tree
-aether:grass_patch
 productivebees:gravel_nest
 twilightforest:graveyard
-aether:gravitite_ore
-aether:gravitite_ore_buried
 twilightforest:grove_ruins
 occultism:grove_underground
-aether:holiday_tree
-lost_aether_content:holiday_tree
 twilightforest:hollow_log
 twilightforest:hollow_stump
 minecraft:huge_brown_mushroom
@@ -158,7 +144,6 @@ minecraft:ice_patch
 minecraft:ice_spike
 minecraft:iceberg_blue
 minecraft:iceberg_packed
-aether:icestone_ore
 eidolon:illwood_spawn
 eidolon:illwood_tree
 minecraft:jungle_bush
@@ -330,13 +315,10 @@ minecraft:pile_melon
 minecraft:pile_pumpkin
 minecraft:pile_snow
 minecraft:pine
-lost_aether_content:pink_aercloud
 iceandfire:pixie_village
 twilightforest:plant_roots
 minecraft:pointed_dripstone
 twilightforest:pumpkin_lamppost
-aether:purple_flower_patch
-aether:quicksoil_shelf
 geophilic:rocks/cobblestone
 geophilic:rocks/mossy_cobblestone
 geophilic:rocks/red_sandstone
@@ -360,7 +342,6 @@ iceandfire:silver_ore
 twilightforest:simple_well
 minecraft:single_piece_of_grass
 iceandfire:siren_island
-aether:skyroot_tree
 productivebees:slimy_nest
 twilightforest:small_andesite
 minecraft:small_basalt_columns
@@ -394,7 +375,6 @@ productivebees:sugar_cane_nest
 minecraft:super_birch_bees
 minecraft:super_birch_bees_0002
 minecraft:swamp_oak
-aether:tall_grass_patch
 minecraft:tall_mangrove
 twilightforest:tf_oak_fallen_log
 twilightforest:thorns
@@ -478,7 +458,6 @@ minecraft:trees_old_growth_pine_taiga
 minecraft:trees_old_growth_spruce_taiga
 minecraft:trees_plains
 minecraft:trees_savanna
-aether:trees_skyroot_and_golden_oak
 minecraft:trees_sparse_jungle
 minecraft:trees_taiga
 minecraft:trees_water
@@ -509,11 +488,7 @@ minecraft:warped_fungus
 productivebees:warped_fungus_bees
 productivebees:warped_fungus_bees_grown
 minecraft:warped_fungus_planted
-aether:water_lake
 twilightforest:water_lake
-aether:water_spring
 twilightforest:webs
 minecraft:weeping_vines
 twilightforest:well_placer
-aether:white_flower_patch
-aether:zanite_ore

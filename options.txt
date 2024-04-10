@@ -15,7 +15,7 @@ reducedDebugInfo:false
 showSubtitles:false
 directionalAudio:false
 touchscreen:false
-fullscreen:true
+fullscreen:false
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -31,7 +31,7 @@ glintStrength:0.75
 damageTiltStrength:1.0
 highContrast:false
 gamma:1.0
-renderDistance:10
+renderDistance:24
 simulationDistance:10
 entityDistanceScaling:1.0
 guiScale:3
@@ -122,9 +122,6 @@ key_key.dragon_fireAttack:key.keyboard.r
 key_key.dragon_strike:key.keyboard.g
 key_key.dragon_down:key.keyboard.x
 key_key.dragon_change_view:key.keyboard.f7
-key_key.aether.open_accessories.desc:key.keyboard.i
-key_key.aether.gravitite_jump_ability.desc:key.keyboard.space
-key_key.aether.invisibility_toggle.desc:key.keyboard.v
 key_placebo.toggleTrails:key.keyboard.keypad.9
 key_placebo.toggleWings:key.keyboard.keypad.8
 key_key.modernfix.config:key.keyboard.unknown
@@ -192,6 +189,7 @@ key_key.ae2.portable_fluid_cell:key.keyboard.unknown
 key_key.ae2.wireless_pattern_encoding_terminal:key.keyboard.unknown
 key_key.ae2.wireless_terminal:key.keyboard.unknown
 key_key.epp.viewpattern:key.keyboard.p
+key_shimmer.key.pickColor:key.keyboard.v
 key_key.structurize.teleport:key.keyboard.unknown
 key_key.structurize.move_forward:key.keyboard.up
 key_key.structurize.move_back:key.keyboard.down

@@ -59,10 +59,6 @@ minecraft:plains
 minecraft:river
 minecraft:savanna
 minecraft:savanna_plateau
-aether:skyroot_forest
-aether:skyroot_grove
-aether:skyroot_meadow
-aether:skyroot_woodland
 minecraft:small_end_islands
 minecraft:snowy_beach
 twilightforest:snowy_forest
