@@ -16,7 +16,8 @@
     "reachDistance": 0.0,
     "debug": false,
     "itemModNameTooltip": true,
-    "bossBarOverlapMode": "PUSH_DOWN"
+    "bossBarOverlapMode": "PUSH_DOWN",
+    "builtinCamouflage": true
   },
   "overlay": {
     "activeTheme": "jade:dark",
@@ -28,7 +29,7 @@
     "overlayAnchorY": 0.0,
     "overlaySquare": false,
     "flipMainHand": false,
-    "autoScaleThreshold": 0.5,
+    "autoScaleThreshold": 0.4,
     "alpha": 0.7,
     "iconMode": "TOP",
     "animation": true,

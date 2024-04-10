@@ -2,12 +2,12 @@
   "minecraft": {
     "item_storage.show_name_amount": 5,
     "furnace": true,
-    "harvest_tool.show_unbreakable": true,
+    "harvest_tool.show_unbreakable": false,
     "animal_owner": true,
     "animal_owner.fetch_names": true,
     "harvest_tool.effective_tool": true,
-    "item_storage.normal_amount": 9,
     "item_storage": true,
+    "item_storage.normal_amount": 9,
     "harvest_tool": true,
     "armor_stand": true,
     "fluid_storage.detailed": false,
@@ -51,6 +51,20 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "tombstone": {
+    "graves": true
+  },
+  "entangled": {
+    "entangled_block_component": true
+  },
+  "pneumaticcraft": {
+    "pneumatic": true,
+    "tube_module": true,
+    "entity": true,
+    "redstone": true,
+    "camo": true,
+    "semiblock": true
+  },
   "gtceu": {
     "recipe_logic_provider": true,
     "workable_provider": true,
@@ -65,6 +79,10 @@
     "registry_name": "OFF",
     "mod_name": true
   },
+  "expatternprovider": {
+    "jade_chamber": true,
+    "jade_wireless": true
+  },
   "ae2": {
     "part_icon": true,
     "charger": true,
@@ -76,5 +94,40 @@
     "power_storage": true,
     "crafting_monitor": true,
     "part_name": true
+  },
+  "productivebees": {
+    "solitary_nest": true,
+    "jar": true,
+    "canvas_beehive": true,
+    "bee_attributes": true,
+    "productive_bee": true
+  },
+  "extendedcrafting": {
+    "elite_auto_table": true,
+    "ender_crafter": true,
+    "basic_auto_table": true,
+    "flux_crafter": true,
+    "advanced_table": true,
+    "auto_ender_crafter": true,
+    "ultimate_table": true,
+    "ultimate_auto_table": true,
+    "elite_table": true,
+    "basic_table": true,
+    "crafting_core": true,
+    "advanced_auto_table": true,
+    "compressor": true
+  },
+  "ars_nouveau": {
+    "mob_jar": true
+  },
+  "twilightforest": {
+    "quest_ram_wool": true
+  },
+  "jadecolonies": {
+    "colony.citizens": true,
+    "colony.visitor_cost": true,
+    "colony.pack": true,
+    "colony.colonist": true,
+    "domum.materials": true
   }
 }

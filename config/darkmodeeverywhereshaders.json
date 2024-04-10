@@ -3,12 +3,12 @@
     null,
     {
       "texShaderLocation": {
-        "field_13353": "darkmodeeverywhere",
-        "field_13355": "dark_position_tex"
+        "f_135804_": "darkmodeeverywhere",
+        "f_135805_": "dark_position_tex"
       },
       "texColorShaderLocation": {
-        "field_13353": "darkmodeeverywhere",
-        "field_13355": "dark_position_tex_color"
+        "f_135804_": "darkmodeeverywhere",
+        "f_135805_": "dark_position_tex_color"
       },
       "displayName": {
         "translate": "gui.darkmodeeverywhere.perfect_dark"
@@ -18,12 +18,12 @@
     },
     {
       "texShaderLocation": {
-        "field_13353": "darkmodeeverywhere",
-        "field_13355": "dark_position_tex"
+        "f_135804_": "darkmodeeverywhere",
+        "f_135805_": "dark_position_tex"
       },
       "texColorShaderLocation": {
-        "field_13353": "darkmodeeverywhere",
-        "field_13355": "dark_position_tex_color"
+        "f_135804_": "darkmodeeverywhere",
+        "f_135805_": "dark_position_tex_color"
       },
       "displayName": {
         "translate": "gui.darkmodeeverywhere.less_perfect_dark"
@@ -33,12 +33,12 @@
     },
     {
       "texShaderLocation": {
-        "field_13353": "darkmodeeverywhere",
-        "field_13355": "dark_position_tex"
+        "f_135804_": "darkmodeeverywhere",
+        "f_135805_": "dark_position_tex"
       },
       "texColorShaderLocation": {
-        "field_13353": "darkmodeeverywhere",
-        "field_13355": "dark_position_tex_color"
+        "f_135804_": "darkmodeeverywhere",
+        "f_135805_": "dark_position_tex_color"
       },
       "displayName": {
         "translate": "gui.darkmodeeverywhere.toasted_light"

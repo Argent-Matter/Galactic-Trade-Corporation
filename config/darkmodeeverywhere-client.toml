@@ -7,6 +7,14 @@ METHOD_SHADER_BLACKLIST = ["mezz.jei.common.render.FluidTankRenderer:drawTexture
 #Use this feature to help find the render method strings of GUIs you would like to blacklist.
 METHOD_SHADER_DUMP = false
 
+["Inventory Button"]
+	#Pixels away from the left of the GUI in the x axis
+	#Range: > 0
+	X = 32
+	#Pixels away from the bottom of the GUI in the y axis
+	#Range: > 0
+	Y = 2
+
 ["Main Menu Button"]
 	#Enabled
 	SHOW = true
@@ -16,12 +24,4 @@ METHOD_SHADER_DUMP = false
 	#Pixels away from the bottom of the GUI in the y axis
 	#Range: > 0
 	MAIN_Y = 40
-
-["Inventory Button"]
-	#Pixels away from the left of the GUI in the x axis
-	#Range: > 0
-	X = 32
-	#Pixels away from the bottom of the GUI in the y axis
-	#Range: > 0
-	Y = 2
 

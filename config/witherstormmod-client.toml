@@ -1,0 +1,78 @@
+
+#Client options
+[client]
+	#DEFAULT=true. Toggles the OptiFine warning upon joining a world. NONE
+	optifineWarning = true
+	#DEFAULT=true. Toggles April Fools special effects. NONE
+	aprilFools = true
+	#DEFAULT=true. Toggles the patron cosmetic for nonamecrackers2's Wither Storm backers. NONE
+	patronCosmetic = true
+	#DEFAULT=true. Toggles the custom main menu panorama added by the mod. NONE
+	customPanorama = true
+
+	#Compatibility
+	[client.compatibility]
+		#DEFAULT=true. Uses the sphere fog shape instead of a cylindrical one, to allow the fog on the Wither Storm to be applied correctly. Disable if facing potential incompatibility issues. NONE
+		alternativeEntityFogShape = true
+		#DEFAULT=true. The distant renderer allows for the Wither Storm to be rendered from much greater distances than what vanilla allows. Disable if you're facing issues with it. NONE
+		distantRenderer = true
+		#DEFAULT=true. Specifies if an overlay should be applied to entities that renders wither sickness. GAME
+		witherSicknessLayer = true
+
+	#Accessibility
+	[client.accessibility]
+		#DEFAULT=true. Toggle to enable/disable the chromatic aberration effect. NONE
+		chromaticAberration = true
+		#DEFAULT=true. Specifies whether or not a white overlay should cover the screen during certain events. NONE
+		blindingEffects = true
+		#DEFAULT=true. Specifies whether or not camera shake effects should be used. NONE
+		cameraShakeEffects = true
+		#DEFAULT=true. Turn off to disable the ear ringing effects used in the mod. NONE
+		earRingingEffects = true
+
+	#Preference
+	[client.preference]
+		#DEFAULT=true. Toggles the rendering of the debris cloud surrounding the Wither Storm. NONE
+		renderDebrisCloud = true
+		#DEFAULT=true. Toggles the rendering of debris rings that surround the Wither Storm (much more performant than the debris cloud). NONE
+		renderDebrisRings = true
+		#DEFAULT=true. Toggles the rendering of the tractor beams. NONE
+		renderTractorBeams = true
+		#DEFAULT=true. Turn off to disable the overlay that appears when inside a tractor beam. NONE
+		renderTractorBeamOverlay = true
+		#DEFAULT=true. Specifies if sky ambience affects (sky darkening) should render when a Wither Storm is nearby. NONE
+		renderSkyAmbienceEffects = true
+		#DEFAULT=true. Specifies if particles inside the tractor beams of the Wither Storm should render. NONE
+		tractorBeamParticles = true
+		#DEFAULT=true. Specifies if fog should be applied to Wither Storms being rendered from a distance. NONE
+		distantFog = true
+		#DEFAULT=true. Specifies if a purple shine should render behind the Wither Storm at night. NONE
+		renderShine = true
+		#DEFAULT=true. Specifies if a pulsating effect, mimicking endermen pulling the Wither Storm apart, should be rendered once its evolution is complete. NONE
+		renderPulse = true
+
+	#Boss music
+	[client.boss_music]
+		#DEFAULT=false. Toggles the Wither Storm boss theme. NOTE: this theme is from MC:SM and is subject to copyright. NONE
+		playWitherStormTheme = false
+		#DEFAULT=true. Toggles the Withered Symbiont theme, created for CWSM by Mar Mar. NONE
+		playSymbiontTheme = true
+
+	#Instancing
+	[client.instancing]
+		#DEFAULT=true. Specifies if CWSM should use more performant rendering when rendering Block Clusters and the Wither Storm's mass. NOTE: It is not recommended to disable this option unless necessary. NONE
+		vertexBufferRendering = true
+		#DEFAULT=true. Builds instanced vertex buffers off thread to help reduce stuttering. It is only recommended to disable this if facing compatibility issues. NONE
+		asyncBufferBuilders = true
+
+	#Performance
+	[client.performance]
+		#DEFAULT=true. Setting this value to false will disable the debris cloud when rendering the Wither Storm from large distances. NONE
+		renderDistantDebris = true
+		#DEFAULT=false. Specifies if the low res models should be used when being rendered via the distant renderer. NONE
+		witherStormLOD = false
+		#DEFAULT=false. Uses larger cubes to make up the the phase 4 and up models. May result in a performance increase. NONE
+		lowResModels = false
+		#DEFAULT=true. Toggles the rendering of Block Clusters. NONE
+		blockClusterRendering = true
+

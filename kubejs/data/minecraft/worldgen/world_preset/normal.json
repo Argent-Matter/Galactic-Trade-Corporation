@@ -1,0 +1,41 @@
+{
+    "dimensions": {
+      "minecraft:overworld": {
+        "type": "minecraft:overworld",
+        "generator": {
+          "type": "minecraft:flat",
+          "settings": {
+            "biome": "minecraft:flower_forest",
+            "lakes": false,
+            "features": false,
+            "layers": [
+            ],
+            "structure_overrides": [
+              
+            ]
+          }
+        }
+      },
+      "minecraft:the_nether": {
+        "type": "minecraft:the_nether",
+        "generator": {
+          "type": "minecraft:noise",
+          "settings": "minecraft:nether",
+          "biome_source": {
+            "type": "minecraft:multi_noise",
+            "preset": "minecraft:nether"
+          }
+        }
+      },
+      "minecraft:the_end": {
+        "type": "minecraft:the_end",
+        "generator": {
+          "type": "minecraft:noise",
+          "settings": "minecraft:end",
+          "biome_source": {
+            "type": "minecraft:the_end"
+          }
+        }
+      }
+    }
+  }
