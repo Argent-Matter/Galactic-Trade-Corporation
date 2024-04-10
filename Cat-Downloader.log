@@ -1,42 +1,42 @@
-[10-04-2024 17:09:44.603] [INFO] Old Log file found! "C:\Users\Borka Patrik\AppData\Roaming\PrismLauncher\instances\Galactic Trade Corporation Dev(1)\.minecraft\.\Cat-Downloader.log" file replaced with empty one.
-[10-04-2024 17:09:44.610] [INFO] Logger Initialization completed.
-[10-04-2024 17:09:44.610] [INFO] Cat Downloader version: 1.1
-[10-04-2024 17:09:44.611] [INFO] Running with arguments:
-[10-04-2024 17:09:44.611] [INFO] ---------------------------------------------------------------------
-[10-04-2024 17:09:44.611] [INFO] Program Configuration from Arguments:
-[10-04-2024 17:09:44.612] [INFO] · Working directory: 
-[10-04-2024 17:09:44.613] [INFO] - Full Path: C:\Users\Borka Patrik\AppData\Roaming\PrismLauncher\instances\Galactic Trade Corporation Dev(1)\.minecraft
-[10-04-2024 17:09:44.613] [INFO] · Program Mode: instance
-[10-04-2024 17:09:44.614] [INFO] · Thread count for downloads: 16
-[10-04-2024 17:09:44.614] [INFO] · Download attempts for re-downloads: 5
-[10-04-2024 17:09:44.614] [INFO] · Settings enabled: true
-[10-04-2024 17:09:44.615] [INFO] · Default Settings from the template: true
-[10-04-2024 17:09:44.615] [INFO] · Settings Path: 
-[10-04-2024 17:09:44.616] [INFO] - Full Path: C:\Users\Borka Patrik\AppData\Roaming\PrismLauncher\instances\Galactic Trade Corporation Dev(1)\.minecraft
-[10-04-2024 17:09:44.616] [INFO] · Hash Verification: true
-[10-04-2024 17:09:44.616] [INFO] · File Size Verification: true
-[10-04-2024 17:09:44.617] [INFO] ---------------------------------------------------------------------
-[10-04-2024 17:09:44.646] [INFO] Settings initialization started.
-[10-04-2024 17:09:44.648] [INFO] Found settings file!
-[10-04-2024 17:09:44.648] [INFO] - Path to settings file: C:\Users\Borka Patrik\AppData\Roaming\PrismLauncher\instances\Galactic Trade Corporation Dev(1)\.minecraft\Cat-Downloader-Legacy Settings.json5
-[10-04-2024 17:09:44.649] [INFO] Parsing data from settings file...
-[10-04-2024 17:09:44.659] [INFO] Parsing of Settings was successful!
-[10-04-2024 17:09:44.660] [INFO] Validating settings...
-[10-04-2024 17:09:44.660] [INFO] Loading Settings data to Argument Decoder...
-[10-04-2024 17:09:44.661] [INFO] ---------------------------------------------------------------------
-[10-04-2024 17:09:44.661] [INFO] Program Configuration from Settings:
-[10-04-2024 17:09:44.661] [INFO] · Working directory: 
-[10-04-2024 17:09:44.662] [INFO] - Full Path: C:\Users\Borka Patrik\AppData\Roaming\PrismLauncher\instances\Galactic Trade Corporation Dev(1)\.minecraft
-[10-04-2024 17:09:44.662] [INFO] · Program Mode: instance
-[10-04-2024 17:09:44.662] [INFO] · Thread count for downloads: 16
-[10-04-2024 17:09:44.663] [INFO] · Download attempts for re-downloads: 5
-[10-04-2024 17:09:44.663] [INFO] · Settings enabled: true
-[10-04-2024 17:09:44.664] [INFO] · Default Settings from the template: true
-[10-04-2024 17:09:44.664] [INFO] · Settings Path: 
-[10-04-2024 17:09:44.664] [INFO] - Full Path: C:\Users\Borka Patrik\AppData\Roaming\PrismLauncher\instances\Galactic Trade Corporation Dev(1)\.minecraft
-[10-04-2024 17:09:44.665] [INFO] · Hash Verification: true
-[10-04-2024 17:09:44.665] [INFO] · File Size Verification: true
-[10-04-2024 17:09:44.665] [INFO] ---------------------------------------------------------------------
-[10-04-2024 17:09:44.666] [INFO] Loading data to ARD finished!
-[10-04-2024 17:09:44.666] [INFO] Initialization of Settings finished.
-[10-04-2024 17:09:44.667] [ERROR] Manifest file not found! Make sure you are running in correct mode.
+[10-04-2024 17:16:06.853] [INFO] Old Log file found! "C:\Users\Borka Patrik\AppData\Roaming\PrismLauncher\instances\Galactic Trade Corporation Dev(1)\.minecraft\.\Cat-Downloader.log" file replaced with empty one.
+[10-04-2024 17:16:06.860] [INFO] Logger Initialization completed.
+[10-04-2024 17:16:06.860] [INFO] Cat Downloader version: 1.1
+[10-04-2024 17:16:06.861] [INFO] Running with arguments:
+[10-04-2024 17:16:06.861] [INFO] ---------------------------------------------------------------------
+[10-04-2024 17:16:06.862] [INFO] Program Configuration from Arguments:
+[10-04-2024 17:16:06.863] [INFO] · Working directory: 
+[10-04-2024 17:16:06.864] [INFO] - Full Path: C:\Users\Borka Patrik\AppData\Roaming\PrismLauncher\instances\Galactic Trade Corporation Dev(1)\.minecraft
+[10-04-2024 17:16:06.865] [INFO] · Program Mode: instance
+[10-04-2024 17:16:06.866] [INFO] · Thread count for downloads: 16
+[10-04-2024 17:16:06.867] [INFO] · Download attempts for re-downloads: 5
+[10-04-2024 17:16:06.867] [INFO] · Settings enabled: true
+[10-04-2024 17:16:06.868] [INFO] · Default Settings from the template: true
+[10-04-2024 17:16:06.868] [INFO] · Settings Path: 
+[10-04-2024 17:16:06.869] [INFO] - Full Path: C:\Users\Borka Patrik\AppData\Roaming\PrismLauncher\instances\Galactic Trade Corporation Dev(1)\.minecraft
+[10-04-2024 17:16:06.869] [INFO] · Hash Verification: true
+[10-04-2024 17:16:06.869] [INFO] · File Size Verification: true
+[10-04-2024 17:16:06.870] [INFO] ---------------------------------------------------------------------
+[10-04-2024 17:16:06.902] [INFO] Settings initialization started.
+[10-04-2024 17:16:06.903] [INFO] Found settings file!
+[10-04-2024 17:16:06.903] [INFO] - Path to settings file: C:\Users\Borka Patrik\AppData\Roaming\PrismLauncher\instances\Galactic Trade Corporation Dev(1)\.minecraft\Cat-Downloader-Legacy Settings.json5
+[10-04-2024 17:16:06.904] [INFO] Parsing data from settings file...
+[10-04-2024 17:16:06.914] [INFO] Parsing of Settings was successful!
+[10-04-2024 17:16:06.914] [INFO] Validating settings...
+[10-04-2024 17:16:06.915] [INFO] Loading Settings data to Argument Decoder...
+[10-04-2024 17:16:06.916] [INFO] ---------------------------------------------------------------------
+[10-04-2024 17:16:06.916] [INFO] Program Configuration from Settings:
+[10-04-2024 17:16:06.916] [INFO] · Working directory: 
+[10-04-2024 17:16:06.917] [INFO] - Full Path: C:\Users\Borka Patrik\AppData\Roaming\PrismLauncher\instances\Galactic Trade Corporation Dev(1)\.minecraft
+[10-04-2024 17:16:06.917] [INFO] · Program Mode: instance
+[10-04-2024 17:16:06.918] [INFO] · Thread count for downloads: 16
+[10-04-2024 17:16:06.918] [INFO] · Download attempts for re-downloads: 5
+[10-04-2024 17:16:06.919] [INFO] · Settings enabled: true
+[10-04-2024 17:16:06.919] [INFO] · Default Settings from the template: true
+[10-04-2024 17:16:06.919] [INFO] · Settings Path: 
+[10-04-2024 17:16:06.920] [INFO] - Full Path: C:\Users\Borka Patrik\AppData\Roaming\PrismLauncher\instances\Galactic Trade Corporation Dev(1)\.minecraft
+[10-04-2024 17:16:06.920] [INFO] · Hash Verification: true
+[10-04-2024 17:16:06.920] [INFO] · File Size Verification: true
+[10-04-2024 17:16:06.920] [INFO] ---------------------------------------------------------------------
+[10-04-2024 17:16:06.921] [INFO] Loading data to ARD finished!
+[10-04-2024 17:16:06.921] [INFO] Initialization of Settings finished.
+[10-04-2024 17:16:06.922] [ERROR] Manifest file not found! Make sure you are running in correct mode.
