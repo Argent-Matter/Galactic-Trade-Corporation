@@ -14,7 +14,7 @@
 
 !/mods/systeams*
 
-/mods/.index
+/mods/.index*
 /mods/.connector
 /mods/memoryleakfix*
 
